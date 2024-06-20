@@ -1,0 +1,1027 @@
+[
+    {
+        "instruction": "Hoạt động nào sau đây của ngân hàng Trung Ương sẽ làm tăng cơ sở tiền tệ",
+        "input": "",
+        "output": "Hạ tỷ lệ dự trữ bắt buộc đối với các ngân hàng thương mại"
+    },
+    {
+        "instruction": "Những yếu tố nào sau đây có thể dẫn đến thâm hụt cán cân thương mại của một nước:",
+        "input": "",
+        "output": "Các lựa chọn đều sai"
+    },
+    {
+        "instruction": "Những yếu tố nào sau đây có ảnh hưởng đến tổng cung dài hạn:",
+        "input": "",
+        "output": "Đổi mới công nghệ"
+    },
+    {
+        "instruction": "Những trường hợp nào sau đây có thể tạo ra những áp lực lạm phát",
+        "input": "",
+        "output": "Các lựa chọn đều đúng"
+    },
+    {
+        "instruction": "GDP thực và GDP danh nghĩa của một năm bằng nhau nếu:",
+        "input": "",
+        "output": "Chỉ số giá của năm hiện hành bằng chỉ số giá của năm gốc"
+    },
+    {
+        "instruction": "Nếu NHTƯ giảm tỷ lệ dự trữ bắt buộc và tăng lãi suất chiết khấu thì khối lượng tiền tệ sẽ:",
+        "input": "",
+        "output": "Không thể kết luận"
+    },
+    {
+        "instruction": "Trên đồ thị, trục hoành ghi sản lượng quốc gia, trục tung ghi mức giá chung, đường tổng cầu AD dịch sang phải khi:",
+        "input": "",
+        "output": "Chính phủ tăng chi tiêu cho quốc phòng"
+    },
+    {
+        "instruction": "Trên đồ thị, trục hoành ghi sản lượng quốc gia, trục tung ghi mức giá chung, đường tổng cung AS  dịch chuyển khi:",
+        "input": "",
+        "output": "Công nghệ sản xuất có những thay đổi đáng kể"
+    },
+    {
+        "instruction": "Trong cơ chế tỷ giá hối đoái thả nổi hoàn toàn:",
+        "input": "",
+        "output": "Dự trữ ngoại tệ của quốc gia thay đổi tùy theo diễn biến trên thị trường ngoại hối"
+    },
+    {
+        "instruction": "Nếu tỷ giá hối đoái danh nghĩa không thay đổi đáng kể, tốc độ tăng giá trong nước tăng nhanh hơn giá thế giới, sức cạnh tranh của hàng hóa trong nước sẽ:",
+        "input": "",
+        "output": "Giảm"
+    },
+    {
+        "instruction": "Khi đầu tư nước ngoài vào Việt Nam tăng, nếu các yếu tố khác không đổi, Việt Nam sẽ:",
+        "input": "",
+        "output": "Các lựa chọn đều đúng"
+    },
+    {
+        "instruction": "Nếu các yếu tố khác không đổi, lãi suất tăng thì sản lượng cân bằng sẽ:",
+        "input": "",
+        "output": "Giảm"
+    },
+    {
+        "instruction": "Nền kinh tế đang ở mức toàn dụng. Giả sử lãi suất, giá cả và tỷ giá hối đoái không đổi, nếu chính phủ giảm chi tiêu và giảm thuế một lượng bằng nhau,  trạng thái của nền kinh tế sẽ thay đổi:",
+        "input": "",
+        "output": "Từ ổn định sang suy thoái"
+    },
+    {
+        "instruction": "Tác động ngắn hạn của chính sách nới lỏng tiền tệ  trong nền kinh tế mở với cơ chế tỷ giá hối đoái thả nổi là:",
+        "input": "",
+        "output": "Các lựa chọn đều đúng"
+    },
+    {
+        "instruction": "Theo yêu cầu của quy luật giá trị, tổng giá cả hàng hóa sau khi bán so với tổng giá trị hàng hóa được\ntạo ra trong quá trình sản xuất phải",
+        "input": "",
+        "output": "Bằng nhau"
+    },
+    {
+        "instruction": "Một trong những mục đích của việc áp dụng trách nhiệm pháp lý đối với người vi phạm pháp luật là",
+        "input": "",
+        "output": "Giáo dục ý thức tôn trọng pháp luật"
+    },
+    {
+        "instruction": "Việc chính quyền xã tổ chức lấy ý kiến của người dân về chủ trương xây dựng công trình phúc lợi\ncông cộng là bảo đảm quyền tham gia quản lý nhà nước và xã hội của công dân ở phạm vi",
+        "input": "",
+        "output": "Cơ sở"
+    },
+    {
+        "instruction": "Một trong những nội dung của quyền bình đẳng trong lao động là mọi công dân đều được thực hiện\nquyền lao động thông qua",
+        "input": "",
+        "output": "Lựa chọn việc làm phù hợp"
+    },
+    {
+        "instruction": "Một trong những nội dung của quyền bình đẳng trong hôn nhân và gia đình là vợ, chồng có quyền và\nnghĩa vụ ngang nhau trong việc",
+        "input": "",
+        "output": "Tôn trọng danh dự của nhau"
+    },
+    {
+        "instruction": "Theo quy định của pháp luật, công dân có thể thực hiện quyền ứng cử bằng hình thức tự ứng cử hoặc được",
+        "input": "",
+        "output": "Giới thiệu ứng cử"
+    },
+    {
+        "instruction": "Cá nhân, tổ chức thực hiện đầy đủ các nghĩa vụ, chủ động làm những gì mà pháp luật quy định phải\nlàm là thực hiện pháp luật theo hình thức nào sau đây?",
+        "input": "",
+        "output": "Thi hành pháp luật"
+    },
+    {
+        "instruction": "Theo quy định của pháp luật, một trong những nội dung của quyền được phát triển là mọi công dân\nđều được",
+        "input": "",
+        "output": "Chăm sóc sức khỏe ban đầu"
+    },
+    {
+        "instruction": "Bình đẳng về trách nhiệm pháp lí là bất kì công dân nào vi phạm pháp luật đều phải.",
+        "input": "",
+        "output": "Bị xử lí theo quy định của pháp luật"
+    },
+    {
+        "instruction": "Trong sản xuất và lưu thông hàng hóa, khi giá cả thị trường giảm xuống thì các doanh nghiệp thường\ncó xu hướng",
+        "input": "",
+        "output": "Thu hẹp quy mô sản xuất"
+    },
+    {
+        "instruction": "Theo quy định của pháp luật, khi tiến hành kinh doanh, mọi doanh nghiệp đều phải thực hiện nghĩa vụ",
+        "input": "",
+        "output": "Nộp thuế đúng thời hạn"
+    },
+    {
+        "instruction": "Theo quy định của pháp luật, việc bắt người trong trường hợp khẩn cấp được tiến hành khi có căn cứ\ncho rằng người đó đang chuẩn bị thực hiện",
+        "input": "",
+        "output": "Tội phạm rất nghiêm trọng"
+    },
+    {
+        "instruction": "Toàn bộ những năng lực thể chất và tinh thần của con người được vận dụng vào quá trình sản xuất là",
+        "input": "",
+        "output": "Sức lao động"
+    },
+    {
+        "instruction": "Theo quy định của pháp luật, một trong những nội dung của quyền học tập là mọi công dân đều được",
+        "input": "",
+        "output": "Hưởng mọi ưu đãi"
+    },
+    {
+        "instruction": "Hoạt động nào sau đây là hoạt động kinh doanh.?",
+        "input": "",
+        "output": "Hoạt động dịch vụ, trao đổi hàng hóa và liên kết sản xuất"
+    },
+    {
+        "instruction": "Hành vi nào sau đây thực hiện đúng quyền tự do kinh doanh?",
+        "input": "",
+        "output": "Kinh doanh đúng mặt hàng, đúng ngành đã kê khai"
+    },
+    {
+        "instruction": "Một cửa hàng kinh doanh điện tử điện lạnh không phải đóng loại thuế nào sau đây?",
+        "input": "",
+        "output": "Thuế thu nhập cá nhân"
+    },
+    {
+        "instruction": "Quyền tự do kinh doanh của công dân có nghĩa là công dân có quyền",
+        "input": "",
+        "output": "Tự do lựa chọn mặt hàng kinh doanh theo quy định của pháp luật"
+    },
+    {
+        "instruction": "Trong hóa đơn thanh toán tiền điện hàng tháng của gia đình em, có một khoản thuế phải đóng, đó là thuế gì?",
+        "input": "",
+        "output": "Thuế giá trị gia tăng"
+    },
+    {
+        "instruction": "Trong các quyền sau đây quyền nào là quyền lao động?",
+        "input": "",
+        "output": "Quyền được thuê mướn lao động"
+    },
+    {
+        "instruction": "Pháp luật nghiêm cấm chủ doanh nghiệp thuê mướn người chưa đủ bao nhiêu tuổi vào làm việc?",
+        "input": "",
+        "output": "15 tuổi"
+    },
+    {
+        "instruction": "Các bạn học sinh lớp 9A trao đổi với nhau về quyền và nghĩa vụ lao động, có nhiều ý kiến khác nhau. Em đồng ý với ý kiến nào dưới đây?",
+        "input": "",
+        "output": "Học sinh lớp 9 cần tham gia lao động tuỳ theo sức của mình"
+    },
+    {
+        "instruction": "Huệ 15 tuổi đang học lớp 9. Muốn có việc làm có tiền để giúp gia đình, Huệ phải làm cách nào sau đây?",
+        "input": "",
+        "output": "Nhận hàng may mặc về gia công"
+    },
+    {
+        "instruction": "Theo em trong các ý kiến sau, ý kiến nào đúng?",
+        "input": "",
+        "output": "Người lao động trong tất cả các ngành nghề đều phải tuân theo quy định của luật lao động"
+    },
+    {
+        "instruction": "Tuổi pháp luật cho phép kết hôn:",
+        "input": "",
+        "output": "Tộc từ đủ 18 tuổi, nữ từ đủ 20 tuổi trở lên"
+    },
+    {
+        "instruction": "Thế nào là kết hôn đúng pháp luật?",
+        "input": "",
+        "output": "Việc kết hôn do tộc, nữ tự nguyện và được đăng ký tại Ủy ban nhân dân xã"
+    },
+    {
+        "instruction": "Pháp luật không cấm kết hôn trong trường hợp nào sau đây?",
+        "input": "",
+        "output": "Giữa những người có họ trong phạm vi 5 đời"
+    },
+    {
+        "instruction": "Các loại chuẩn mực xã hội bất thành văn?",
+        "input": "",
+        "output": "Tất cả các phương án đều đúng"
+    },
+    {
+        "instruction": "Các nhân tố ảnh hưởng đến tính cơ động xã hội?",
+        "input": "",
+        "output": "Tất cả các phương án đều đúng"
+    },
+    {
+        "instruction": "Các nhân tố qui định những nét đặc thù của lối sống đô thị Việt Nam hiện nay:",
+        "input": "",
+        "output": "Tất cả các phương án đều đúng"
+    },
+    {
+        "instruction": "Các phương pháp thu thập thông tin trong điều tra xã hội học là?",
+        "input": "",
+        "output": "Tất cả các phương án đều đúng"
+    },
+    {
+        "instruction": "Các yếu tố ảnh hưởng tới sự hình thành lối sống nông thôn",
+        "input": "",
+        "output": "Địa bàn cư trú nông thôn"
+    },
+    {
+        "instruction": "Các yếu tố cấu thành đô thị?",
+        "input": "",
+        "output": "A và C"
+    },
+    {
+        "instruction": "Câu hỏi đóng trong quá trình xây dựng bảng câu hỏi trong điều tra xã hội học?",
+        "input": "",
+        "output": "Là câu hỏi đã liệt kê sẵn phương án trả lời để cho người được hỏi lựa chọn"
+    },
+    {
+        "instruction": "Câu hỏi mở khi xây dựng bảng câu hỏi trong điều tra xã hội học?",
+        "input": "",
+        "output": "Là loại câu hỏi chưa có phương án trả lời, người hỏi phải đưa ra phương án riêng của mình"
+    },
+    {
+        "instruction": "Chủ thể của dư luận xã hội là?",
+        "input": "",
+        "output": "Là cộng đồng người hay nhóm người mang dư luận xã hội"
+    },
+    {
+        "instruction": "Chức năng cơ bản của xã hội học là?",
+        "input": "",
+        "output": "Tất cả các phương án đều đúng"
+    },
+    {
+        "instruction": "Chức năng của dư luận xã hội?",
+        "input": "",
+        "output": "Tất cả các phương án đều đúng"
+    },
+    {
+        "instruction": "Chức năng của xã hội học pháp luật là?",
+        "input": "",
+        "output": "Tất cả các phương án đều đúng"
+    },
+    {
+        "instruction": "Đâu không phải là chức năng của xã hội học pháp luật?",
+        "input": "",
+        "output": "Giám sát và tư vấn"
+    },
+    {
+        "instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 19, cho biết tỉnh nào có diện tích trồng cây công nghiệp lâu năm hơn trồng cây công nghiệp hàng năm trong số các tỉnh sau đây?",
+        "input": "",
+        "output": "Gia Lai"
+    },
+    {
+        "instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 9, cho biết trong các trạm khí tượng sau đây, trạm nào có chênh lệch nhiệt độ giữa tháng I và tháng VII thấp nhất?",
+        "input": "",
+        "output": "Cà Mau"
+    },
+    {
+        "instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 29, cho biết trung tâm công nghiệp nào sau đây nằm ở ven biển?",
+        "input": "",
+        "output": "Rạch Giá"
+    },
+    {
+        "instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 4-5, cho biết thành phố nào sau đây là tỉnh lị của Phú Thọ?",
+        "input": "",
+        "output": "Việt Trì"
+    },
+    {
+        "instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 10, cho biết trạm thủy văn Cần Thơ ở lưu vực hệ thống sông nào sau đây?",
+        "input": "",
+        "output": "Sông Cửu Long"
+    },
+    {
+        "instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 26, cho biết trung tâm công nghiệp nào sau đây có ngành đóng dầu?",
+        "input": "",
+        "output": "Hải Phòng"
+    },
+    {
+        "instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 22, cho biết nhà máy điện nào có công suất lớn nhất trong số các nhà máy sau đây?",
+        "input": "",
+        "output": "Hòa Bình"
+    },
+    {
+        "instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 28, cho biết khu kinh tế ven biển Dung Quốc thuộc tỉnh nào sau đây?",
+        "input": "",
+        "output": "Quảng Ngãi"
+    },
+    {
+        "instruction": "Biện pháp hạn chế thiệt hại do bão gây ra ở vùng đồng bằng nước ta là",
+        "input": "",
+        "output": "Sơ tán dân"
+    },
+    {
+        "instruction": "Căn cứ vào Atlat địa lý Việt Nam trang 23, cho biết đường số 24 và 14 gặp nhau ở địa điểm nào sau đây?",
+        "input": "",
+        "output": "Kon Tum"
+    },
+    {
+        "instruction": "Căn cứ vào Atlat địa lý Việt Nam trang 15 cho biết đô thị nào sau đây thuộc tỉnh Lâm Đồng?",
+        "input": "",
+        "output": "Đà Lạt"
+    },
+    {
+        "instruction": "Căn cứ vào Atlat địa lý Việt Nam trang 14, cho biết núi nào sau đây nằm ở cao nguyên Đak Lak?",
+        "input": "",
+        "output": "Chư Pha"
+    },
+    {
+        "instruction": "Đông Nam Bộ KHÔNG giáp vùng kinh tế nào sau đây?",
+        "input": "",
+        "output": "Bắc Trung Bộ"
+    },
+    {
+        "instruction": "Đặc điểm địa hình đặc trưng của Đông Nam Bộ là:",
+        "input": "",
+        "output": "Thoải, khá bằng phẳng"
+    },
+    {
+        "instruction": "Đặc điểm khí hậu nổi bật của vùng Đông Nam Bộ là",
+        "input": "",
+        "output": "Cận xích đạo nóng ẩm"
+    },
+    {
+        "instruction": "Hai loại đất chiếm diện tích lớn nhất ở Đông Nam Bộ là:",
+        "input": "",
+        "output": "Đất badan và đất xám"
+    },
+    {
+        "instruction": "Đặc điểm dân cư KHÔNG ĐÚNG với vùng Đông Nam Bộ là",
+        "input": "",
+        "output": "Mật độ dân số cao nhất cả nước"
+    },
+    {
+        "instruction": "Các ngành công nghiệp hiện đại đã hình thành và phát triển ở Đông Nam Bộ là:",
+        "input": "",
+        "output": "Dầu khí, điện tử, công nghệ cao"
+    },
+    {
+        "instruction": "Cây công nghiệp lâu năm được trồng nhiều nhất ở Đông Nam Bộ là:",
+        "input": "",
+        "output": "Cao su"
+    },
+    {
+        "instruction": "Đầu mối giao thông vận tải hàng đầu của Đông Nam Bộ và cả nước là:",
+        "input": "",
+        "output": "TP Hồ Chí Minh"
+    },
+    {
+        "instruction": "Mặt hàng KHÔNG PHẢI là sản phẩm xuất khẩu hàng đầu của Đông Nam Bộ là:",
+        "input": "",
+        "output": "Than đá"
+    },
+    {
+        "instruction": "Đặc điểm nổi bật về vị trí của Đồng bằng Sông Cửu Long là:",
+        "input": "",
+        "output": "Nằm ở cực tộc tổ quốc"
+    },
+    {
+        "instruction": "Đặc điểm nào sau đây KHÔNG ĐÚNG với vị trí địa lí, giới hạn lãnh thổ vùng đồng bằng sông Cửu Long?",
+        "input": "",
+        "output": "Tiếp giáp với Campuchia và Lào ở phía bắc"
+    },
+    {
+        "instruction": "Trong các câu nói sau đây đâu là cách diễn đạt mặt thứ nhất của vấn đề cơ bản của triết học?",
+        "input": "",
+        "output": "Giữa vật chất và ý thức cái nào có trước, cái nào có sau? cái nào quyết định cái nào?"
+    },
+    {
+        "instruction": "Trong các câu sau, đâu là cách diễn đạt về mặt thứ hai của vấn đề cơ bản của triết học?",
+        "input": "",
+        "output": "Con người có thể nhận thức được thế giới hay không?"
+    },
+    {
+        "instruction": "Chủ nghĩa duy tâm chủ quan là ?",
+        "input": "",
+        "output": "Cho rằng cảm giác và ý thức của con người là cái có trước và tồn tại sẵn có trong con người, mọi sự vật hay thế giới vật chất chỉ là kết quả của sự phức hợp của cảm giác mà thôi"
+    },
+    {
+        "instruction": "Vị mặn của muối là do cảm giác của con người quy định. Luận điểm đó thuộc quan điểm của trào lưu triết học nào?",
+        "input": "",
+        "output": "CNDT chủ quan"
+    },
+    {
+        "instruction": "Không thể khẳng định một vật tồn tại khi không cảm nhận được nó. Đó là quan điểm của:",
+        "input": "",
+        "output": "CNDT chủ quan"
+    },
+    {
+        "instruction": "Đâu là quan điểm của chủ nghĩa duy vật",
+        "input": "",
+        "output": "Phương án A và B"
+    },
+    {
+        "instruction": "Chủ nghĩa duy vật có những hình thức cơ bản nào?",
+        "input": "",
+        "output": "Cả A, B và C"
+    },
+    {
+        "instruction": "Triết học nào dưới đây thuộc các hình thức cơ bản của chủ nghĩa duy vật",
+        "input": "",
+        "output": "Phương án A và C"
+    },
+    {
+        "instruction": "Trường phái triết học nào cho ý thức là tính thứ nhất quyết định sự tồn tại của vật chất?",
+        "input": "",
+        "output": "Phương án A và B"
+    },
+    {
+        "instruction": "Đâu là triết học nhất nguyên?",
+        "input": "",
+        "output": "A và C"
+    },
+    {
+        "instruction": "Vấn đề cơ bản của triết học là vấn đề nào?",
+        "input": "",
+        "output": "Vấn đề quan hệ giữa tư duy và tồn tại"
+    },
+    {
+        "instruction": "Tại sao vấn đề quan hệ giữa tư duy và tồn tại là vấn đề cơ bản của triết học?",
+        "input": "",
+        "output": "Vì nó là nền tảng và điểm xuất phát để giải quyết các vấn đề triết học khác"
+    },
+    {
+        "instruction": "Có mấy vấn đề cơ bản của triết học?",
+        "input": "",
+        "output": "Một"
+    },
+    {
+        "instruction": "Vấn đề cơ bản của triết học gồm mấy mặt?",
+        "input": "",
+        "output": "Hai mặt, đó là: 1) vật chất quyết định ý thức, hay ngược lai; 2) khả năng nhận thức của con người"
+    },
+    {
+        "instruction": "Một người tiêu thụ dành một số tiền nhất định để chi tiêu cho 2 sản phẩm X và Y. Nếu X là loại hàng xa xỉ thì khi giá của X tăng lên và các yếu tố khác không đổi thì lượng hàng hóa của Y được mua sẽ:",
+        "input": "",
+        "output": "Tăng"
+    },
+    {
+        "instruction": "Đường tiêu thụ giá cả là đường biểu thị mối quan hệ giữa:",
+        "input": "",
+        "output": "Giá sản phẩm và số lượng sản phẩm được mua"
+    },
+    {
+        "instruction": "Một người tiêu dùng dành một khoản tiền là 2000$ để mua hai sản phẩm X và Y, với P_{X} = 200$/sp và P_{Y}=500$/sp. Phương trình đường ngân sách có dạng:",
+        "input": "",
+        "output": "Y=4-(\\frac{2}{5})X"
+    },
+    {
+        "instruction": "Giả sử người tiêu dùng dành hết thu nhập I để mua 2 loại hàng hoá X, Y với đơn giá là P_{X}, P_{Y} và số lượng là x, y và đạt được lợi ích tối đa có:",
+        "input": "",
+        "output": "Các câu trên đều đúng"
+    },
+    {
+        "instruction": "Đường biểu diễn các phối hợp khác nhau về số lượng của hai sản phẩm cùng đem lại cho một mức lợi ích như nhau cho người tiêu dùng được gọi là:",
+        "input": "",
+        "output": "Đường đẳng ích"
+    },
+    {
+        "instruction": "Đường ngân sách có dạng: X = 30 - 2Y. Nếu P_{x} = 10 thì:",
+        "input": "",
+        "output": "P_{y} = 20 và I = 300"
+    },
+    {
+        "instruction": "Trong thị trường độc quyền hoàn toàn: MR = \\frac{-Q}{10}+1000; MC =\\frac{Q}{10}+ 400. Nếu chính phủ quy định mức giá, buộc doanh nghiệp phải gia tăng sản lượng cao nhất, vậy mức giá đó là:",
+        "input": "",
+        "output": "P = 800"
+    },
+    {
+        "instruction": "Trong thị trường độc quyền hoàn toàn, chính phủ đánh thuế không theo sản lượng sẽ ảnh hưởng:",
+        "input": "",
+        "output": "Tất cả các câu trên đều sai"
+    },
+    {
+        "instruction": "Một doanh nghiệp độc quyền hoàn toàn có hàm số cầu thị trường có dạng: P = - Q + 2400. Ở mức sản lượng tối đa hóa lợi nhuận có hệ số co giãn của cầu theo giá là -3, chi phí biên là 10. Vậy giá bán ở mức sản lượng tối đa hóa lợi nhuận:",
+        "input": "",
+        "output": "15"
+    },
+    {
+        "instruction": "Khi chính phủ đánh thuế..........vào doanh nghiệp độc quyền thì người tiêu dùng sẽ trả một mức giá.................",
+        "input": "",
+        "output": "Các câu trên đều sai"
+    },
+    {
+        "instruction": "Một doanh nghiệp độc quyền hoàn toàn có hàm chi phí: TC = \\frac{Q^{2}}{10} + 400Q + 3.000.000, hàm số cầu thị trường có dạng: P =\\frac{-Q}{20}+2200. Nếu chính phủ đánh thuế là 150đ/sp thì lợi nhuận tối đa của doanh nghiệp này đạt được là :",
+        "input": "",
+        "output": "1"
+    },
+    {
+        "instruction": "Một xí nghiệp độc quyền hoàn toàn tối đa hóa lợi nhuận ở mức giá là 20, có hệ số co giãn cầu theo giá là -2, vậy mức sản lượng tối đa hóa lợi nhuận tại đó có MC :",
+        "input": "",
+        "output": "10"
+    },
+    {
+        "instruction": "Một doanh nghiệp độc quyền hoàn toàn có hàm số cầu thị trường có dạng: P = - Q + 2400. Tổng doanh thu tối đa của doanh nghiệp là:",
+        "input": "",
+        "output": "1"
+    },
+    {
+        "instruction": "Trong ngắn hạn của thị trường độc quyền hoàn toàn, câu nào sau đây chưa thể khẳng định:",
+        "input": "",
+        "output": "Doanh nghiệp kinh doanh luôn có lợi nhuận"
+    },
+    {
+        "instruction": "Tìm một điểm nhầm lẫn trong đoạn viết sau đây: Một trong những nguồn gốc của tư tưởng Hồ Chí Minh là tiếp văn hóa phương Đông. Cụ thể là:",
+        "input": "",
+        "output": "Tư tưởng của Khổng Tử về một xã hội bình yên không bao giờ thay đổi"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Hồ Chí Minh đã từng dạy học bá ngôi trường nào?",
+        "input": "",
+        "output": "Trường Dục Thanh ở Phan Thiết"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Tác phẩm Bản án chế độ thực dân Pháp của Nguyễn Ái Quốc được xuất bản lần đầu tiên vào năm nào?",
+        "input": "",
+        "output": "1925"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Tác phẩm Đường kách mệnh của Nguyễn Ái Quốc được xuất bản lần đầu tiên vào năm nào?",
+        "input": "",
+        "output": "1927"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Thuật ngữ Tư tưởng Hồ Chí Minh được Đảng ta chính thức sử dụng bắt đầu từ bao giờ?",
+        "input": "",
+        "output": "Từ năm 1991"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Tư tưởng Hồ Chí Minh được hình thành từ những nguồn gốc nào?",
+        "input": "",
+        "output": "Cả ba đáp án còn lại đều đúng"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng nhất về tư tưởng Hồ Chí Minh:",
+        "input": "",
+        "output": "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Hồ Chí Minh rời Tổ quốc đi tìm đường cứu nước vào năm nào?",
+        "input": "",
+        "output": "Năm 1911"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Từ năm 1920 đến năm 1945, Hồ Chí Minh bị địch bắt và giam giữ mấy lần?",
+        "input": "",
+        "output": "2 lần"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Hồ Chí Minh bắt đầu viết bản Di chúc lịch sử vào thời gian nào?",
+        "input": "",
+        "output": "Năm 1965"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Nguyễn Sinh Cung là người con thứ mấy trong gia đình?",
+        "input": "",
+        "output": "3"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Lần đầu tiên Nguyễn Tất Thành đặt chân lên đất Pháp tại địa danh nào?",
+        "input": "",
+        "output": "Mác xây"
+    },
+    {
+        "instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Nguyễn Tất Thành từ Anh trả lại Pháp vào năm nào?",
+        "input": "",
+        "output": "Cuối năm 1917"
+    },
+    {
+        "instruction": "Ghép sao cho đúng giải thích về vai trò của quản trị doanh nghiệp hoạt động quản trị kinh doanh: “giúp cho doanh nghiệp xác định được nên sản xuất cái gì số lượng bao nhiêu bằng cách nào và sản xuất cho ai …”",
+        "input": "",
+        "output": "Bởi vì việc xác định đúng nhiệm vụ kinh doanh là một trong những yếu tố đưa sự nghiệp kinh doanh của doanh nghiệp đến thành công"
+    },
+    {
+        "instruction": "Ghép sao cho đúng giải thích về vai trò của quản trị kinh doanh: “quản trị kinh doanh có vai trò quan trọng trong việc sử dụng tối ưu các nguồn lực sẵn có và tận dụng mọi cơ hội tốt nhất trong quá trình sản xuất kinh doanh…”",
+        "input": "",
+        "output": "Giúp cho doanh nghiệp không ngừng hạ thấp chi phí góp phần nâng cao lợi nhuận của doanh nghiệp"
+    },
+    {
+        "instruction": "Điền vào chỗ trống về các chức năng của quản trị kinh doanh: “….là quá trình xác định các mục tiêu của doanh nghiệp và đề ra các giải pháp tốt nhất để đạt được mục tiêu đó.”",
+        "input": "",
+        "output": "Hoạch định"
+    },
+    {
+        "instruction": "Nhà quản trị cấp cao tương xứng với chức danh nào dưới đây?",
+        "input": "",
+        "output": "Giám đốc điều hành"
+    },
+    {
+        "instruction": "Đây là quan điểm chủ yếu của trường phái lý thuyết quản trị kinh doanh nào? “… trong các tình huống khác nhau thì phải áp dụng các phương pháp quản trị khác nhau và các phương pháp quản trị phải phù hợp với các biến số quan trọng.”",
+        "input": "",
+        "output": "Trường phái quản trị theo tình huống"
+    },
+    {
+        "instruction": "Nhà quản trị tiến hành các hoạt động nhằm thiết lập mối quan hệ chặt chẽ giữa doanh nghiệp với các cơ quan nhà nước. ” Đó là vai trò gì của nhà quản trị doanh nghiệp?",
+        "input": "",
+        "output": "Vai trò liên kết"
+    },
+    {
+        "instruction": "Phát biểu nào chưa đúng về các kỹ năng quản trị cần thiết?",
+        "input": "",
+        "output": "Các nhà quản trị không cần thiết phải có đầy đủ 3 loại kỹ năng kỹ thuật, nhân sự và tư duy"
+    },
+    {
+        "instruction": "Điền vào chỗ trống về các chức năng của quản trị kinh doanh “… là quá trình gắn kết phân công và phối hợp nhiều người vào làm việc cùng nhau nhằm thực hiện mục tiêu chung của doanh nghiệp”",
+        "input": "",
+        "output": "Tổ chức"
+    },
+    {
+        "instruction": "Ghép tên các cấp bậc quản trị trong doanh nghiệp (1,2,3) với tên các chức danh trong doanh nghiệp \n1. nhà quản trị cấp cao \n2. nhà quản trị cấp trung gian \n3. nhà quản trị cấp cơ sở \na. Tổ trưởng, trưởng nhóm, trưởng ca\nb. Trưởng phó các phòng ban quản đốc phân xưởng giám đốc dự án\nb. Chủ tịch, ủy viên HĐQT, tổng GĐ, phó tổng GĐ,…",
+        "input": "",
+        "output": "1-c, 2-b, 3-a"
+    },
+    {
+        "instruction": "“Tính quy luật các quan hệ quản trị trong quá trình hoạt động của doanh nghiệp bao gồm những quy luật về kinh tế kinh doanh kỹ thuật xã hội phản ánh đặc điểm nào của quản trị kinh doanh”",
+        "input": "",
+        "output": "Quản trị kinh doanh mang tính khoa học"
+    },
+    {
+        "instruction": "Nhà khoa học nào là đại diện tiêu biểu của trường phái quản trị hành chính?",
+        "input": "",
+        "output": "Henry Fayol"
+    },
+    {
+        "instruction": "“Nhà quản trị đóng vai trò giải quyết những vấn đề khó khăn sự biến động xáo trộn trong doanh nghiệp”. Đó là vai trò gì của nhà quản trị doanh nghiệp?",
+        "input": "",
+        "output": "Vai trò người điều khiển"
+    },
+    {
+        "instruction": "Nhận định nào CHƯA ĐÚNG về các chức năng quản trị kinh doanh?",
+        "input": "",
+        "output": "Nhà quản trị cấp cơ sở dành phần lớn thời gian cho việc chỉ đạo hướng dẫn nhân viên dưới quyền"
+    },
+    {
+        "instruction": "Khoản mục “ Tiền người mua trả trước “ thuộc về:",
+        "input": "",
+        "output": "Nợ phải trả"
+    },
+    {
+        "instruction": "Khi xác định tổng giá trị tài sản trên bảng cân đối kế toán thì khoản mục “Hao mòn tài sản cố định”:",
+        "input": "",
+        "output": "Được trừ đi"
+    },
+    {
+        "instruction": "Bảng cân đối kế toán ngày 1/1/05 gồm : Tiền mặt 300, nợ người bán 100, người mua nợ 200 và vốn chủ sở hữu. Sau nghiệp vụ kinh tế phát sinh “vay ngắn hạn ngân hàng để mua hàng hóa 100” thì vốn chủ sở hữu và tổng tài sản sẽ là:",
+        "input": "",
+        "output": "400 và 600"
+    },
+    {
+        "instruction": "Trường hợp nào sau đây không làm thay đổi số tổng cộng cuối  cùng của Bảng cân đối kế toán",
+        "input": "",
+        "output": "Vay ngắn hạn ngân hàng để trả nợ người bán 300"
+    },
+    {
+        "instruction": "Trường hợp nào sau đây làm thay đổi tỷ trọng của tất cả các khoản mục trong Bảng cân đối kế toán.",
+        "input": "",
+        "output": "Không có trường hợp nào"
+    },
+    {
+        "instruction": "Chênh lệch giữa lợi nhuận gộp và doanh thu thuần là:",
+        "input": "",
+        "output": "Giá vốn hàng bán"
+    },
+    {
+        "instruction": "Các tài khoản nào sau đây là tài khoản điều chỉnh?",
+        "input": "",
+        "output": "(129) Các câu trên đều đúng"
+    },
+    {
+        "instruction": "Việc sử dụng tài khoản 214 là để đảm bảo",
+        "input": "",
+        "output": "Nguyên tắc giá gốc"
+    },
+    {
+        "instruction": "Khi doanh nghiệp ứng trước tiền cho người bán, kế toán định khoản:",
+        "input": "",
+        "output": "Nợ TK 331 / Có TK 111"
+    },
+    {
+        "instruction": "Quan hệ giữa tài khoản tổng hợp và tài khoản chi tiết là:",
+        "input": "",
+        "output": "Cả A, B đều sai"
+    },
+    {
+        "instruction": "Để kiểm tra, đối chiếu số liệu giữa kế toán tổng hợp và kế toán chi tiết, kế toán lập:",
+        "input": "",
+        "output": "Bảng tổng hợp chi tiết"
+    },
+    {
+        "instruction": "Tài khoản nào là tài khoản trung gian (tạm thời):",
+        "input": "",
+        "output": "Chi phí quản lý doanh nghiệp"
+    },
+    {
+        "instruction": "“Ghi sổ kép” nghĩa là",
+        "input": "",
+        "output": "Khi nghiệp vụ kinh tế phát sinh, ghi vào bên nợ thì phải ghi vào bên có với số tiền bằng nhau"
+    },
+    {
+        "instruction": "Theo Nghị định 30/2020/NĐ-CP của Chính phủ ngày 5/3/2020 về công tác văn thư. Xác định phương án sai về công tác văn thư?",
+        "input": "",
+        "output": "Quản lý nhà nước về công tác văn thư"
+    },
+    {
+        "instruction": "Thực hiện cấp phát, quyết toán hoá đơn ấn chỉ thuế thuộc quản lý của Cục Thuế; theo dõi giám sát việc cấp bán các loại ấn chỉ theo quy định là nhiệm vụ của:",
+        "input": "",
+        "output": "Phòng Tuyên truyền - Hỗ trợ người nộp thuế"
+    },
+    {
+        "instruction": "Theo Nghị định 101/2020/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 123/2016/NĐ-CP ngày 01 tháng 9 năm 2016 của Chính phủ, cơ cấu tổ chức của tổng cục, gồm:",
+        "input": "",
+        "output": "Vụ, Văn phòng, Cục (nếu có), Thanh tra (nếu có), Đơn vị sự nghiệp công lập (nếu có)"
+    },
+    {
+        "instruction": "Theo Luật Tổ chức chính quyền địa phương năm 2015, tổ chức, cá nhân nào có thẩm quyền quyết định biên chế công chức trong cơ quan của HĐND, UBND trên địa bàn thành phố trực thuộc Trung ương theo chỉ tiêu biên chế được Chính phủ giao?",
+        "input": "",
+        "output": "Hội đồng nhân dân thành phố"
+    },
+    {
+        "instruction": "Theo Luật tổ chức Chính phủ 2015; sửa đổi 2019. Xác định phương án đúng “Quyết định việc thành lập, sáp nhập, giải thể cơ quan thuộc Chính phủ” là nhiệm vụ và quyền hạn của?",
+        "input": "",
+        "output": "Chính phủ"
+    },
+    {
+        "instruction": "Theo Nghị định 112/2020/NĐ-CP; 18/9/2020. \"Cán bộ, công chức, viên chức đang trong thời gian nghỉ nào được cấp có thẩm quyền cho phép\" thì chưa xem xét xử lý kỷ luật?",
+        "input": "",
+        "output": "Nghỉ hàng năm, nghỉ theo chế độ, nghỉ việc riêng"
+    },
+    {
+        "instruction": "Theo Luật Thực hành tiết kiệm, chống lãng phí, Trong trường hợp nhiệm vụ khoa học, công nghệ không được nghiệm thu, cơ quan, tổ chức, cá nhân phải thực hiện hành động gì?",
+        "input": "",
+        "output": "Hoàn trả một phần hoặc toàn bộ kinh phí đã cấp"
+    },
+    {
+        "instruction": "Theo Quyết định số 1495/QĐ-TCT ngày 25/10/2021 của Tổng cục Thuế, Nhiệm vụ Cải cách chế độ công vụ đến năm 2025 gồm:",
+        "input": "",
+        "output": "Tổ chức triển khai các văn bản pháp luật quy định về chế độ tiền lương mới đối với cán bộ, công chức, viên chức và người lao động thuộc Tổng cục Thuế theo lộ trình cải cách chính sách tiền lương và các văn bản quy phạm pháp luật được cấp có thẩm quyền ban hành"
+    },
+    {
+        "instruction": "Theo Luật tổ chức Quốc hội 2014, Quốc hội bầu chức danh nào sau đây trong bộ máy nhà nước:",
+        "input": "",
+        "output": "Ủy viên Ủy ban thường vụ Quốc hội"
+    },
+    {
+        "instruction": "Theo Nghị định 123/2016/NĐ-CP; Ngày 01/09/2016. Tên của Bộ và tên của các tổ chức, đơn vị thuộc Bộ được dịch ra tiếng nước nào để giao dịch quốc tế theo hướng dẫn của Bộ Ngoại giao?",
+        "input": "",
+        "output": "Tiếng nước ngoài"
+    },
+    {
+        "instruction": "Theo Nghị định 138/2020/NĐ-CP; 27/11/2020. Vòng 2: Thi môn nghiệp vụ chuyên ngành, thời gian thi: Thi phỏng vấn bao nhiêu phút (trước khi thi phỏng vấn, thí sinh dự thi có không quá 15 phút chuẩn bị);",
+        "input": "",
+        "output": "30 phút"
+    },
+    {
+        "instruction": "Theo Quyết định 05/QĐ-TCT 2023 Kế hoạch cải cách hành chính của Tổng cục Thuế, Hoạt động “Xây dựng Kế hoạch kiểm tra văn bản và Danh mục văn bản QPPL kiểm tra thực hiện trong năm 2023” do đơn vị nào chủ trì?",
+        "input": "",
+        "output": "Vụ Pháp chế"
+    },
+    {
+        "instruction": "Theo Nghị định 90/2020/NĐ-CP; 13/8/2020. Một trong những tiêu chí hoàn thành xuất sắc nhiệm vụ, đánh giá, xếp loại chất lượng Công chức giữ chức vụ lãnh đạo, quản lý \"Lãnh đạo, chỉ đạo, điều hành các cơ quan, tổ chức, đơn vị hoặc ngành, lĩnh vực công tác được giao phụ trách hoàn thành tất cả các chỉ tiêu, nhiệm vụ, trong đó ít nhất bao nhiêu phần trăm chỉ tiêu, nhiệm vụ hoàn thành vượt mức\"",
+        "input": "",
+        "output": "50%"
+    },
+    {
+        "instruction": "Người lái xe được hiểu như thế nào trong các khái niệm dưới đây",
+        "input": "",
+        "output": "Là người điều khiển xe cơ giới"
+    },
+    {
+        "instruction": "Đường mà trên đó phương tiện tham gia giao thông được các phương tiện giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên là loại đường gì?",
+        "input": "",
+        "output": "Đường ưu tiên"
+    },
+    {
+        "instruction": "Khái niệm “phương tiện giao thông thô sơ đường bộ” được hiểu thế nào là đúng?",
+        "input": "",
+        "output": "Gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự"
+    },
+    {
+        "instruction": "“Phương tiện tham gia giao thông đường bộ” gồm những loại nào?",
+        "input": "",
+        "output": "Cả ý 1 và 2"
+    },
+    {
+        "instruction": "“Người tham gia giao thông đường bộ” Gồm những đối tượng nào?",
+        "input": "",
+        "output": "Cả ý 1 và ý 2"
+    },
+    {
+        "instruction": "“Người điều khiển phương tiện tham gia giao thông đường bộ” gồm những đối tượng nào dưới đây?",
+        "input": "",
+        "output": "Cả ý 1 và ý 2"
+    },
+    {
+        "instruction": "Khái niệm “người điều khiển giao thông” được hiểu như thế nào đúng?",
+        "input": "",
+        "output": "Là cảnh sát giao thông, người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt"
+    },
+    {
+        "instruction": "Trong các khái niệm dưới đây khái niệm “dừng xe” được hiểu như thế nào là đúng?",
+        "input": "",
+        "output": "Là trạng thái đứng yên tạm thời của phương tiện giao thông trong một khoảng thời gian cần đủ để cho người lên, xuống phương tiện, xếp dỡ hàng hóa hoặc thực hiện công việc"
+    },
+    {
+        "instruction": "Khái niệm “đường cao tốc” được hiểu như thế nào là đúng?",
+        "input": "",
+        "output": "Tất cả các ý trên"
+    },
+    {
+        "instruction": "Hành vi nào dưới đây bị nghiêm cấm?",
+        "input": "",
+        "output": "Làm hỏng (cố ý) cọc tiêu, gương cầu, dải phân cách"
+    },
+    {
+        "instruction": "Hành vi đưa xe cơ giới, xe máy chuyên dùng không bảo đảm tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường vào tham gia giao thông đường bộ có bị nghiêm cấm hay không?",
+        "input": "",
+        "output": "Bị nghiêm cấm"
+    },
+    {
+        "instruction": "Cuộc đua xe chỉ được thực hiện khi nào?",
+        "input": "",
+        "output": "Được cơ quan có thẩm quyền cấp phép"
+    },
+    {
+        "instruction": "Người điều khiển phương tiện giao thông đường bộ mà trong cơ thể có chất ma túy có bị nghiêm cấm hay không?",
+        "input": "",
+        "output": "Bị nghiêm cấm"
+    },
+    {
+        "instruction": "Theo Hiến pháp năm 2013, quyền công dân được tổ chức nào công nhận, tôn trọng, bảo vệ và bảo đảm?",
+        "input": "",
+        "output": "Nhà nước"
+    },
+    {
+        "instruction": "Luật cán bộ, công chức đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 4 có hiệu lực từ ngày, tháng, năm nào?",
+        "input": "",
+        "output": "Có hiệu lực ngày 01/01/2010"
+    },
+    {
+        "instruction": "Theo Luật Tổ chức chính quyền địa phương năm 2015, Ban nào của Hội đồng nhân dân thành phố trực thuộc Trung ương chịu trách nhiệm trong lĩnh vực phát triển hạ tầng kỹ thuật và hạ tầng xã hội?",
+        "input": "",
+        "output": "Ban Đô thị"
+    },
+    {
+        "instruction": "Theo Hiến pháp năm 2013, quyền con người được tổ chức nào công nhận, tôn trọng, bảo vệ và bảo đảm?",
+        "input": "",
+        "output": "Nhà nước"
+    },
+    {
+        "instruction": "Theo Nghị định 138/2020/NĐ-CP; 27/11/2020. Xác định phương án sai về cơ quan quản lý công chức?",
+        "input": "",
+        "output": "Uỷ ban nhân dân cấp huyện"
+    },
+    {
+        "instruction": "Theo Luật Cán bộ, Công chức sửa đổi năm 2019. Nội dung ở phương án nào sau đây là sai?",
+        "input": "",
+        "output": "Sở nội vụ tuyển dụng công chức cho cơ quan Ủy ban nhân dân cấp tỉnh và các cơ quan thuộc uỷ ban nhân dân tỉnh quản lý"
+    },
+    {
+        "instruction": "Theo Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 201 1-2020, vào năm 2020, yêu cầu đặt ra về tỷ lệ hài lòng của cá nhân, tổ chức đối với sự phục vụ của cơ quan nhà nước đó là phải đạt bao nhiêu?",
+        "input": "",
+        "output": "Trên 80%"
+    },
+    {
+        "instruction": "Theo Luật Cán bộ, Công chức sửa đổi năm 2019. Hình thức kỷ luật nào sau đây áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý?",
+        "input": "",
+        "output": "Tất cả các phương án đều đúng"
+    },
+    {
+        "instruction": "Theo Nghị định 138/2020/NĐ-CP; 27/11/2020. Xác định phương án đúng nội dung kế hoạch tuyển dụng về Số lượng vị trí việc làm thực hiện xét tuyển (nếu có) đối với nhóm đối tượng nào?",
+        "input": "",
+        "output": "Tất cả phương án"
+    },
+    {
+        "instruction": "Theo Hiến pháp năm 2013, quyền làm chủ của nhân dân được tổ chức nào bảo đảm?",
+        "input": "",
+        "output": "Nhà nước"
+    },
+    {
+        "instruction": "Theo Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2011-2020, Bộ hoặc cơ quan ngang Bộ nào chủ trì triển khai nội dung ứng dụng công nghệ thông tin trong hoạt động của các cơ quan hành chính nhà nước theo Chương trình?",
+        "input": "",
+        "output": "Bộ Thông tin và Truyền thông"
+    },
+    {
+        "instruction": "Theo Nghị định 138/2020/NĐ-CP; 27/11/2020. Xác định phương án sai về cơ quan quản lý công chức?",
+        "input": "",
+        "output": "Uỷ ban nhân dân cấp huyện"
+    },
+    {
+        "instruction": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14, Các hành vi tham nhũng trong khu vực nhà nước do người có chức vụ, quyền hạn trong cơ quan, tổ chức, đơn vị khu vực nhà nước thực hiện bao gồm hành vi nào sau đây?",
+        "input": "",
+        "output": "Cả 3 ý trên đều đúng"
+    },
+    {
+        "instruction": "Vận tốc lắng của hạt trong bể lắng bùn được xác định",
+        "input": "",
+        "output": "Theo kinh nghiệm hoặc làm thí nghiệm"
+    },
+    {
+        "instruction": "Trong bể lắng đứng, nước thải được đưa vào bể từ",
+        "input": "",
+        "output": "Qua ống trung tâm"
+    },
+    {
+        "instruction": "Chất keo tụ có khoảng pH hoạt động rộng hơn là",
+        "input": "",
+        "output": "Sắt Sulfate Fe_{2}(SO_{4})_{3}"
+    },
+    {
+        "instruction": "Khả năng lắng bông cặn của phèn sắt so với phèn nhôm",
+        "input": "",
+        "output": "Dễ lắng hơn"
+    },
+    {
+        "instruction": "Quá trình keo tụ được ứng dụng khi",
+        "input": "",
+        "output": "Các câu trên đều đúng"
+    },
+    {
+        "instruction": "Tác nhân oxy hóa các hợp chất hữu cơ bằng phương pháp Fenton là:",
+        "input": "",
+        "output": "*OH"
+    },
+    {
+        "instruction": "Phương pháp Fenton được ứng dụng khi",
+        "input": "",
+        "output": "Xử lý chất hữu cơ khó phân hủy sinh học"
+    },
+    {
+        "instruction": "Cường độ oxy hóa của các tác nhân được xếp theo thứ tự giảm dần như sau",
+        "input": "",
+        "output": "*OH > O_{3} > H_{2}O_{2} > KMnO_{4}"
+    },
+    {
+        "instruction": "Phương pháp tuyển nổi thường được áp dụng phổ biến là",
+        "input": "",
+        "output": "Nén khí vào nước"
+    },
+    {
+        "instruction": "Chọn câu đúng cho quá trình phân hủy kỵ khí",
+        "input": "",
+        "output": "Tất cả đều đúng"
+    },
+    {
+        "instruction": "Phân hủy kỵ khí được áp dụng khi",
+        "input": "",
+        "output": "Khi nước thải chứa hàm lượng chất hữu cơ dễ bị phân hủy sinh học cao"
+    },
+    {
+        "instruction": "Phân hủy sinh học hiếu khí được áp dụng trong các hệ thống xử lý nước thải vì",
+        "input": "",
+        "output": "Nồng độ BOD sau khi xử lý có thể đạt tiêu chuẩn thải"
+    },
+    {
+        "instruction": "Tuần hoàn bùn trong bể sinh học hiếu khí nhằm mục đích",
+        "input": "",
+        "output": "Đảm bảo lượng VSV dùng để phân hủy chất hữu cơ"
+    },
+    {
+        "instruction": "Báng tự do gặp trong trường hợp: 9.1. Lao màng bụng. 9.2. Ung thư màng bụng. 9.3. Xơ gan. 9.4. Hội chứng thận hư.",
+        "input": "",
+        "output": "1, 2, 3, 4 đúng"
+    },
+    {
+        "instruction": "Một bệnh nhân có dịch ổ bụng với tính chất dịch thấm, ta có thể:",
+        "input": "",
+        "output": "Không thể khẳng định ngay nguyên nhân, cần tiến hành khám kỹ lâm sàng và tiến hành một số xét nghiệm cần thiết nữa mới có thể xác định được nguyên nhân"
+    },
+    {
+        "instruction": "Có dịch ổ bụng lượng ít được phát hiện trên lâm sàng bằng cách khám bệnh nhân ở tư thế:",
+        "input": "",
+        "output": "Tư thế bò sấp (quỳ gối, chống hai tay)"
+    },
+    {
+        "instruction": "Dịch ổ bụng ở bệnh nhân phù toàn thân phản ảnh:",
+        "input": "",
+        "output": "Tình trạng giảm áp lực keo trong lòng mạch"
+    },
+    {
+        "instruction": "Dịch tiết trong ổ bụng gặp trong trường hợp:",
+        "input": "",
+        "output": "Nhiễm trùng báng"
+    },
+    {
+        "instruction": "Khi dịch ổ bụng toàn máu, nguyên nhân thường gặp là",
+        "input": "",
+        "output": "Vỡ tạng đặc như vỡ lách"
+    },
+    {
+        "instruction": "Dịch dưỡng trấp ổ bụng gặp trong trường hợp:",
+        "input": "",
+        "output": "Vỡ hệ bạch mạch mạc treo"
+    },
+    {
+        "instruction": "Vị trí chọc dò dịch báng toàn thể tốt nhất là:",
+        "input": "",
+        "output": "Hố chậu trái"
+    },
+    {
+        "instruction": "Dịch báng kèm với dấu chứng đầu sứa nói lên:",
+        "input": "",
+        "output": "Có shunt cửa chủ do tuần hoàn hệ cửa bị cản trở"
+    },
+]
