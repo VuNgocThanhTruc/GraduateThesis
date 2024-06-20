@@ -1,0 +1,744 @@
+{"instruction": "Hoạt động nào sau đây của ngân hàng Trung Ương sẽ làm tăng cơ sở tiền tệ", "input": "", "output": "Hạ tỷ lệ dự trữ bắt buộc đối với các ngân hàng thương mại"}
+{"instruction": "Những yếu tố nào sau đây có thể dẫn đến thâm hụt cán cân thương mại của một nước:", "input": "", "output": "Các lựa chọn đều sai"}
+{"instruction": "Những yếu tố nào sau đây có ảnh hưởng đến tổng cung dài hạn:", "input": "", "output": "Đổi mới công nghệ"}
+{"instruction": "Những trường hợp nào sau đây có thể tạo ra những áp lực lạm phát", "input": "", "output": "Các lựa chọn đều đúng"}
+{"instruction": "GDP thực và GDP danh nghĩa của một năm bằng nhau nếu:", "input": "", "output": "Chỉ số giá của năm hiện hành bằng chỉ số giá của năm gốc"}
+{"instruction": "Nếu NHTƯ giảm tỷ lệ dự trữ bắt buộc và tăng lãi suất chiết khấu thì khối lượng tiền tệ sẽ:", "input": "", "output": "Không thể kết luận"}
+{"instruction": "Trên đồ thị, trục hoành ghi sản lượng quốc gia, trục tung ghi mức giá chung, đường tổng cầu AD dịch sang phải khi:", "input": "", "output": "Chính phủ tăng chi tiêu cho quốc phòng"}
+{"instruction": "Trên đồ thị, trục hoành ghi sản lượng quốc gia, trục tung ghi mức giá chung, đường tổng cung AS  dịch chuyển khi:", "input": "", "output": "Công nghệ sản xuất có những thay đổi đáng kể"}
+{"instruction": "Trong cơ chế tỷ giá hối đoái thả nổi hoàn toàn:", "input": "", "output": "Dự trữ ngoại tệ của quốc gia thay đổi tùy theo diễn biến trên thị trường ngoại hối"}
+{"instruction": "Nếu tỷ giá hối đoái danh nghĩa không thay đổi đáng kể, tốc độ tăng giá trong nước tăng nhanh hơn giá thế giới, sức cạnh tranh của hàng hóa trong nước sẽ:", "input": "", "output": "Giảm"}
+{"instruction": "Khi đầu tư nước ngoài vào Việt Nam tăng, nếu các yếu tố khác không đổi, Việt Nam sẽ:", "input": "", "output": "Các lựa chọn đều đúng"}
+{"instruction": "Nếu các yếu tố khác không đổi, lãi suất tăng thì sản lượng cân bằng sẽ:", "input": "", "output": "Giảm"}
+{"instruction": "Nền kinh tế đang ở mức toàn dụng. Giả sử lãi suất, giá cả và tỷ giá hối đoái không đổi, nếu chính phủ giảm chi tiêu và giảm thuế một lượng bằng nhau,  trạng thái của nền kinh tế sẽ thay đổi:", "input": "", "output": "Từ ổn định sang suy thoái"}
+{"instruction": "Tác động ngắn hạn của chính sách nới lỏng tiền tệ  trong nền kinh tế mở với cơ chế tỷ giá hối đoái thả nổi là:", "input": "", "output": "Các lựa chọn đều đúng"}
+{"instruction": "Theo yêu cầu của quy luật giá trị, tổng giá cả hàng hóa sau khi bán so với tổng giá trị hàng hóa được\ntạo ra trong quá trình sản xuất phải", "input": "", "output": "Bằng nhau"}
+{"instruction": "Một trong những mục đích của việc áp dụng trách nhiệm pháp lý đối với người vi phạm pháp luật là", "input": "", "output": "Giáo dục ý thức tôn trọng pháp luật"}
+{"instruction": "Việc chính quyền xã tổ chức lấy ý kiến của người dân về chủ trương xây dựng công trình phúc lợi\ncông cộng là bảo đảm quyền tham gia quản lý nhà nước và xã hội của công dân ở phạm vi", "input": "", "output": "Cơ sở"}
+{"instruction": "Một trong những nội dung của quyền bình đẳng trong lao động là mọi công dân đều được thực hiện\nquyền lao động thông qua", "input": "", "output": "Lựa chọn việc làm phù hợp"}
+{"instruction": "Một trong những nội dung của quyền bình đẳng trong hôn nhân và gia đình là vợ, chồng có quyền và\nnghĩa vụ ngang nhau trong việc", "input": "", "output": "Tôn trọng danh dự của nhau"}
+{"instruction": "Theo quy định của pháp luật, công dân có thể thực hiện quyền ứng cử bằng hình thức tự ứng cử hoặc được", "input": "", "output": "Giới thiệu ứng cử"}
+{"instruction": "Cá nhân, tổ chức thực hiện đầy đủ các nghĩa vụ, chủ động làm những gì mà pháp luật quy định phải\nlàm là thực hiện pháp luật theo hình thức nào sau đây?", "input": "", "output": "Thi hành pháp luật"}
+{"instruction": "Theo quy định của pháp luật, một trong những nội dung của quyền được phát triển là mọi công dân\nđều được", "input": "", "output": "Chăm sóc sức khỏe ban đầu"}
+{"instruction": "Bình đẳng về trách nhiệm pháp lí là bất kì công dân nào vi phạm pháp luật đều phải.", "input": "", "output": "Bị xử lí theo quy định của pháp luật"}
+{"instruction": "Trong sản xuất và lưu thông hàng hóa, khi giá cả thị trường giảm xuống thì các doanh nghiệp thường\ncó xu hướng", "input": "", "output": "Thu hẹp quy mô sản xuất"}
+{"instruction": "Theo quy định của pháp luật, khi tiến hành kinh doanh, mọi doanh nghiệp đều phải thực hiện nghĩa vụ", "input": "", "output": "Nộp thuế đúng thời hạn"}
+{"instruction": "Theo quy định của pháp luật, việc bắt người trong trường hợp khẩn cấp được tiến hành khi có căn cứ\ncho rằng người đó đang chuẩn bị thực hiện", "input": "", "output": "Tội phạm rất nghiêm trọng"}
+{"instruction": "Toàn bộ những năng lực thể chất và tinh thần của con người được vận dụng vào quá trình sản xuất là", "input": "", "output": "Sức lao động"}
+{"instruction": "Theo quy định của pháp luật, một trong những nội dung của quyền học tập là mọi công dân đều được", "input": "", "output": "Hưởng mọi ưu đãi"}
+{"instruction": "Hoạt động nào sau đây là hoạt động kinh doanh.?", "input": "", "output": "Hoạt động dịch vụ, trao đổi hàng hóa và liên kết sản xuất"}
+{"instruction": "Hành vi nào sau đây thực hiện đúng quyền tự do kinh doanh?", "input": "", "output": "Kinh doanh đúng mặt hàng, đúng ngành đã kê khai"}
+{"instruction": "Một cửa hàng kinh doanh điện tử điện lạnh không phải đóng loại thuế nào sau đây?", "input": "", "output": "Thuế thu nhập cá nhân"}
+{"instruction": "Quyền tự do kinh doanh của công dân có nghĩa là công dân có quyền", "input": "", "output": "Tự do lựa chọn mặt hàng kinh doanh theo quy định của pháp luật"}
+{"instruction": "Trong hóa đơn thanh toán tiền điện hàng tháng của gia đình em, có một khoản thuế phải đóng, đó là thuế gì?", "input": "", "output": "Thuế giá trị gia tăng"}
+{"instruction": "Trong các quyền sau đây quyền nào là quyền lao động?", "input": "", "output": "Quyền được thuê mướn lao động"}
+{"instruction": "Pháp luật nghiêm cấm chủ doanh nghiệp thuê mướn người chưa đủ bao nhiêu tuổi vào làm việc?", "input": "", "output": "15 tuổi"}
+{"instruction": "Các bạn học sinh lớp 9A trao đổi với nhau về quyền và nghĩa vụ lao động, có nhiều ý kiến khác nhau. Em đồng ý với ý kiến nào dưới đây?", "input": "", "output": "Học sinh lớp 9 cần tham gia lao động tuỳ theo sức của mình"}
+{"instruction": "Huệ 15 tuổi đang học lớp 9. Muốn có việc làm có tiền để giúp gia đình, Huệ phải làm cách nào sau đây?", "input": "", "output": "Nhận hàng may mặc về gia công"}
+{"instruction": "Theo em trong các ý kiến sau, ý kiến nào đúng?", "input": "", "output": "Người lao động trong tất cả các ngành nghề đều phải tuân theo quy định của luật lao động"}
+{"instruction": "Tuổi pháp luật cho phép kết hôn:", "input": "", "output": "Tộc từ đủ 18 tuổi, nữ từ đủ 20 tuổi trở lên"}
+{"instruction": "Thế nào là kết hôn đúng pháp luật?", "input": "", "output": "Việc kết hôn do tộc, nữ tự nguyện và được đăng ký tại Ủy ban nhân dân xã"}
+{"instruction": "Pháp luật không cấm kết hôn trong trường hợp nào sau đây?", "input": "", "output": "Giữa những người có họ trong phạm vi 5 đời"}
+{"instruction": "Các loại chuẩn mực xã hội bất thành văn?", "input": "", "output": "Tất cả các phương án đều đúng"}
+{"instruction": "Các nhân tố ảnh hưởng đến tính cơ động xã hội?", "input": "", "output": "Tất cả các phương án đều đúng"}
+{"instruction": "Các nhân tố qui định những nét đặc thù của lối sống đô thị Việt Nam hiện nay:", "input": "", "output": "Tất cả các phương án đều đúng"}
+{"instruction": "Các phương pháp thu thập thông tin trong điều tra xã hội học là?", "input": "", "output": "Tất cả các phương án đều đúng"}
+{"instruction": "Các yếu tố ảnh hưởng tới sự hình thành lối sống nông thôn", "input": "", "output": "Địa bàn cư trú nông thôn"}
+{"instruction": "Các yếu tố cấu thành đô thị?", "input": "", "output": "A và C"}
+{"instruction": "Câu hỏi đóng trong quá trình xây dựng bảng câu hỏi trong điều tra xã hội học?", "input": "", "output": "Là câu hỏi đã liệt kê sẵn phương án trả lời để cho người được hỏi lựa chọn"}
+{"instruction": "Câu hỏi mở khi xây dựng bảng câu hỏi trong điều tra xã hội học?", "input": "", "output": "Là loại câu hỏi chưa có phương án trả lời, người hỏi phải đưa ra phương án riêng của mình"}
+{"instruction": "Chủ thể của dư luận xã hội là?", "input": "", "output": "Là cộng đồng người hay nhóm người mang dư luận xã hội"}
+{"instruction": "Chức năng cơ bản của xã hội học là?", "input": "", "output": "Tất cả các phương án đều đúng"}
+{"instruction": "Chức năng của dư luận xã hội?", "input": "", "output": "Tất cả các phương án đều đúng"}
+{"instruction": "Chức năng của xã hội học pháp luật là?", "input": "", "output": "Tất cả các phương án đều đúng"}
+{"instruction": "Đâu không phải là chức năng của xã hội học pháp luật?", "input": "", "output": "Giám sát và tư vấn"}
+{"instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 19, cho biết tỉnh nào có diện tích trồng cây công nghiệp lâu năm hơn trồng cây công nghiệp hàng năm trong số các tỉnh sau đây?", "input": "", "output": "Gia Lai"}
+{"instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 9, cho biết trong các trạm khí tượng sau đây, trạm nào có chênh lệch nhiệt độ giữa tháng I và tháng VII thấp nhất?", "input": "", "output": "Cà Mau"}
+{"instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 29, cho biết trung tâm công nghiệp nào sau đây nằm ở ven biển?", "input": "", "output": "Rạch Giá"}
+{"instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 4-5, cho biết thành phố nào sau đây là tỉnh lị của Phú Thọ?", "input": "", "output": "Việt Trì"}
+{"instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 10, cho biết trạm thủy văn Cần Thơ ở lưu vực hệ thống sông nào sau đây?", "input": "", "output": "Sông Cửu Long"}
+{"instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 26, cho biết trung tâm công nghiệp nào sau đây có ngành đóng dầu?", "input": "", "output": "Hải Phòng"}
+{"instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 22, cho biết nhà máy điện nào có công suất lớn nhất trong số các nhà máy sau đây?", "input": "", "output": "Hòa Bình"}
+{"instruction": "Căn cứ vào Atlat địa lí Việt Nam trang 28, cho biết khu kinh tế ven biển Dung Quốc thuộc tỉnh nào sau đây?", "input": "", "output": "Quảng Ngãi"}
+{"instruction": "Biện pháp hạn chế thiệt hại do bão gây ra ở vùng đồng bằng nước ta là", "input": "", "output": "Sơ tán dân"}
+{"instruction": "Căn cứ vào Atlat địa lý Việt Nam trang 23, cho biết đường số 24 và 14 gặp nhau ở địa điểm nào sau đây?", "input": "", "output": "Kon Tum"}
+{"instruction": "Căn cứ vào Atlat địa lý Việt Nam trang 15 cho biết đô thị nào sau đây thuộc tỉnh Lâm Đồng?", "input": "", "output": "Đà Lạt"}
+{"instruction": "Căn cứ vào Atlat địa lý Việt Nam trang 14, cho biết núi nào sau đây nằm ở cao nguyên Đak Lak?", "input": "", "output": "Chư Pha"}
+{"instruction": "Đông Nam Bộ KHÔNG giáp vùng kinh tế nào sau đây?", "input": "", "output": "Bắc Trung Bộ"}
+{"instruction": "Đặc điểm địa hình đặc trưng của Đông Nam Bộ là:", "input": "", "output": "Thoải, khá bằng phẳng"}
+{"instruction": "Đặc điểm khí hậu nổi bật của vùng Đông Nam Bộ là", "input": "", "output": "Cận xích đạo nóng ẩm"}
+{"instruction": "Hai loại đất chiếm diện tích lớn nhất ở Đông Nam Bộ là:", "input": "", "output": "Đất badan và đất xám"}
+{"instruction": "Đặc điểm dân cư KHÔNG ĐÚNG với vùng Đông Nam Bộ là", "input": "", "output": "Mật độ dân số cao nhất cả nước"}
+{"instruction": "Các ngành công nghiệp hiện đại đã hình thành và phát triển ở Đông Nam Bộ là:", "input": "", "output": "Dầu khí, điện tử, công nghệ cao"}
+{"instruction": "Cây công nghiệp lâu năm được trồng nhiều nhất ở Đông Nam Bộ là:", "input": "", "output": "Cao su"}
+{"instruction": "Đầu mối giao thông vận tải hàng đầu của Đông Nam Bộ và cả nước là:", "input": "", "output": "TP Hồ Chí Minh"}
+{"instruction": "Mặt hàng KHÔNG PHẢI là sản phẩm xuất khẩu hàng đầu của Đông Nam Bộ là:", "input": "", "output": "Than đá"}
+{"instruction": "Đặc điểm nổi bật về vị trí của Đồng bằng Sông Cửu Long là:", "input": "", "output": "Nằm ở cực tộc tổ quốc"}
+{"instruction": "Đặc điểm nào sau đây KHÔNG ĐÚNG với vị trí địa lí, giới hạn lãnh thổ vùng đồng bằng sông Cửu Long?", "input": "", "output": "Tiếp giáp với Campuchia và Lào ở phía bắc"}
+{"instruction": "Trong các câu nói sau đây đâu là cách diễn đạt mặt thứ nhất của vấn đề cơ bản của triết học?", "input": "", "output": "Giữa vật chất và ý thức cái nào có trước, cái nào có sau? cái nào quyết định cái nào?"}
+{"instruction": "Trong các câu sau, đâu là cách diễn đạt về mặt thứ hai của vấn đề cơ bản của triết học?", "input": "", "output": "Con người có thể nhận thức được thế giới hay không?"}
+{"instruction": "Chủ nghĩa duy tâm chủ quan là ?", "input": "", "output": "Cho rằng cảm giác và ý thức của con người là cái có trước và tồn tại sẵn có trong con người, mọi sự vật hay thế giới vật chất chỉ là kết quả của sự phức hợp của cảm giác mà thôi"}
+{"instruction": "Vị mặn của muối là do cảm giác của con người quy định. Luận điểm đó thuộc quan điểm của trào lưu triết học nào?", "input": "", "output": "CNDT chủ quan"}
+{"instruction": "Không thể khẳng định một vật tồn tại khi không cảm nhận được nó. Đó là quan điểm của:", "input": "", "output": "CNDT chủ quan"}
+{"instruction": "Đâu là quan điểm của chủ nghĩa duy vật", "input": "", "output": "Phương án A và B"}
+{"instruction": "Chủ nghĩa duy vật có những hình thức cơ bản nào?", "input": "", "output": "Cả A, B và C"}
+{"instruction": "Triết học nào dưới đây thuộc các hình thức cơ bản của chủ nghĩa duy vật", "input": "", "output": "Phương án A và C"}
+{"instruction": "Trường phái triết học nào cho ý thức là tính thứ nhất quyết định sự tồn tại của vật chất?", "input": "", "output": "Phương án A và B"}
+{"instruction": "Đâu là triết học nhất nguyên?", "input": "", "output": "A và C"}
+{"instruction": "Vấn đề cơ bản của triết học là vấn đề nào?", "input": "", "output": "Vấn đề quan hệ giữa tư duy và tồn tại"}
+{"instruction": "Tại sao vấn đề quan hệ giữa tư duy và tồn tại là vấn đề cơ bản của triết học?", "input": "", "output": "Vì nó là nền tảng và điểm xuất phát để giải quyết các vấn đề triết học khác"}
+{"instruction": "Có mấy vấn đề cơ bản của triết học?", "input": "", "output": "Một"}
+{"instruction": "Vấn đề cơ bản của triết học gồm mấy mặt?", "input": "", "output": "Hai mặt, đó là: 1) vật chất quyết định ý thức, hay ngược lai; 2) khả năng nhận thức của con người"}
+{"instruction": "Một người tiêu thụ dành một số tiền nhất định để chi tiêu cho 2 sản phẩm X và Y. Nếu X là loại hàng xa xỉ thì khi giá của X tăng lên và các yếu tố khác không đổi thì lượng hàng hóa của Y được mua sẽ:", "input": "", "output": "Tăng"}
+{"instruction": "Đường tiêu thụ giá cả là đường biểu thị mối quan hệ giữa:", "input": "", "output": "Giá sản phẩm và số lượng sản phẩm được mua"}
+{"instruction": "Một người tiêu dùng dành một khoản tiền là 2000$ để mua hai sản phẩm X và Y, với P_{X} = 200$/sp và P_{Y}=500$/sp. Phương trình đường ngân sách có dạng:", "input": "", "output": "Y=4-(\\frac{2}{5})X"}
+{"instruction": "Giả sử người tiêu dùng dành hết thu nhập I để mua 2 loại hàng hoá X, Y với đơn giá là P_{X}, P_{Y} và số lượng là x, y và đạt được lợi ích tối đa có:", "input": "", "output": "Các câu trên đều đúng"}
+{"instruction": "Đường biểu diễn các phối hợp khác nhau về số lượng của hai sản phẩm cùng đem lại cho một mức lợi ích như nhau cho người tiêu dùng được gọi là:", "input": "", "output": "Đường đẳng ích"}
+{"instruction": "Đường ngân sách có dạng: X = 30 - 2Y. Nếu P_{x} = 10 thì:", "input": "", "output": "P_{y} = 20 và I = 300"}
+{"instruction": "Trong thị trường độc quyền hoàn toàn: MR = \\frac{-Q}{10}+1000; MC =\\frac{Q}{10}+ 400. Nếu chính phủ quy định mức giá, buộc doanh nghiệp phải gia tăng sản lượng cao nhất, vậy mức giá đó là:", "input": "", "output": "P = 800"}
+{"instruction": "Trong thị trường độc quyền hoàn toàn, chính phủ đánh thuế không theo sản lượng sẽ ảnh hưởng:", "input": "", "output": "Tất cả các câu trên đều sai"}
+{"instruction": "Một doanh nghiệp độc quyền hoàn toàn có hàm số cầu thị trường có dạng: P = - Q + 2400. Ở mức sản lượng tối đa hóa lợi nhuận có hệ số co giãn của cầu theo giá là -3, chi phí biên là 10. Vậy giá bán ở mức sản lượng tối đa hóa lợi nhuận:", "input": "", "output": "15"}
+{"instruction": "Khi chính phủ đánh thuế..........vào doanh nghiệp độc quyền thì người tiêu dùng sẽ trả một mức giá.................", "input": "", "output": "Các câu trên đều sai"}
+{"instruction": "Một doanh nghiệp độc quyền hoàn toàn có hàm chi phí: TC = \\frac{Q^{2}}{10} + 400Q + 3.000.000, hàm số cầu thị trường có dạng: P =\\frac{-Q}{20}+2200. Nếu chính phủ đánh thuế là 150đ/sp thì lợi nhuận tối đa của doanh nghiệp này đạt được là :", "input": "", "output": "1"}
+{"instruction": "Một xí nghiệp độc quyền hoàn toàn tối đa hóa lợi nhuận ở mức giá là 20, có hệ số co giãn cầu theo giá là -2, vậy mức sản lượng tối đa hóa lợi nhuận tại đó có MC :", "input": "", "output": "10"}
+{"instruction": "Một doanh nghiệp độc quyền hoàn toàn có hàm số cầu thị trường có dạng: P = - Q + 2400. Tổng doanh thu tối đa của doanh nghiệp là:", "input": "", "output": "1"}
+{"instruction": "Trong ngắn hạn của thị trường độc quyền hoàn toàn, câu nào sau đây chưa thể khẳng định:", "input": "", "output": "Doanh nghiệp kinh doanh luôn có lợi nhuận"}
+{"instruction": "Tìm một điểm nhầm lẫn trong đoạn viết sau đây: Một trong những nguồn gốc của tư tưởng Hồ Chí Minh là tiếp văn hóa phương Đông. Cụ thể là:", "input": "", "output": "Tư tưởng của Khổng Tử về một xã hội bình yên không bao giờ thay đổi"}
+{"instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Hồ Chí Minh đã từng dạy học bá ngôi trường nào?", "input": "", "output": "Trường Dục Thanh ở Phan Thiết"}
+{"instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Tác phẩm Bản án chế độ thực dân Pháp của Nguyễn Ái Quốc được xuất bản lần đầu tiên vào năm nào?", "input": "", "output": "1925"}
+{"instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Tác phẩm Đường kách mệnh của Nguyễn Ái Quốc được xuất bản lần đầu tiên vào năm nào?", "input": "", "output": "1927"}
+{"instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Thuật ngữ Tư tưởng Hồ Chí Minh được Đảng ta chính thức sử dụng bắt đầu từ bao giờ?", "input": "", "output": "Từ năm 1991"}
+{"instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Tư tưởng Hồ Chí Minh được hình thành từ những nguồn gốc nào?", "input": "", "output": "Cả ba đáp án còn lại đều đúng"}
+{"instruction": "Chọn đáp án trả lời đúng nhất về tư tưởng Hồ Chí Minh:", "input": "", "output": "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta"}
+{"instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Hồ Chí Minh rời Tổ quốc đi tìm đường cứu nước vào năm nào?", "input": "", "output": "Năm 1911"}
+{"instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Từ năm 1920 đến năm 1945, Hồ Chí Minh bị địch bắt và giam giữ mấy lần?", "input": "", "output": "2 lần"}
+{"instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Hồ Chí Minh bắt đầu viết bản Di chúc lịch sử vào thời gian nào?", "input": "", "output": "Năm 1965"}
+{"instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Nguyễn Sinh Cung là người con thứ mấy trong gia đình?", "input": "", "output": "3"}
+{"instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Lần đầu tiên Nguyễn Tất Thành đặt chân lên đất Pháp tại địa danh nào?", "input": "", "output": "Mác xây"}
+{"instruction": "Chọn đáp án trả lời đúng cho câu hỏi: Nguyễn Tất Thành từ Anh trả lại Pháp vào năm nào?", "input": "", "output": "Cuối năm 1917"}
+{"instruction": "Ghép sao cho đúng giải thích về vai trò của quản trị doanh nghiệp hoạt động quản trị kinh doanh: “giúp cho doanh nghiệp xác định được nên sản xuất cái gì số lượng bao nhiêu bằng cách nào và sản xuất cho ai …”", "input": "", "output": "Bởi vì việc xác định đúng nhiệm vụ kinh doanh là một trong những yếu tố đưa sự nghiệp kinh doanh của doanh nghiệp đến thành công"}
+{"instruction": "Ghép sao cho đúng giải thích về vai trò của quản trị kinh doanh: “quản trị kinh doanh có vai trò quan trọng trong việc sử dụng tối ưu các nguồn lực sẵn có và tận dụng mọi cơ hội tốt nhất trong quá trình sản xuất kinh doanh…”", "input": "", "output": "Giúp cho doanh nghiệp không ngừng hạ thấp chi phí góp phần nâng cao lợi nhuận của doanh nghiệp"}
+{"instruction": "Điền vào chỗ trống về các chức năng của quản trị kinh doanh: “….là quá trình xác định các mục tiêu của doanh nghiệp và đề ra các giải pháp tốt nhất để đạt được mục tiêu đó.”", "input": "", "output": "Hoạch định"}
+{"instruction": "Nhà quản trị cấp cao tương xứng với chức danh nào dưới đây?", "input": "", "output": "Giám đốc điều hành"}
+{"instruction": "Đây là quan điểm chủ yếu của trường phái lý thuyết quản trị kinh doanh nào? “… trong các tình huống khác nhau thì phải áp dụng các phương pháp quản trị khác nhau và các phương pháp quản trị phải phù hợp với các biến số quan trọng.”", "input": "", "output": "Trường phái quản trị theo tình huống"}
+{"instruction": "Nhà quản trị tiến hành các hoạt động nhằm thiết lập mối quan hệ chặt chẽ giữa doanh nghiệp với các cơ quan nhà nước. ” Đó là vai trò gì của nhà quản trị doanh nghiệp?", "input": "", "output": "Vai trò liên kết"}
+{"instruction": "Phát biểu nào chưa đúng về các kỹ năng quản trị cần thiết?", "input": "", "output": "Các nhà quản trị không cần thiết phải có đầy đủ 3 loại kỹ năng kỹ thuật, nhân sự và tư duy"}
+{"instruction": "Điền vào chỗ trống về các chức năng của quản trị kinh doanh “… là quá trình gắn kết phân công và phối hợp nhiều người vào làm việc cùng nhau nhằm thực hiện mục tiêu chung của doanh nghiệp”", "input": "", "output": "Tổ chức"}
+{"instruction": "Ghép tên các cấp bậc quản trị trong doanh nghiệp (1,2,3) với tên các chức danh trong doanh nghiệp \n1. nhà quản trị cấp cao \n2. nhà quản trị cấp trung gian \n3. nhà quản trị cấp cơ sở \na. Tổ trưởng, trưởng nhóm, trưởng ca\nb. Trưởng phó các phòng ban quản đốc phân xưởng giám đốc dự án\nb. Chủ tịch, ủy viên HĐQT, tổng GĐ, phó tổng GĐ,…", "input": "", "output": "1-c, 2-b, 3-a"}
+{"instruction": "“Tính quy luật các quan hệ quản trị trong quá trình hoạt động của doanh nghiệp bao gồm những quy luật về kinh tế kinh doanh kỹ thuật xã hội phản ánh đặc điểm nào của quản trị kinh doanh”", "input": "", "output": "Quản trị kinh doanh mang tính khoa học"}
+{"instruction": "Nhà khoa học nào là đại diện tiêu biểu của trường phái quản trị hành chính?", "input": "", "output": "Henry Fayol"}
+{"instruction": "“Nhà quản trị đóng vai trò giải quyết những vấn đề khó khăn sự biến động xáo trộn trong doanh nghiệp”. Đó là vai trò gì của nhà quản trị doanh nghiệp?", "input": "", "output": "Vai trò người điều khiển"}
+{"instruction": "Nhận định nào CHƯA ĐÚNG về các chức năng quản trị kinh doanh?", "input": "", "output": "Nhà quản trị cấp cơ sở dành phần lớn thời gian cho việc chỉ đạo hướng dẫn nhân viên dưới quyền"}
+{"instruction": "Khoản mục “ Tiền người mua trả trước “ thuộc về:", "input": "", "output": "Nợ phải trả"}
+{"instruction": "Khi xác định tổng giá trị tài sản trên bảng cân đối kế toán thì khoản mục “Hao mòn tài sản cố định”:", "input": "", "output": "Được trừ đi"}
+{"instruction": "Bảng cân đối kế toán ngày 1/1/05 gồm : Tiền mặt 300, nợ người bán 100, người mua nợ 200 và vốn chủ sở hữu. Sau nghiệp vụ kinh tế phát sinh “vay ngắn hạn ngân hàng để mua hàng hóa 100” thì vốn chủ sở hữu và tổng tài sản sẽ là:", "input": "", "output": "400 và 600"}
+{"instruction": "Trường hợp nào sau đây không làm thay đổi số tổng cộng cuối  cùng của Bảng cân đối kế toán", "input": "", "output": "Vay ngắn hạn ngân hàng để trả nợ người bán 300"}
+{"instruction": "Trường hợp nào sau đây làm thay đổi tỷ trọng của tất cả các khoản mục trong Bảng cân đối kế toán.", "input": "", "output": "Không có trường hợp nào"}
+{"instruction": "Chênh lệch giữa lợi nhuận gộp và doanh thu thuần là:", "input": "", "output": "Giá vốn hàng bán"}
+{"instruction": "Các tài khoản nào sau đây là tài khoản điều chỉnh?", "input": "", "output": "(129) Các câu trên đều đúng"}
+{"instruction": "Việc sử dụng tài khoản 214 là để đảm bảo", "input": "", "output": "Nguyên tắc giá gốc"}
+{"instruction": "Khi doanh nghiệp ứng trước tiền cho người bán, kế toán định khoản:", "input": "", "output": "Nợ TK 331 / Có TK 111"}
+{"instruction": "Quan hệ giữa tài khoản tổng hợp và tài khoản chi tiết là:", "input": "", "output": "Cả A, B đều sai"}
+{"instruction": "Để kiểm tra, đối chiếu số liệu giữa kế toán tổng hợp và kế toán chi tiết, kế toán lập:", "input": "", "output": "Bảng tổng hợp chi tiết"}
+{"instruction": "Tài khoản nào là tài khoản trung gian (tạm thời):", "input": "", "output": "Chi phí quản lý doanh nghiệp"}
+{"instruction": "“Ghi sổ kép” nghĩa là", "input": "", "output": "Khi nghiệp vụ kinh tế phát sinh, ghi vào bên nợ thì phải ghi vào bên có với số tiền bằng nhau"}
+{"instruction": "Theo Nghị định 30/2020/NĐ-CP của Chính phủ ngày 5/3/2020 về công tác văn thư. Xác định phương án sai về công tác văn thư?", "input": "", "output": "Quản lý nhà nước về công tác văn thư"}
+{"instruction": "Thực hiện cấp phát, quyết toán hoá đơn ấn chỉ thuế thuộc quản lý của Cục Thuế; theo dõi giám sát việc cấp bán các loại ấn chỉ theo quy định là nhiệm vụ của:", "input": "", "output": "Phòng Tuyên truyền - Hỗ trợ người nộp thuế"}
+{"instruction": "Theo Nghị định 101/2020/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 123/2016/NĐ-CP ngày 01 tháng 9 năm 2016 của Chính phủ, cơ cấu tổ chức của tổng cục, gồm:", "input": "", "output": "Vụ, Văn phòng, Cục (nếu có), Thanh tra (nếu có), Đơn vị sự nghiệp công lập (nếu có)"}
+{"instruction": "Theo Luật Tổ chức chính quyền địa phương năm 2015, tổ chức, cá nhân nào có thẩm quyền quyết định biên chế công chức trong cơ quan của HĐND, UBND trên địa bàn thành phố trực thuộc Trung ương theo chỉ tiêu biên chế được Chính phủ giao?", "input": "", "output": "Hội đồng nhân dân thành phố"}
+{"instruction": "Theo Luật tổ chức Chính phủ 2015; sửa đổi 2019. Xác định phương án đúng “Quyết định việc thành lập, sáp nhập, giải thể cơ quan thuộc Chính phủ” là nhiệm vụ và quyền hạn của?", "input": "", "output": "Chính phủ"}
+{"instruction": "Theo Nghị định 112/2020/NĐ-CP; 18/9/2020. \"Cán bộ, công chức, viên chức đang trong thời gian nghỉ nào được cấp có thẩm quyền cho phép\" thì chưa xem xét xử lý kỷ luật?", "input": "", "output": "Nghỉ hàng năm, nghỉ theo chế độ, nghỉ việc riêng"}
+{"instruction": "Theo Luật Thực hành tiết kiệm, chống lãng phí, Trong trường hợp nhiệm vụ khoa học, công nghệ không được nghiệm thu, cơ quan, tổ chức, cá nhân phải thực hiện hành động gì?", "input": "", "output": "Hoàn trả một phần hoặc toàn bộ kinh phí đã cấp"}
+{"instruction": "Theo Quyết định số 1495/QĐ-TCT ngày 25/10/2021 của Tổng cục Thuế, Nhiệm vụ Cải cách chế độ công vụ đến năm 2025 gồm:", "input": "", "output": "Tổ chức triển khai các văn bản pháp luật quy định về chế độ tiền lương mới đối với cán bộ, công chức, viên chức và người lao động thuộc Tổng cục Thuế theo lộ trình cải cách chính sách tiền lương và các văn bản quy phạm pháp luật được cấp có thẩm quyền ban hành"}
+{"instruction": "Theo Luật tổ chức Quốc hội 2014, Quốc hội bầu chức danh nào sau đây trong bộ máy nhà nước:", "input": "", "output": "Ủy viên Ủy ban thường vụ Quốc hội"}
+{"instruction": "Theo Nghị định 123/2016/NĐ-CP; Ngày 01/09/2016. Tên của Bộ và tên của các tổ chức, đơn vị thuộc Bộ được dịch ra tiếng nước nào để giao dịch quốc tế theo hướng dẫn của Bộ Ngoại giao?", "input": "", "output": "Tiếng nước ngoài"}
+{"instruction": "Theo Nghị định 138/2020/NĐ-CP; 27/11/2020. Vòng 2: Thi môn nghiệp vụ chuyên ngành, thời gian thi: Thi phỏng vấn bao nhiêu phút (trước khi thi phỏng vấn, thí sinh dự thi có không quá 15 phút chuẩn bị);", "input": "", "output": "30 phút"}
+{"instruction": "Theo Quyết định 05/QĐ-TCT 2023 Kế hoạch cải cách hành chính của Tổng cục Thuế, Hoạt động “Xây dựng Kế hoạch kiểm tra văn bản và Danh mục văn bản QPPL kiểm tra thực hiện trong năm 2023” do đơn vị nào chủ trì?", "input": "", "output": "Vụ Pháp chế"}
+{"instruction": "Theo Nghị định 90/2020/NĐ-CP; 13/8/2020. Một trong những tiêu chí hoàn thành xuất sắc nhiệm vụ, đánh giá, xếp loại chất lượng Công chức giữ chức vụ lãnh đạo, quản lý \"Lãnh đạo, chỉ đạo, điều hành các cơ quan, tổ chức, đơn vị hoặc ngành, lĩnh vực công tác được giao phụ trách hoàn thành tất cả các chỉ tiêu, nhiệm vụ, trong đó ít nhất bao nhiêu phần trăm chỉ tiêu, nhiệm vụ hoàn thành vượt mức\"", "input": "", "output": "50%"}
+{"instruction": "Người lái xe được hiểu như thế nào trong các khái niệm dưới đây", "input": "", "output": "Là người điều khiển xe cơ giới"}
+{"instruction": "Đường mà trên đó phương tiện tham gia giao thông được các phương tiện giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên là loại đường gì?", "input": "", "output": "Đường ưu tiên"}
+{"instruction": "Khái niệm “phương tiện giao thông thô sơ đường bộ” được hiểu thế nào là đúng?", "input": "", "output": "Gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự"}
+{"instruction": "“Phương tiện tham gia giao thông đường bộ” gồm những loại nào?", "input": "", "output": "Cả ý 1 và 2"}
+{"instruction": "“Người tham gia giao thông đường bộ” Gồm những đối tượng nào?", "input": "", "output": "Cả ý 1 và ý 2"}
+{"instruction": "“Người điều khiển phương tiện tham gia giao thông đường bộ” gồm những đối tượng nào dưới đây?", "input": "", "output": "Cả ý 1 và ý 2"}
+{"instruction": "Khái niệm “người điều khiển giao thông” được hiểu như thế nào đúng?", "input": "", "output": "Là cảnh sát giao thông, người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt"}
+{"instruction": "Trong các khái niệm dưới đây khái niệm “dừng xe” được hiểu như thế nào là đúng?", "input": "", "output": "Là trạng thái đứng yên tạm thời của phương tiện giao thông trong một khoảng thời gian cần đủ để cho người lên, xuống phương tiện, xếp dỡ hàng hóa hoặc thực hiện công việc"}
+{"instruction": "Khái niệm “đường cao tốc” được hiểu như thế nào là đúng?", "input": "", "output": "Tất cả các ý trên"}
+{"instruction": "Hành vi nào dưới đây bị nghiêm cấm?", "input": "", "output": "Làm hỏng (cố ý) cọc tiêu, gương cầu, dải phân cách"}
+{"instruction": "Hành vi đưa xe cơ giới, xe máy chuyên dùng không bảo đảm tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường vào tham gia giao thông đường bộ có bị nghiêm cấm hay không?", "input": "", "output": "Bị nghiêm cấm"}
+{"instruction": "Cuộc đua xe chỉ được thực hiện khi nào?", "input": "", "output": "Được cơ quan có thẩm quyền cấp phép"}
+{"instruction": "Người điều khiển phương tiện giao thông đường bộ mà trong cơ thể có chất ma túy có bị nghiêm cấm hay không?", "input": "", "output": "Bị nghiêm cấm"}
+{"instruction": "Theo Hiến pháp năm 2013, quyền công dân được tổ chức nào công nhận, tôn trọng, bảo vệ và bảo đảm?", "input": "", "output": "Nhà nước"}
+{"instruction": "Luật cán bộ, công chức đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 4 có hiệu lực từ ngày, tháng, năm nào?", "input": "", "output": "Có hiệu lực ngày 01/01/2010"}
+{"instruction": "Theo Luật Tổ chức chính quyền địa phương năm 2015, Ban nào của Hội đồng nhân dân thành phố trực thuộc Trung ương chịu trách nhiệm trong lĩnh vực phát triển hạ tầng kỹ thuật và hạ tầng xã hội?", "input": "", "output": "Ban Đô thị"}
+{"instruction": "Theo Hiến pháp năm 2013, quyền con người được tổ chức nào công nhận, tôn trọng, bảo vệ và bảo đảm?", "input": "", "output": "Nhà nước"}
+{"instruction": "Theo Nghị định 138/2020/NĐ-CP; 27/11/2020. Xác định phương án sai về cơ quan quản lý công chức?", "input": "", "output": "Uỷ ban nhân dân cấp huyện"}
+{"instruction": "Theo Luật Cán bộ, Công chức sửa đổi năm 2019. Nội dung ở phương án nào sau đây là sai?", "input": "", "output": "Sở nội vụ tuyển dụng công chức cho cơ quan Ủy ban nhân dân cấp tỉnh và các cơ quan thuộc uỷ ban nhân dân tỉnh quản lý"}
+{"instruction": "Theo Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 201 1-2020, vào năm 2020, yêu cầu đặt ra về tỷ lệ hài lòng của cá nhân, tổ chức đối với sự phục vụ của cơ quan nhà nước đó là phải đạt bao nhiêu?", "input": "", "output": "Trên 80%"}
+{"instruction": "Theo Luật Cán bộ, Công chức sửa đổi năm 2019. Hình thức kỷ luật nào sau đây áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý?", "input": "", "output": "Tất cả các phương án đều đúng"}
+{"instruction": "Theo Nghị định 138/2020/NĐ-CP; 27/11/2020. Xác định phương án đúng nội dung kế hoạch tuyển dụng về Số lượng vị trí việc làm thực hiện xét tuyển (nếu có) đối với nhóm đối tượng nào?", "input": "", "output": "Tất cả phương án"}
+{"instruction": "Theo Hiến pháp năm 2013, quyền làm chủ của nhân dân được tổ chức nào bảo đảm?", "input": "", "output": "Nhà nước"}
+{"instruction": "Theo Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2011-2020, Bộ hoặc cơ quan ngang Bộ nào chủ trì triển khai nội dung ứng dụng công nghệ thông tin trong hoạt động của các cơ quan hành chính nhà nước theo Chương trình?", "input": "", "output": "Bộ Thông tin và Truyền thông"}
+{"instruction": "Theo Nghị định 138/2020/NĐ-CP; 27/11/2020. Xác định phương án sai về cơ quan quản lý công chức?", "input": "", "output": "Uỷ ban nhân dân cấp huyện"}
+{"instruction": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14, Các hành vi tham nhũng trong khu vực nhà nước do người có chức vụ, quyền hạn trong cơ quan, tổ chức, đơn vị khu vực nhà nước thực hiện bao gồm hành vi nào sau đây?", "input": "", "output": "Cả 3 ý trên đều đúng"}
+{"instruction": "Vận tốc lắng của hạt trong bể lắng bùn được xác định", "input": "", "output": "Theo kinh nghiệm hoặc làm thí nghiệm"}
+{"instruction": "Trong bể lắng đứng, nước thải được đưa vào bể từ", "input": "", "output": "Qua ống trung tâm"}
+{"instruction": "Chất keo tụ có khoảng pH hoạt động rộng hơn là", "input": "", "output": "Sắt Sulfate Fe_{2}(SO_{4})_{3}"}
+{"instruction": "Khả năng lắng bông cặn của phèn sắt so với phèn nhôm", "input": "", "output": "Dễ lắng hơn"}
+{"instruction": "Quá trình keo tụ được ứng dụng khi", "input": "", "output": "Các câu trên đều đúng"}
+{"instruction": "Tác nhân oxy hóa các hợp chất hữu cơ bằng phương pháp Fenton là:", "input": "", "output": "*OH"}
+{"instruction": "Phương pháp Fenton được ứng dụng khi", "input": "", "output": "Xử lý chất hữu cơ khó phân hủy sinh học"}
+{"instruction": "Cường độ oxy hóa của các tác nhân được xếp theo thứ tự giảm dần như sau", "input": "", "output": "*OH > O_{3} > H_{2}O_{2} > KMnO_{4}"}
+{"instruction": "Phương pháp tuyển nổi thường được áp dụng phổ biến là", "input": "", "output": "Nén khí vào nước"}
+{"instruction": "Chọn câu đúng cho quá trình phân hủy kỵ khí", "input": "", "output": "Tất cả đều đúng"}
+{"instruction": "Phân hủy kỵ khí được áp dụng khi", "input": "", "output": "Khi nước thải chứa hàm lượng chất hữu cơ dễ bị phân hủy sinh học cao"}
+{"instruction": "Phân hủy sinh học hiếu khí được áp dụng trong các hệ thống xử lý nước thải vì", "input": "", "output": "Nồng độ BOD sau khi xử lý có thể đạt tiêu chuẩn thải"}
+{"instruction": "Tuần hoàn bùn trong bể sinh học hiếu khí nhằm mục đích", "input": "", "output": "Đảm bảo lượng VSV dùng để phân hủy chất hữu cơ"}
+{"instruction": "Báng tự do gặp trong trường hợp: 9.1. Lao màng bụng. 9.2. Ung thư màng bụng. 9.3. Xơ gan. 9.4. Hội chứng thận hư.", "input": "", "output": "1, 2, 3, 4 đúng"}
+{"instruction": "Một bệnh nhân có dịch ổ bụng với tính chất dịch thấm, ta có thể:", "input": "", "output": "Không thể khẳng định ngay nguyên nhân, cần tiến hành khám kỹ lâm sàng và tiến hành một số xét nghiệm cần thiết nữa mới có thể xác định được nguyên nhân"}
+{"instruction": "Có dịch ổ bụng lượng ít được phát hiện trên lâm sàng bằng cách khám bệnh nhân ở tư thế:", "input": "", "output": "Tư thế bò sấp (quỳ gối, chống hai tay)"}
+{"instruction": "Dịch ổ bụng ở bệnh nhân phù toàn thân phản ảnh:", "input": "", "output": "Tình trạng giảm áp lực keo trong lòng mạch"}
+{"instruction": "Dịch tiết trong ổ bụng gặp trong trường hợp:", "input": "", "output": "Nhiễm trùng báng"}
+{"instruction": "Khi dịch ổ bụng toàn máu, nguyên nhân thường gặp là", "input": "", "output": "Vỡ tạng đặc như vỡ lách"}
+{"instruction": "Dịch dưỡng trấp ổ bụng gặp trong trường hợp:", "input": "", "output": "Vỡ hệ bạch mạch mạc treo"}
+{"instruction": "Vị trí chọc dò dịch báng toàn thể tốt nhất là:", "input": "", "output": "Hố chậu trái"}
+{"instruction": "Dịch báng kèm với dấu chứng đầu sứa nói lên:", "input": "", "output": "Có shunt cửa chủ do tuần hoàn hệ cửa bị cản trở"}
+{"instruction": "Chẩn đoán nguyên nhân báng chỉ cần:", "input": "", "output": "Phải kết hợp rất nhiều lãnh vực: lâm sàng, sinh hoá, vi sinh, giải phẫu bệnh, hình ảnh học"}
+{"instruction": "Trường hợp dịch ổ bụng ít, có thể phát hiện nhờ vào:", "input": "", "output": "Chọc dò dưới hướng dẫn của siêu âm"}
+{"instruction": "Cơ chế phù chính trong hội chứng thận hư:", "input": "", "output": "Giảm áp lực keo"}
+{"instruction": "Cơ chế gây phù chủ yếu trong suy tim:", "input": "", "output": "Tăng áp lực thủy tĩnh"}
+{"instruction": "Xuất quỹ tiền mặt để mua NVL sử dụng ngay trong sản xuất (thuộc diện chịu thuế theo phương pháp khấu trừ), Kế toán ghi:", "input": "", "output": "Nợ TK 621, Nợ TK 133(1) / Có TK 111"}
+{"instruction": "Kế toán tập hợp chi phí SCL TSCĐ theo phương thức thuê ngoài sửa chữa, Kế toán ghi:", "input": "", "output": "Nợ TK 241, Nợ TK 133(2) / Có TK 111, 112, 331…"}
+{"instruction": "Trường hợp Kế toán HTK theo phương pháp KKĐK, tính thuế GTGT theo phương pháp khấu trừ, khi mua hàng Hóa, Kế toán ghi:", "input": "", "output": "Nợ TK 611(2), Nợ TK 133(1) / Có TK 111, 112, 331…"}
+{"instruction": "Nhập kho nguyên liệu, vật liệu mua ngoài, thuộc diện chịu thuế GTGT theo phương pháp khấu trừ, chưa thanh toán tiền, Kế toán ghi:", "input": "", "output": "Nợ TK 152, Nợ TK 133 / Có TK 331"}
+{"instruction": "Đơn vị mua vật tư đã thanh toán tiền nhưng cuối tháng hàng chưa về nhập kho (thuộc diện chịu thuế GTGT theo phương pháp khấu trừ), Kế toán ghi:", "input": "", "output": "Nợ TK 151, Nợ TK 133 / Có TK 111"}
+{"instruction": "Chi phí liên quan đến quá trình mua nguyên vật liệu đã thanh toán bằng tiền mặt, Kế toán ghi:", "input": "", "output": "Nợ TK 152, Nợ TK 133 / Có TK 111"}
+{"instruction": "Doanh nghiệp trả lương cho người lao động bằng sản phẩm của doanh nghiệp, Kế toán ghi:", "input": "", "output": "Nợ TK 334 / Có TK 512, Có TK 333(1)"}
+{"instruction": "Khi nộp thuế GTGT vào NSNN bằng TGNH, Kế toán ghi:", "input": "", "output": "Nợ TK 333(1) / Có TK 112"}
+{"instruction": "Xác định số thuế TNCN phải nộp tính trên thu nhập tính thuế, Kế toán ghi:", "input": "", "output": "Nợ TK 334 / Có TK 333(5)"}
+{"instruction": "Khi nộp thuế tài nguyên, Kế toán ghi:", "input": "", "output": "Nợ TK 333(6) / Có TK 111, 112"}
+{"instruction": "DN nhận thông báo nộp thuế khai thác tài nguyên hàng tháng. DN nộp bằng TGNH, Kế toán ghi:", "input": "", "output": "Nợ TK 333(6) / Có TK 112"}
+{"instruction": "Khi nộp thuế trước bạ bằng UNC, Kế toán ghi:", "input": "", "output": "Nợ TK 333(9) / Có TK 112"}
+{"instruction": "Giá tính thuế tài nguyên là:", "input": "", "output": "Giá bán đến vị tại nơi khai thác tài nguyên, chưa có thuế GTGT"}
+{"instruction": "Yêu cầu về nội dung giáo dục mầm non là.", "input": "", "output": "Phù hợp với sự phát triển tâm sinh lí của trẻ em, hài hòa giữa nuôi dưỡng, chăm sóc và giáo dục; giúp trẻ em phát triển cơ thể cân đối, khỏe mạnh, nhanh nhẹn; cung cấp kĩ năng sống phù hợp với lứa tuổi"}
+{"instruction": "Phương án nào sau là yêu cầu về nội dung giáo dục của chương trình giáo dục mầm non?", "input": "", "output": "Đảm bảo tính khoa học, tính vừa sức và nguyên tắc đồng tâm phát triển từ dễ đến khó; đảm bảo tính liên thông giữa các độ tuổi, giữa nhà trẻ, mẫu giáo và cấp tiểu học"}
+{"instruction": "Đâu là yêu cầu về phương pháp giáo dục mầm non?", "input": "", "output": "Đối với giáo dục nhà trẻ, phương pháp giáo dục phải chú trọng giao tiếp thường xuyên, thể hiện sự yêu thương và tạo sự gắn bó của người lớn với trẻ; chú ý đặc điểm cá nhân trẻ để lựa chọn phương pháp giáo dục phù hợp, tạo cho trẻ có cảm giác an toàn về thể chất và tinh thần"}
+{"instruction": "Trong các yêu cầu về phương pháp giáo dục trẻ nhà trẻ, yêu cầu nào sau đây là không phù hợp?", "input": "", "output": "Giáo dục phải tạo điều kiện cho trẻ được trải nghiệm, tìm tòi, khám phá xung quanh; dưới nhiều hình thức đa dạng, đáp ứng nhu cầu, hứng thú của trẻ theo phương châm “chơi mà học, học bằng chơi”"}
+{"instruction": "Yêu cầu nào dưới đây không phải là yêu cầu về phương pháp giáo dục đối với trẻ lứa tuổi mẫu giáo?", "input": "", "output": "Tạo điều kiện cho trẻ được tích cực hoạt động giao lưu cảm xúc, hoạt động với đồ vật và vui chơi"}
+{"instruction": "Yêu cầu về đánh giá sự phát triển của trẻ là", "input": "", "output": "Đánh giá sự phát triển của trẻ ( bao gồm đánh giá trẻ hàng ngày và đánh giá trẻ theo giai đoạn) nhằm theo dõi sự phát triển của trẻ, làm cơ sở cho việc xây dựng kế hoạch và kịp thời điều chỉnh kế hoạch giáo dục cho phù hợp với trẻ, với tình hình thực tế ở địa phương"}
+{"instruction": "Phương án nào không phải là yêu cầu về đánh giá sự phát triển của trẻ mầm non?", "input": "", "output": "Đánh giá sự phát triển của trẻ vào sổ nhật ký, và phiếu đánh giá; coi trọng đánh giá sự tiến bộ của từng trẻ; đánh giá trẻ thường xuyên qua quan sát hoạt động hàng ngày"}
+{"instruction": "Khái niệm về DƯỢC ĐỘNG HỌC:", "input": "", "output": "Nghiên cứu về tác động của cơ thể đến thuốc"}
+{"instruction": "Các THÔNG SỐ dược động học KHÔNG bao gồm:", "input": "", "output": "Tích lũy"}
+{"instruction": "Kể tên 4 QUÁ TRÌNH xảy ra khi THUỐC vào cơ thể theo ĐÚNG trình tự:", "input": "", "output": "Hấp thu, Phân bố, Chuyển hóa, Thải trừ"}
+{"instruction": "ĐỐI TƯỢNG nghiên cứu CHỦ YẾU của môn DƯỢC ĐỘNG HỌC LÂM SÀNG là:", "input": "", "output": "Người bệnh"}
+{"instruction": "Thông số ĐẶC TRƯNG của quá trình HẤP THU là:", "input": "", "output": "Sinh khả dụng"}
+{"instruction": "Chọn câu phát biểu SAI về SINH KHẢ DỤNG:", "input": "", "output": "Sinh khả dụng phản ánh sự chuyển hóa thuốc"}
+{"instruction": "Thông số Tmax trong DƯỢC ĐỘNG HỌC có ý nghĩa gì?", "input": "", "output": "Là thời gian cần để thuốc đạt được nồng độ tối đa"}
+{"instruction": "Thông số Cmax trong DƯỢC ĐỘNG HỌC có ý nghĩa gì?", "input": "", "output": "Là nồng độ tối đa thuốc đạt được trong máu trong quá trình hấp thu"}
+{"instruction": "Một PHÂN TỬ THUỐC có thể VƯỢT qua MÀNG TẾ BÀO khi:", "input": "", "output": "Tan được trong lipid"}
+{"instruction": "Một thuốc phân tán TỐT và DỄ hấp thu khi:", "input": "", "output": "Ít bị ion hóa"}
+{"instruction": "Hiệu ứng vượt qua LẦN ĐẦU diễn ra CHỦ YẾU ở các CƠ QUAN sau, NGOẠI TRỪ:", "input": "", "output": "Thận"}
+{"instruction": "Loại PROTEIN huyết tương QUAN TRỌNG tham gia GẮN KẾT với THUỐC?", "input": "", "output": "Albumin"}
+{"instruction": "Thuốc có TỶ LỆ gắn kết với PROTEIN huyết tương 80% thì được xem là:", "input": "", "output": "Thuốc gắn kết mạnh"}
+{"instruction": "Thuốc có TỶ LỆ gắn kết với PROTEIN huyết tương 60% thì được xem là:", "input": "", "output": "Thuốc gắn kết trung bình"}
+{"instruction": "Hai công ty A và B cùng kinh doanh một mặt hàng một cách độc lập. Xác suất để công ty A lỗ là 0,2 và Xác suất để công ty B lỗ là 0,4. Xác suất để chỉ có một công ty lỗ là:", "input": "", "output": "0,44"}
+{"instruction": "Biến cố đối lập của biến cố A + B là biến cố:", "input": "", "output": "Biến cố \\overline{ A}"}
+{"instruction": "Biến cố đối lập của biến cố \\overline{ XY + YZ }là:", "input": "", "output": "XY(\\overline{ Y} + \\overline{Z})"}
+{"instruction": "Cho X là biến ngẫu nhiên rời rạc có bảng phân phối Xác suất là: \nX −1 0 1 2\nP 0,25 0,3 0,15 0,3\nTính phương sai của biến ngẫu nhiên X?", "input": "", "output": "1,35"}
+{"instruction": "Xạ thủ bắn vào bia 3 phát. Xác suất trúng của mỗi phát là 0,3. Gọi X là biến ngẫu  nhiên số lần bắn trúng bia. Tìm Mod(X).", "input": "", "output": "1"}
+{"instruction": "Một kho chuyên cung cấp hàng cho 12 cửa hàng. Xác suất kho nhận được đơn đặt  hàng của mỗi cửa hàng là 0,3. Số cửa hàng mà kho nhận được đơn đặt hàng nhiều khả năng nhất trong một ngày là:", "input": "", "output": "3"}
+{"instruction": "Tỉ lệ phế phẩm của một nhà máy là 5%. Xác suất có 2 phế phẩm trong 4 sản phẩm do máy đó sản Xuất là:", "input": "", "output": "0,0135375"}
+{"instruction": "Một lớp học có 60 sinh viên nam và 40 sinh viên nữ. Gọi X là biến ngẫu nhiên số sinh viên nam trong 10 sinh viên được chọn ngẫu nhiên không hoàn lại. Quy luật phân phối của biến ngẫu nhiên X là:", "input": "", "output": "Siêu bội"}
+{"instruction": "Ba Xạ thủ mỗi người bắn một viên đạn vào bia một cách độc lập. Xác suất bắn trúng bia của ba Xạ thủ lần lượt là 0,8; 0,85; 0,9. Xác Xuất để có hai viên đạn trúng đích là:", "input": "", "output": "0,329"}
+{"instruction": "Thống kê điểm thi X môn Lý thuyết Xác suất & Thống kê toán của sinh viên tại \nTrường Đại học Ngoại thương Tp.Hồ Chí Minh cho thấy X là biến ngẫu nhiên với X ∼ N(5,25; 1,25). Tỉ lệ sinh viên có điểm thi môn này từ 4 đến 6 điểm là:", "input": "", "output": "61,72%"}
+{"instruction": "Một nhà máy có ba phân Xưởng cùng sản Xuất một loại sản phẩm. Biết tỉ lệ sản phẩm do từng phân Xưởng sản Xuất lần lượt là 45%, 30% và 25%. Tỉ lệ phế phẩm tương ứng là 3%, 2% và 1%. Lấy ngẫu nhiên một sản phẩm trong kho hàng của nhà máy thì thấy đó là phế phẩm. Tìm xác suất để phế phẩm này do phân Xưởng thứ hai sản Xuất.", "input": "", "output": "\\frac{3}{11}"}
+{"instruction": "Tuổi thọ của một loại sản phẩm là biến ngẫu nhiên có phân phối chuẩn với tuổi thọ trung bình là 1000(giờ) và độ lệch chuẩn là 10 (giờ) . Một sản phẩm được bảo hành miễn phí nếu sản phẩm hỏng trước 983,55 giờ. Tỉ lệ sản phẩm nhà cung cấp phải bảo hiểm miễn phí là:", "input": "", "output": "0,05"}
+{"instruction": "Cho X là biến ngẫu nhiên có phân phối Poisson P(\\lambda). Phương sai của biến ngẫu nhiên X là:", "input": "", "output": "V(X) = \\lambda"}
+{"instruction": "Lấy kim chích nhẹ vào chân một người đang ngủ, chân người đó tự co lại. Đây là phản xạ đơn giản, vô ý thức, có trung khu ở:", "input": "", "output": "Chất xám của tuỷ sống"}
+{"instruction": "Nếu tiểu não bị cắt bỏ sẽ làm:", "input": "", "output": "Cả 3 câu A, B, C đúng"}
+{"instruction": "Tắm rửa là hình thức rèn luyện da vì:", "input": "", "output": "Tắm rửa, kì cọ là hình thức xoa bóp da, làm cho các mạch máu dưới da lưu thông, da được nuôi dưỡng tốt"}
+{"instruction": "Điều khiển hoạt động của các cơ vân, lưỡi, hầu, thanh quản là do:", "input": "", "output": "Hệ thần kinh vận động (cơ, xương)"}
+{"instruction": "Điều khiển hoạt động của các nội quan như hệ tuần hoàn, hô hấp, tiêu hoá, sinh dục, bài tiết là do:", "input": "", "output": "Hệ thần kinh sinh dưỡng"}
+{"instruction": "Vì sao người say rượu khi định bước đi một bước lại phải bước tiếp theo vài bước nữa?", "input": "", "output": "Vì tiểu não bị rối loạn nên người say rượu không kìm được sự vận động theo quán tính"}
+{"instruction": "Hooc môn tăng trưởng của thuỳ trước tuyến yên, nếu tiết nhiều hơn bình thường ở tuổi trước dậy thì sẽ:", "input": "", "output": "Kích thích sự tăng trưởng, làm cho người cao lớn quá kích thước bình thường"}
+{"instruction": "Trong quan hệ khác loài, mối quan hệ nào sau đây có lợi cho cả 2 loài sinh vật?", "input": "", "output": "Cộng sinh"}
+{"instruction": "Nhóm sinh vật nào có khả năng chịu đựng cao đối với sự thay đổi nhiệt độ của môi trường?", "input": "", "output": "Nhóm sinh vật hằng nhiệt"}
+{"instruction": "Trong quan hệ khác loài, mối quan hệ nào sau đây một bên có lợi còn bên kia không có lợi cũng không bị hại?", "input": "", "output": "Hội sinh"}
+{"instruction": "Ánh sáng có tác dụng trực tiếp đến hoạt động sinh lí nào của cây xanh?", "input": "", "output": "Quang hợp"}
+{"instruction": "Ao, hồ, sông, suối là:", "input": "", "output": "Các hệ sinh thái nước ngọt"}
+{"instruction": "Luật bảo vệ môi trường nghiêm cấm:", "input": "", "output": "Cả A, B và C"}
+{"instruction": "Một hình lập phương có cạnh 2dm thì diện tích toàn phần là:", "input": "", "output": "24 dm^{2}"}
+{"instruction": "Hình tròn có bán kính 2,5cm, chu vi hình tròn là:", "input": "", "output": "15,7 cm"}
+{"instruction": "Số nào dưới đây có chữ số 9 ở hàng phần trăm?", "input": "", "output": "321,89"}
+{"instruction": "Điền số thích hợp vào chỗ trống:  20dm^{2}   23cm^{2}  =…. m^{2}", "input": "", "output": "0,2023"}
+{"instruction": "A= 2\\frac{3}{10}  - 75% - \\frac{1}{4}  + 0,7. Tìm A", "input": "", "output": "2"}
+{"instruction": "Một thư viện có 1000 quyển sách. Sau mỗi năm, số sách tăng thêm 10%. Sau 2 năm thư viện có bao nhiều quyển sách?", "input": "", "output": "1210 quyển"}
+{"instruction": "Nhà Nam gần bến xe. Thời gian Nam đi từ nhà đến bến xe mất 5 phút. Thời gian của một chuyến tàu là 20 phút. Thời gian từ điểm dừng chuyến tàu đến trường mất 5 phút. Thời gian Nam phải đến trường là 7 giờ 30 phút. Các chuyến tàu bắt đầu từ 6 giờ và cứ 10 phút có một chuyến. Tính thời gian muộn nhất Nam có thể đi?", "input": "", "output": "6 giờ 55 phút"}
+{"instruction": "Cạnh của một hình lập phương là 8 cm. Nếu tăng cạnh hình lập phương lên 3 lần thì diện tích toàn phần tăng lên bao nhiêu lần?", "input": "", "output": "9 lần"}
+{"instruction": "Một bể nước hình hộp chữ nhật có chiều dài 60 cm, chiều rộng 40 cm. Trong bể có 96 lít nước. Tính chiều cao của mực nước.", "input": "", "output": "4 dm"}
+{"instruction": "Khối 1 quyên góp 134 quyển, khối 2 quyên góp 98 quyển, khối 3 quyên góp 87 quyển, khối 4 quyên góp 81 quyển. Khối 5 quyên góp nhiều hơn trung bình cả năm khối 20 quyển. Tính số quyển khối 5 quyên góp.", "input": "", "output": "125 quyển"}
+{"instruction": "Tích sau có tận cùng bao nhiêu chữ số 0?\n23 \\times 24  \\times 25  \\times 26  \\times 27  \\times 28  \\times 29  \\times 30  \\times 31  \\times 32", "input": "", "output": "3 chữ số 0"}
+{"instruction": "Quãng đường AB dài 180km. Một ô tô đi \\frac{1}{6} quãng đường AB hết 35 phút, trên quãng đường còn lại ô tô đi với vận tốc 40km/giờ. Hỏi ô tô đi hết quãng đường AB trong bao lâu?", "input": "", "output": "4 giờ 20 phút"}
+{"instruction": "Một hình bình hành có độ dài đáy bằng 24cm, chiều cao bằng  \\frac{3}{8}  độ dài đáy. Diện tích của hình bình hành đó là:", "input": "", "output": "216cm^{2}"}
+{"instruction": "Số đo thể tích nào lớn nhất trong các số đo dưới đây?", "input": "", "output": "6 470 000cm^{3}"}
+{"instruction": "Kernel của Hệ điều hành là gì?", "input": "", "output": "Là lớp nhân quản lý, điều phối các chương trình, phần cứng"}
+{"instruction": "Shell của Hệ điều hành là gì?", "input": "", "output": "Là lớp chương trình hỗ trợ giao tiếp của người dùng với Kernel"}
+{"instruction": "Trong hệ thống máy tính, người dùng phát lệnh cho Hệ điều hành thực thi thông qua lớp nào?", "input": "", "output": "Lớp Shell"}
+{"instruction": "Vai trò của trình biên dịch (Compilers) bên trong một Hệ điều hành là gì?", "input": "", "output": "Biên dịch các lệnh của Applications để CPU thực thi,"}
+{"instruction": "Để đáp ứng vai trò của Hệ điều hành, kiến trúc cơ bản của Hệ điều hành gồm các thành phần:", "input": "", "output": "Nhân, vỏ, giao diện người dùng"}
+{"instruction": "Terminal trong Hệ điều hành Linux là dạng gì?", "input": "", "output": "Là lớp Shell dưới dạng một ứng dụng"}
+{"instruction": "Hệ điều hành Windows 10 cung cấp giao diện người dùng (User interface) theo dạng nào?", "input": "", "output": "Cả 2 dạng GUI và CLI"}
+{"instruction": "Lịch sử phát triển của Hệ điều hành bùng nổ trong theo thời đại công nghệ điện tử nào?", "input": "", "output": "Công nghệ điện tử dùng VLSI (Very large-scale integration)"}
+{"instruction": "Hệ điều hành thực hiện các tác vụ lần lượt theo những chỉ thị đã được xác định trướC. Tên gọi của Hệ điều hành đó là:", "input": "", "output": "Hệ điều hành xử lý theo lô đơn giản"}
+{"instruction": "Đâu là ưu điểm chính của Hệ thống xử lý đa chương (multiprogramming system)?", "input": "", "output": "Hệ thống chạy được nhiều chương trình cùng lúc"}
+{"instruction": "Mục dích chính của Hệ thống xử lý đa chương (multiprogramming system) là gì?", "input": "", "output": "Tận dụng thời gian nhàn rỗi của CPU"}
+{"instruction": "Điều kiện nào sau đây KHÔNG CẦN cho hoạt động đa chương của hệ điều hành?", "input": "", "output": "Ứng dụng được lập trình đa nhiệm"}
+{"instruction": "Phát biểu nào sau đây KHÔNG ĐÚNG với hệ thống chia sẻ thời gian (time-sharing)?", "input": "", "output": "Time-sharing yêu cầu hoàn thành xong nhiệm vụ 1 mới chia sẻ cho nhiệm vụ 2"}
+{"instruction": "Hệ điều hành nào sau đây đòi hỏi phải thực hiện đầy đủ các tác vụ: Quản lý tiến trình, Định thời CPU, Quản lý bộ nhớ, Quản lý cấp phát tài nguyên, Quản lý file?", "input": "", "output": "Hệ điều hành xử lý chia sẻ thời gian (Time-sharing)"}
+{"instruction": "Để phòng bệnh viêm gan A, phải làm gì ?", "input": "", "output": "Ăn chín, uống sôi, rửa tay trước khi ăn và sau khi đi đại tiện"}
+{"instruction": "Giữa nam nữ có khác về:", "input": "", "output": "Cấu tạo chức năng của cơ quan sinh dục"}
+{"instruction": "Bệnh nào dưới đây không do muỗi truyền?", "input": "", "output": "Viêm gan A"}
+{"instruction": "Câu nào dưới đây là công dụng của đồng ?", "input": "", "output": "Được sử dụng làm đồ điện, dây điện, một số bộ phận của ô tô, tàu biển…"}
+{"instruction": "Phát biểu nào sau đây về bệnh sốt xuất huyết là không đúng?", "input": "", "output": "Bệnh này không nguy hiểm với trẻ em"}
+{"instruction": "Nguồn năng lượng chủ yếu của sự sống trên Trái đất là ?", "input": "", "output": "Mặt trời"}
+{"instruction": "Đa số các cây con được mọc lên từ:", "input": "", "output": "Hạt"}
+{"instruction": "Vật nào sau đây hoạt động được nhờ năng lượng gió ?", "input": "", "output": "Thuyền buồm"}
+{"instruction": "Cơ quan sinh sản của thực vật có hoa là :", "input": "", "output": "Hoa"}
+{"instruction": "Các chất đốt sau đây chất nào ở thể khí ?", "input": "", "output": "Ga"}
+{"instruction": "Bộ phận nào của hoa sẽ phát triển thành hạt ?", "input": "", "output": "Noãn"}
+{"instruction": "Trong các vật dưới đây, vật nào cách điện ?", "input": "", "output": "Cao su"}
+{"instruction": "Trong các năng lượng sau đây, năng lượng nào không phải là năng lượng sạch ?", "input": "", "output": "Năng lượng từ than đá, dầu mỏ, khí đốt"}
+{"instruction": "Để bảo vệ sức khoẻ về thể chất và tinh thần ở tuổi dậy thì chúng ta cần?", "input": "", "output": "Ăn uống đủ chất, tăng cường tập luyện thể dục thể thao"}
+{"instruction": "Một biến được gọi là một biến địa phương nếu:", "input": "", "output": "Nó được khai báo bên trong các hàm hoặc thủ tục, kể cả hàm main()"}
+{"instruction": "Nếu x là một biến toàn cục và x không phải là một con trỏ thì:", "input": "", "output": "Miền nhớ dành cho x không bị thay đổi trong quá trình thực hiện chương trình"}
+{"instruction": "Kiểu dữ liệu nào dưới đây được coi là kiểu dữ liệu cơ bản trong ngôn ngữ lập trình C:", "input": "", "output": "Kiểu double"}
+{"instruction": "Giả sử a, b là hai số thực. Biểu thức nào dưới đây viết không đúng theo cú pháp của ngôn ngữ lập trình C:", "input": "", "output": "(a&=b)"}
+{"instruction": "Giả sử a và b là hai số thực. Biểu thức nào dưới đây là không được phép theo 7cú pháp của ngôn ngữ lập trình C:", "input": "", "output": "(a>>=b)"}
+{"instruction": "Xâu định dạng nào dưới đây dùng để in ra một số nguyên hệ 16:", "input": "", "output": "“%x”"}
+{"instruction": "Xâu định dạng nào dưới đây dùng để in ra một số nguyên ở hệ 8:", "input": "", "output": "“%o”"}
+{"instruction": "Xâu định dạng nào dưới đây dùng để in ra một kí tự:", "input": "", "output": "“%c”"}
+{"instruction": "Xâu định dạng nào dưới đây dùng để in ra một xâu kí tự:", "input": "", "output": "“%s”"}
+{"instruction": "Xâu định dạng nào dưới đây dùng để in ra một số nguyên dài:", "input": "", "output": "“%ld”"}
+{"instruction": "Xâu định dạng nào dưới đây dùng để in ra địa chỉ của một biến:", "input": "", "output": "“%p”"}
+{"instruction": "Xâu định dạng nào dưới đây dùng để in ra một số nguyên:", "input": "", "output": "“%d”"}
+{"instruction": "Xâu định dạng nào dưới đây dùng để in ra một số thực có độ chính xác kép:", "input": "", "output": "“%e”"}
+{"instruction": "Chức năng chính của tập các thanh ghi (Registers) là:", "input": "", "output": "Chứa các thông tin phục vụ cho hoạt động của CPU"}
+{"instruction": "Một máy tính sử dụng bộ vi xử lý Intel Pentium có độ rộng của đường bus địa chỉ (Address Bus) là 32 bit. Hỏi với máy tính này, dung lượng tối đa của bộ nhớ chính là bao nhiêu?", "input": "", "output": "4 GB"}
+{"instruction": "Phần khai báo biến sau trong C chiếm bao nhiêu byte trong bộ nhớ Var int M1[100]; char M2[100];", "input": "", "output": "300"}
+{"instruction": "Kết quả của biểu thức 2*3+4/2>3 && 3<5 || 10<9 sẽ bằng", "input": "", "output": "1"}
+{"instruction": "Cho các số nguyên không dấu \nA = FA(16), \nB = 153(8), \nC = 200(10) \nHãy sắp xếp A, B, C theo thứ tự tăng dần", "input": "", "output": "B, C, A"}
+{"instruction": "Giá trị của số thập phân 12.6875 trong hệ nhị phân là:", "input": "", "output": "1100"}
+{"instruction": "Giá trị số nhị phân 110101010 khi chuyển sang hệ thập lục phân (hệ cơ số đếm 16) sẽ bằng", "input": "", "output": "1AA"}
+{"instruction": "Hãy cho biết sau đoạn lệnh sau biến a nhận giá trị bằng bao nhiêu? int a,b,c; b=10; c=20; a=b>c?100:200; A.a=0B.a=-1", "input": "", "output": "A = 200"}
+{"instruction": "Cho biết giá trị của các biến a,b,c sau khi thực hiện đoạn chương trình sau: int a,b,c; a=5; b=a++; c= a++ + ++b –1;", "input": "", "output": "A=7, b=6, c=11"}
+{"instruction": "Windows: Thao tác làm thay đổi ảnh nền cho Win XP:", "input": "", "output": "Nhấp phải nền > Properties > Desktop > chọn ảnh"}
+{"instruction": "Windows: Phát biểu nào sai dưới đây:", "input": "", "output": "File có thể chứa Folder con"}
+{"instruction": "Windows: Thư mục gốc của một ổ đĩa có thể chứa:", "input": "", "output": "Nhiều File, phụ thuộc vào dung lượng đĩa"}
+{"instruction": "Windows: Để máy tính có thể làm việc được, hệ điều hành cần nạp vào:", "input": "", "output": "Ram"}
+{"instruction": "Windows: Cho biết cách xóa một tập tin hay thư mục mà không di chuyển vào Recycle Bin:", "input": "", "output": "Chọn thư mục hay tập tin cần xóa -> Delete"}
+{"instruction": "Polime nào sau đây thuộc loại polime bán tổng hợp?", "input": "", "output": "Tơ visco"}
+{"instruction": "Chất nào sau đây là tripeptit?", "input": "", "output": "Ala-Ala-Gly"}
+{"instruction": "Chất nào sau đây là muối trung hòa?", "input": "", "output": "$NaNO_{3}$"}
+{"instruction": "Số nguyên tử hiđro trong phân tử axit oleic là", "input": "", "output": "34"}
+{"instruction": "Khi đun nấu bằng than tổ ong thường sinh ra khí X không màu, không mùi, bền với nhiệt, hơi nhẹ hơn không khí và dễ gây ngộ độc đường hô hấp. Khí X là", "input": "", "output": "CO"}
+{"instruction": "Ở nhiệt độ thường, kim loại Al tan hoàn toàn trong lượng dư dung dịch nào sau đây?", "input": "", "output": "HCl"}
+{"instruction": "Dung dịch chất nào sau đây làm quỳ tím chuyển thành màu hồng?", "input": "", "output": "Axit glutamic"}
+{"instruction": "Cacbohiđrat nào sau đây thuộc loại polisaccarit?", "input": "", "output": "Xenlulozơ"}
+{"instruction": "Kim loại nào sau đây có nhiệt độ nóng chảy cao nhất?", "input": "", "output": "W"}
+{"instruction": "Sắt(II) hiđroxit là chất rắn màu trắng hơi xanh. Công thức của sắt(II) hiđroxit là", "input": "", "output": "$Fe(OH) _{2}$"}
+{"instruction": "Este X được tạo bởi ancol etylic và axit axetic. Công thức của X là", "input": "", "output": "$CH_{3}COOC_{2}H_{5}$"}
+{"instruction": "Ở nhiệt độ cao, H2 khử được oxit nào sau đây?", "input": "", "output": "FeO"}
+{"instruction": "Kim loại phản ứng với dung dịch HCl loãng sinh ra khí $H_{2}$ là", "input": "", "output": "Fe"}
+{"instruction": "Công thức phân tử của glixerol là", "input": "", "output": "$C_{3}H_{8}O_{3}$"}
+{"instruction": "Chọn câu sai:", "input": "", "output": "Theo quan hệ nhân quả thì thứ tự xảy ra biến cố có thể thay đổi khi chuyển đổi hệ quy chiếu"}
+{"instruction": "Chọn câu sai. Theo cơ học tương đối thì:", "input": "", "output": "Khi chuyển động thì khối lượng của vật giảm đi"}
+{"instruction": "Chọn câu sai. Khi một hạt nhân phân rã thành các hạt nhỏ hơn:", "input": "", "output": "Khối lượng hạt nhân trước phân rã bằng tổng khối lượng các hạt sau phân rã"}
+{"instruction": "Chọn câu sai. Sự khác nhau của cơ học cổ điển và cơ học lượng tử:", "input": "", "output": "Phương trình cơ bản của cơ học là phương trình Schrodinger"}
+{"instruction": "Ý nghĩa triết học của hệ thức bất định là:", "input": "", "output": "Biết giới hạn sử dụng của cơ học cổ điển"}
+{"instruction": "Hệ thức bất định Heisenberg chứng tỏ rằng, việc không xác định được chính xác đồng thời các đại lượng là do", "input": "", "output": "Tính khách quan của sự vật"}
+{"instruction": "Ta nói hàm sóng của vi hạt mang tính chất thống kê vì:", "input": "", "output": "Cho biết mật độ xác suất tìm vi hạt"}
+{"instruction": "Hàm sóng của vi hạt phải thỏa mãn điều kiện:", "input": "", "output": "Cả a, b và c"}
+{"instruction": "Ý nghĩa vật lý của hàm sóng trong cơ học lượng tử:", "input": "", "output": "Bình phương modul của nó cho ta biết mật độ xác suất tìm vi hạt"}
+{"instruction": "Hiệu ứng đường hầm ( tunnel ) khi có rào thế:", "input": "", "output": "Hạt chui ngầm qua rào với xác suất rất nhỏ"}
+{"instruction": "Giả thuyết Đơ Brơi (de Broglie) phát biểu cho một vi hạt tự do có năng lượng xác định, động lượng xác định, tương ứng với một sóng xác định là:", "input": "", "output": "Sóng phẳng đơn sắc"}
+{"instruction": "Một hạt chuyển động trong hố thế năng một chiều với chiều cao vô cùng, có năng lượng bằng 9ev ở trạng thái kích thích thứ hai. Năng lượng thấp nhất mà hạt có thể có là:", "input": "", "output": "1 ev"}
+{"instruction": "Một vi hạt chuyển động trong hố thế năng một chiều với chiều cao vô cùng, có năng lượng bằng 16ev ở trạng thái n = 3. Năng lượng ứng với trạng thái n = 4 bằng", "input": "", "output": "28"}
+{"instruction": "Theo lí thuyết, phép lai nào sau đây tạo ra đời con có kiểu gen aa chiếm tỉ lệ 25%?", "input": "", "output": "Aa × Aa"}
+{"instruction": "Theo quan điểm của Đacuyn, nguyên liệu của chọn lọc tự nhiên là", "input": "", "output": "Biến dị cá thể"}
+{"instruction": "Cho sơ đồ minh hoạ về sự truyền năng lượng qua các bậc dinh dưỡng như sau: Mặt Trời → Sinh vật a → Sinh vật b → Sinh vật c → Sinh vật D. Sinh vật nào sau đây thuộc bậc dinh dưỡng cấp 2?", "input": "", "output": "Sinh Vật b"}
+{"instruction": "Trong hệ sinh thái đồng cỏ, nhân tố nào sau đây là nhân tố sinh thái hữu sinh?", "input": "", "output": "Sâu Ăn cỏ"}
+{"instruction": "Cho các dòng thuần chủng có kiểu gen như sau: (I): AAbb; (II): aaBB; (III): AABB; (IV): aabB. Theo lí thuyết, phép lai nào sau đây tạo ra đời con có ưu thế lai cao nhất?", "input": "", "output": "Dòng (I) × dòng (II)"}
+{"instruction": "Theo lí thuyết, phép lai P: AB/AB x aB/aB tạo ra F1 có bao nhiêu loại kiểu gen?", "input": "", "output": "1"}
+{"instruction": "Sự biến động số lượng cá thể của quần thể diễn ra theo chu kì mùa có thể do nguyên nhân nào sau đây?", "input": "", "output": "Khí Hậu"}
+{"instruction": "Trong kĩ thuật chuyển gen vào vi khuẩn E. coli, để nhận biết tế bào chứa ADN tái tổ hợp hay chưa, các nhà khoa học phải chọn thể truyền có", "input": "", "output": "Gen đánh dấu"}
+{"instruction": "Hai loài cá sống trong một ao, cùng sử dụng một loài thực vật thuỷ sinh làm thức ăn. Giữa hai loài cá này có mối quan hệ sinh thái nào sau đây?", "input": "", "output": "Cạnh Tranh"}
+{"instruction": "Một gen có thể tác động đến sự biểu hiện của nhiều tính trạng khác nhau là hiện tượng di truyền nào sau đây?", "input": "", "output": "Tác Động đa hiệu của gen"}
+{"instruction": "Một quần thể thực vật có thành phần kiểu gen: 0,2 AA : 0,2 Aa : 0,6 aA. Theo lí thuyết, tần số alen A của quần thể này là", "input": "", "output": "0,3"}
+{"instruction": "Ở người, dạng đột biến nào sau đây gây hội chứng Đao?", "input": "", "output": "Thể Ba NST số 21"}
+{"instruction": "Cơ quan tương tự ở các loài khác nhau có đặc điểm nào sau đây?", "input": "", "output": "Không được bắt nguồn từ một nguồn gốc"}
+{"instruction": "Theo lí thuyết, trường hợp nào sau đây ở thú, tính trạng do gen quy định chỉ biểu hiện ở giới đực?", "input": "", "output": "Gen Nằm trên vùng không tương đồng của NST giới tính Y"}
+{"instruction": "Tìm x để hai vectơ \\vec{a}=(x;{-}2) và \\vec{b}=(4;{-}5) có giá vuông góc với nhau", "input": "", "output": "-\\frac{5}{2}"}
+{"instruction": "Biết hệ phương trình \\begin{cases}\\frac{6}{x}+\\frac{5}{y}=3\\\\ \\frac{9}{x}-\\frac{10}{y}=1\\end{cases} có 1 nghiệm \\left(x;{y}\\right). Hiệu y-x là", "input": "", "output": "2"}
+{"instruction": "Cho hai vectơ \\vec{a},  \\vec{b} thỏa mãn: \\left|\\vec{a}\\right|=4,  \\left|\\vec{b}\\right|=3,  \\left|\\vec{a}-\\vec{b}\\right|=4. Gọi \\alpha là góc giữa hai vectơ \\vec{a},  \\vec{b}. Chọn phát biểu đúng", "input": "", "output": "\\cos{\\alpha}=\\frac{3}{8}"}
+{"instruction": "Gọi  x_2 là hai nghiệm của phương trình \\left|x-2\\right|=\\left|2x-1\\right|. Khẳng định nào sau đây là sai", "input": "", "output": "X_1"}
+{"instruction": "Hai vec tơ được gọi là bằng nhau nếu", "input": "", "output": "Chúng có cùng hướng và cùng độ dài"}
+{"instruction": "Parabol y=-4x-2x^2 có đỉnh là", "input": "", "output": "I\\left(-1;{2}\\right)"}
+{"instruction": "Cho hàm số y=\\frac{\\sqrt{x-2}-2}{x-6}. Điểm nào sau đây thuộc đồ thị hàm số", "input": "", "output": "\\left(2;{0,5}\\right)"}
+{"instruction": "Hình vẽ sau đây (phần không bị gạch) là biểu diễn của tập hợp nào", "input": "", "output": "\\left(-\\infty;{-}2\\right)\\cup\\left[5;{+}\\infty\\right)"}
+{"instruction": "Một lượng lớn nước thải công nghiệp chưa qua xử lí đổ trực tiếp ra sông suối là nguyên nhân gây ô nhiễm môi trường tại nhiều khu vực trên đất nước ta. Để xử lí sơ bộ mẫu nước thải chứa các ion Pb^{2+},{Fe}^{3+}{,}Cu^{2+},Hg^{2+},... người ta có thể dùng", "input": "", "output": "Ca(OH) _{2}"}
+{"instruction": "Trong các chất sau: etan, propen, benzen, glyxin, stiren. Chất có phản ứng trùng hợp để tạo ra được polime là", "input": "", "output": "Stiren, propen"}
+{"instruction": "Trong phản ứng: Fe+Cu^{2+}\\buildrel\\emsp\\emsp\\frac\\rightarrow Fe^{2+}+Cu. Chất bị oxi hóa là", "input": "", "output": "Fe"}
+{"instruction": "Công thức tổng quát của hiđrocacbon X bất kì có dạng C_nH_{2n+2-2k}", "input": "", "output": "K=0,n\\geq1\\rightarrow X là ankan"}
+{"instruction": "Thủy phân este C_{2}H_{5}COOCH=CH_{2} trong môi trường axit thu được", "input": "", "output": "C_{2}H_{5}COOH, CH_{3}CHO"}
+{"instruction": "Saccarozơ có công thức phân tử là", "input": "", "output": "C_{12}H_{22}O _{11}"}
+{"instruction": "Phản ứng nào sau đây không đúng?", "input": "", "output": "2Fe+3I_2\\buildrel\\emsp t^0\\emsp\\frac\\rightarrow2FeI_3"}
+{"instruction": "Số đipeptit có thể tạo thành từ phân tử glyxin và phân tử alanin là", "input": "", "output": "4"}
+{"instruction": "Phản ứng nào sau đây có phương trình ion rút gọn là H^++OH^-\\buildrel\\emsp\\emsp\\frac\\rightarrow H_2O?", "input": "", "output": "Ca\\left(OH\\right)_2+2HCl\\buildrel\\emsp\\emsp\\frac\\rightarrow CaCl_2+2H_2O"}
+{"instruction": "Trường hợp nào sau đây không xảy ra phản ứng?", "input": "", "output": "Ni+Mg^{2+}"}
+{"instruction": "Cho các chất: axit propionic (X); axit axetic (Y); ancol etylic (Z) và metyl axetat (T). Đây gồm các chất được sắp xếp theo chiều tăng dần nhiệt độ sôi là", "input": "", "output": "T, Z, Y, X"}
+{"instruction": "Đốt cháy hoàn toàn 3,42 gam hỗn hợp gồm axit acrylic, vinyl axetat, metyl axetat và axit oleic, rồi hấp thụ toàn bộ sản phẩm cháy vào dung dịch Ca(OH)_{2} dư. Sau phản ứng thu được 18 gam kết tủa và dung dịch X. Khối lượng X so với khối lượng dung dịch Ca(OH) _{2} ban đầu đã thay đổi như thế nào?", "input": "", "output": "Giảm 7,38 gam"}
+{"instruction": "Phích đựng nước lâu ngày sẽ thấy hiện tượng xung quanh thành ruột phích có một lớp cặn bám vào. Chất có thể dùng làm sạch được chất cặn đó là", "input": "", "output": "CH_{3}COOH"}
+{"instruction": "Tiến hành các thí nghiệm sau:\n(1) Cho Zn vào dung dịch FeCl_{3} dư.\n(2) Dẫn khí H_{2} dư qua bột CuO nung nóng.\n(3) Nhiệt phân AgNO_{3}.\n(4) Đốt HgS trong không khí.\n(5) Cho Na vào dung dịch CuSO_{4} dư.\n(6) Điện phân dung dịch CuSO_{4} điện cực trơ.\nSau khi kết thúc các phản ứng, số thí nghiệm thu được kim loại là", "input": "", "output": "4"}
+{"instruction": "Cho 3 dung dịch nước (dd) BaCl_2, Na_2CO_3, NaCl và nước nguyên chất. BaCO_3 tan nhiều hơn cả trong:", "input": "", "output": "Dd NaCl"}
+{"instruction": "Chọn phát biểu đúng: Phản ứng A (k) \\rightleftharpoons  B (k) + C (k) ở 300^oC có Kp = 100, ở 500^oC có Kp = 150. Vậy phản ứng trên là một quá trình:", "input": "", "output": "Thu nhiệt"}
+{"instruction": "Chọn phương án đúng: Trong đa số trường hợp độ điện ly a của chất điện ly:", "input": "", "output": "Tăng lên khi tăng nhiệt độ và giảm nồng độ dung dịch"}
+{"instruction": "Chọn phương án đúng: Tính hiệu ứng nhiệt DH0 của phản ứng: B ® A, biết hiệu ứng nhiệt của các phản ứng sau: C -> A ; DH1, D -> C ; DH2, D -> B ; DH3.", "input": "", "output": "DH0 = DH1 + DH2 - DH3"}
+{"instruction": "Chọn phương án đúng: Để phản ứng hóa học xảy ra, hệ phải tiêu tốn một công 210kJ và nội năng của hệ giảm 20kJ. Hiệu ứng nhiệt đẳng áp của phản ứng có giá trị:", "input": "", "output": "-230 kJ, phản ứng tỏa nhiệt"}
+{"instruction": "Chọn phương án đúng: Hòa tan 0,08mol ZnCl_2 vào 1ℓ nước nguyên chất được dung dịch, đông đặc ở -0,4^0C. Xác định độ điện ly biểu kiến của ZnCl_2 trong dung dịch. Cho biết hằng số nghiệm đông của nước kđ = 1,86 độ/mol", "input": "", "output": "0,844"}
+{"instruction": "Chọn phương án đúng: Các đại lượng nào sau đây là hàm trạng thái: 1. Áp suất (p), 2. Nội năng (U), 3. Nhiệt (Q), 4. Entanpi (H)", "input": "", "output": "1, 2 & 4"}
+{"instruction": "Chọn câu đúng. Phản ứng : 2A(r) + B(ℓ) = 2C(r) + D(ℓ) có:", "input": "", "output": "\\Delta S » 0"}
+{"instruction": "Chọn phương án đúng: Cho một phản ứng thuận nghịch trong dung dịch lỏng: A + B  \\rightleftharpoons  C +D. Hằng số cân bằng Kc ở điều kiện cho trước bằng 50. Một hỗn hợp có nồng độ C_A = C_B = 10^{-3}M, C_C = C_D = 0,01M. Trạng thái của hệ ở điều kiện này như sau:", "input": "", "output": "Hệ đang dịch chuyển theo chiều nghịch"}
+{"instruction": "Chọn phương án đúng: Cho phản ứng : C_{6}H_{6} + \\frac{15}{2}O_{2}(k) -> 6CO_{2}(k) + 3H_{2}O. Ở 27^{o}C phản ứng có \\DeltaH – \\DeltaU = 3741,3 J. Hỏi C_{6}H_{6} và H_{2}O trong phản ứng ở trạng thái lỏng hay khí? Cho biết R = 8,314J/mol.K", "input": "", "output": "C_{6}H_{6}(ℓ) và H_{2}O(k)"}
+{"instruction": "Chọn phát biểu đúng: Biết áp suất hơi bão hoà của benzen (M = 78 g/mol) ở 25^{o}C bằng 95,0 mmHg. Khi hòa tan 0,155g, hợp chất [Al(CH_{3})_{3}]x ( M[Al(CH ) ] = 72) không bay hơi, không điện ly vào trong 10,0g benzen thì áp suất hơi của dung dịch thu được là 94,2 mmHg. Hãy xác định x trong công thức phân tử [Al(CH_{3})_{3}]_{x}", "input": "", "output": "2"}
+{"instruction": "Chọn phương án đúng: Tích số tan của Cu(OH)_{2} bằng 2.10^{-20} . Thêm dần NaOH vào dung dịch muối Cu(NO_{3})_{2} 0,02M cho tới khi kết tủa Cu(OH)_{2} xuất hiện. Vậy, giá trị pH mà khi vượt quá nó thì kết tủa bắt đầu xuất hiện là:", "input": "", "output": "5"}
+{"instruction": "Chọn phương án đúng: Tích số tan của Cu(OH)_{2}bằng 2.10^{-20}. Thêm dần NaOH vào dung dịch muối Cu(NO_{3})_{2} 0,02M cho tới khi kết tủa Cu(OH)_{2} xuất hiện. Vậy, giá trị pH mà khi vượt quá nó thì kết tủa bắt đầu xuất hiện là:", "input": "", "output": "5"}
+{"instruction": "Khẳng định nào dưới đây đúng?", "input": "", "output": "\\displaystyle\\int e^x\\mathrm{\"\\ d\"}xe^x+C"}
+{"instruction": "Trong không gian Oxyz, cho đường thẳng d:{\\frac{x-2}{1}}=\\frac{y-1}{-2}=\\frac{z+1}{3}. Điểm nào dưới đây thuộc d?", "input": "", "output": "P\\left(2;{1};{-}1\\right)"}
+{"instruction": "Cho hàm số y=f\\left(x\\right) có bảng biến thiên như sau:\nHàm số đã cho đồng biến trên khoảng nào dưới đây?", "input": "", "output": "\\left(-1;{0}\\right)"}
+{"instruction": "Cho cấp số nhân \\left(u_n\\right) với u_1=3 và công bội q=2. Số hạng tổng quát u_n\\left(n\\geq2\\right) bằng", "input": "", "output": "3"}
+{"instruction": "Cho khối nón có diện tích đáy 3a^2 và chiều cao 2a. Thể tích của khối nón đã cho bằng", "input": "", "output": "2a^3"}
+{"instruction": "Phần ảo của số phức z=\\left(2-i\\right)\\left(1+i\\right) bằng", "input": "", "output": "1"}
+{"instruction": "Cho khối chóp S.ABC có chiều cao bằng 5, đáy ABC có diện tích bằng 6. Thể tích khối chóp S.ABC bằng", "input": "", "output": "10"}
+{"instruction": "Trong không gian Oxyz, cho hai vecto \\vec{u}=\\left(1;{-}4;{0}\\right) và \\vec{v}=\\left(-1;{-}2;{1}\\right). Vecto \\vec{u}+3\\vec{v} có tọa độ là", "input": "", "output": "\\left(-2;{-}10;{3}\\right)"}
+{"instruction": "Từ các chữ số 1, 2, 3, 4, 5 lập được bao nhiêu số tự nhiên gồm năm chữ số đôi một khác nhau?", "input": "", "output": "120"}
+{"instruction": "Tập xác định của hàm số y=\\mathrm{log}_2 (x-1) là", "input": "", "output": "\\left(1;{+}\\infty\\right)"}
+{"instruction": "Trong không gian Oxyz, phương trình của mặt phẳng \\left(Oxy\\right) là:", "input": "", "output": "Z=0"}
+{"instruction": "Một con lắc lò xo gồm vật nhỏ khối lượng m và lò xo nhẹ có độ cứng k đang dao động điều hòa. Đại lượng T=2\\pi\\sqrt{\\frac{m}{k}} được gọi là", "input": "", "output": "Chu kì của con lắc"}
+{"instruction": "Sóng truyền trên một sợi dây có hai đầu cố định với bước sóng \\lambda. Muốn có sóng dừng trên dây thì chiều dài l của dây thỏa mãn công thức nào sau đây?", "input": "", "output": "L=k\\frac{\\lambda}{2} với k=1,2,3,\\ldots"}
+{"instruction": "Thí nghiệm Y-âng về giao thoa với ánh sáng đơn sắc được ứng dụng để", "input": "", "output": "Đo bước sóng ánh sáng đơn sắc"}
+{"instruction": "Âm có tần số lớn hơn 20000\\mathrm{\"\\ Hz\"} được  gọi là", "input": "", "output": "Siêu âm và tai người không nghe được"}
+{"instruction": "Chiếu một chùm tia tử ngoại vào một tấm đồng thì các êlectron trên bề mặt tấm đồng bật ra.\nĐây là hiện tượng", "input": "", "output": "Quang điện ngoài"}
+{"instruction": "Chiếu một chùm ánh sáng trắng, hẹp tới mặt bên của một lăng kính. Sau khi qua lăng kính, chùm sáng bị phân tách thành các chùm sáng có màu khác nhau. Đây là hiện tượng", "input": "", "output": "Tán sắc ánh sáng"}
+{"instruction": "Một hệ đang dao động cưỡng bức, phát biểu nào sau đây sai?", "input": "", "output": "Dao động cưỡng bức có tần số luôn bằng tần số dao động riêng của hệ"}
+{"instruction": "Các nuclôn trong hạt nhân hút nhau bằng các lực rất mạnh tạo nên hạt nhân bền vững. Các lực hút đó gọi là", "input": "", "output": "Lực hạt nhân"}
+{"instruction": "Sóng cơ không truyền được trong", "input": "", "output": "Chân không"}
+{"instruction": "Số nuclôn có trong hạt nhân {_3^7}Li là", "input": "", "output": "7"}
+{"instruction": "Đặt điện áp xoay chiều có giá trị hiệu dụng U vào hai đầu đoạn mạch chỉ có điện trở R. Cường độ dòng điện hiệu dụng trong đoạn mạch là", "input": "", "output": "I=\\frac{U}{R"}
+{"instruction": "Lỗ trống là hạt tải điện trong môi trường nào sau đây?", "input": "", "output": "Chất bán dẫn"}
+{"instruction": "Khi nói về tia laze, phát biểu nào sau đây sai?", "input": "", "output": "Tia laze luôn có cường độ nhỏ"}
+{"instruction": "Một máy phát điện xoay chiều một pha khi hoạt động tạo ra suất điện động e=60\\sqrt2\\mathrm{cos}110\\pi t\\left(V\\right). Giá trị hiệu dụng của suất điện động này là", "input": "", "output": "60 V"}
+{"instruction": "Trong một BJT, dòng base là . . . . . . . . . . . . . . . . . . khi được so với hai dòng collector và\nemitter..", "input": "", "output": "Nhỏ"}
+{"instruction": "Một BJT có cấu tạo để vùng base của nó rất mỏng và . . . . ..", "input": "", "output": "Được pha tạp loãng"}
+{"instruction": "Dòng collector của BJT luôn luôn . . . .", "input": "", "output": "Bằng dòng emitter trừ dòng base"}
+{"instruction": "Trong hoạt động thông thường của transistor NPN, phần lớn điện tử di chuyển vào cực emitter . . . .", "input": "", "output": "Ra khỏi transistor thông qua cực collector"}
+{"instruction": "Phương trình nào biểu diễn quan hệ đúng giữa các dòng base, emitter, và collector ?", "input": "", "output": "I_{E} = I_{B} + I_{C}"}
+{"instruction": "Khi một chuyển mạch bằng BJT đang dẫn bảo hoà, thì V_{CE} xấp xỉ bằng . . . . . . . .", "input": "", "output": "0,2V"}
+{"instruction": "Khi một chuyển mạch bằng BJT đang dẫn, thì dòng collector sẽ được giới hạn bởi . . . . . .", "input": "", "output": "Điện trở tải"}
+{"instruction": "Khi một chuyển mạch bằng BJT ngưng dẫn, thì V_{CE} xấp xỉ bằng . . . . . .", "input": "", "output": "V_{CC}"}
+{"instruction": "Ba thông số quan trọng của BJT là beta, công suất tiêu tán lớn nhất, và . . . . . . . .", "input": "", "output": "Dòng collector nhỏ nhất"}
+{"instruction": "Thông số hfe sẽ bằng với . . . . . . . . của transistor.", "input": "", "output": "Beta"}
+{"instruction": "Khi mạch khuyếch đại bằng BJT được phân cực đúng để hoạt động ở chế độ A, thì . . . . . . .", "input": "", "output": "Tiếp giáp base - emitter được phân cực thuận và tiếp giáp base - collector được phân cực ngược"}
+{"instruction": "Để mạch khuyếch đại hoạt động ở chế độ A, thì tiếp giáp base - collector của BJT cần phải . . .", "input": "", "output": "Được phân cực ngược"}
+{"instruction": "Hệ số khuyếch đại điện áp của mạch khuyếch đại bằng BJT bằng . . . . . .", "input": "", "output": "\\frac{V_{out}}{V_{in}}"}
+{"instruction": "Nếu các thiết bị đo có cùng cấp chính xác, thì phép đo trực tiếp có sai số:", "input": "", "output": "Lớn hơn phép đo gián tiếp"}
+{"instruction": "Để giảm nhỏ sai số hệ thống thường dùng phương pháp:", "input": "", "output": "Kiểm định thiết bị đo thường xuyên"}
+{"instruction": "Để giảm nhỏ sai số ngẫu nhiên thường dùng phương pháp:", "input": "", "output": "Thực hiện phép đo nhiều lần"}
+{"instruction": "Sai số tuyệt đối là:", "input": "", "output": "Hiệu số giữa giá trị thực với giá trị đo được"}
+{"instruction": "Sai số tương đối là:", "input": "", "output": "Tỉ số giữa sai số tuyệt đối với giá trị thực"}
+{"instruction": "Việc chuẩn hoá thiết bị đo thường được xác định theo:", "input": "", "output": "4 cấp"}
+{"instruction": "Một vôn kế có giới hạn đo 250V, dùng vôn kế này đo điện áp 200V thì vôn kế chỉ 210V. Sai số tương đối của phép đo là:", "input": "", "output": "5%"}
+{"instruction": "Một vôn kế có sai số tầm đo ±1% ở tầm đo 300V, giới hạn sai số ở 120V là:", "input": "", "output": "2,5%"}
+{"instruction": "Ưu điểm của mạch điện tử trong đo lường là:", "input": "", "output": "Tất cả đều đúng"}
+{"instruction": "Một thiết bị đo có độ nhạy càng lớn thì sai số do thiết bị đo gây ra:", "input": "", "output": "Càng bé"}
+{"instruction": "Lớp nào trong mô hình OSI thực hiện việc chọn đường và chuyển tiếp thông tin; thực hiện kiểm soát luồng dữ liệu và cắt/hợp dữ liệu?", "input": "", "output": "Network"}
+{"instruction": "Phương thức trao đổi thông tin nào mà trong đó cả hai bên đều có thể đồng thời gửi dữ liệu đi ?", "input": "", "output": "Full – duplex"}
+{"instruction": "Lý do nào sau đây ảnh hưởng đến việc nghẽn mạch đối với mạng LAN?", "input": "", "output": "Cả 3 câu đều đúng"}
+{"instruction": "Để triển khai một mạng vừa, mà loại mạng này không bị ảnh hưởng bởi tính chịu nhiễu EMI, loại cáp nào ta nên sử dụng ?", "input": "", "output": "Cáp quang"}
+{"instruction": "Số thập phân nào là đúng nhất cho số nhị phân 10011101 ?", "input": "", "output": "157"}
+{"instruction": "Giao thức nào được sử dụng để tìm ra địa chỉ phần cứng của một thiết bị nội bộ ?", "input": "", "output": "ARP"}
+{"instruction": "Lớp nào sau đây chỉ được sử dụng trong mô hình TCP/IP ?", "input": "", "output": "Internet"}
+{"instruction": "Dịch vụ nào sau đây sử dụng giao thức TCP?", "input": "", "output": "HTTP"}
+{"instruction": "Giao thức TCP/IP nào được sử dụng tại tầng Application của mô hình OSI?", "input": "", "output": "Cả ba câu a, b, c đều đúng"}
+{"instruction": "Mô hình TCP/ IP còn có tên gọi là gì ?", "input": "", "output": "DoD"}
+{"instruction": "Tầng nào trong mô hình TCP/IP tương ứng với tầng Transport trong mô hình OSI?", "input": "", "output": "Host-to-Host"}
+{"instruction": "Dịch vụ nào sau đây sử dụng cả hai giao thức TCP và UDP ?", "input": "", "output": "DNS"}
+{"instruction": "Giao thức nào là giao thức dùng cho việc truy nhập tập tin từ xa của Apple ?", "input": "", "output": "AFP"}
+{"instruction": "Đồ thị tọa độ - thời gian của chất điểm chuyển động thẳng đều là đường thẳng", "input": "", "output": "Có thể không đi qua gốc tọa độ"}
+{"instruction": "Chuyển động của đinh vít khi chúng ta vặn nó vào tấm gỗ là", "input": "", "output": "Chuyển động tịnh tiến và chuyển động quay"}
+{"instruction": "Tầm xa (L) của vật chuyển động ném ngang được xác định bằng biểu thức nào sau đây?", "input": "", "output": "L = x_{max} = v_{o} \\sqrt{\\frac{2h}{g}}"}
+{"instruction": "Chuyển động cơ là:", "input": "", "output": "Sự thay đổi vị trí của vật này so với vật khác theo thời gian"}
+{"instruction": "Khi vật rắn quay quanh trục cố định chịu tác dụng của momen ngẫu lực thì vật rắn sẽ quay quanh", "input": "", "output": "Trục cố định đó"}
+{"instruction": "Trong các cách để viết công thức của lực ma sát trượt sau đây, cách viết nào đúng?", "input": "", "output": "F_{mst} = \\mu_{t}N"}
+{"instruction": "Khối lượng của một vật ảnh hưởng đến:", "input": "", "output": "Quán tính của vật"}
+{"instruction": "Yếu tố quyết định nhất trong trò chơi kéo co là:", "input": "", "output": "Lực ma sát của chân và sàn đỡ"}
+{"instruction": "Khi một xe buýt đang chạy thì bất ngờ hãm phanh đột ngột, thì các hành khách", "input": "", "output": "Chúi người về phía trước"}
+{"instruction": "Trong giới hạn đàn hồi, độ lớn của lực đàn hồi của lò xo tỉ lệ", "input": "", "output": "Thuận với độ biến dạng của lò xo"}
+{"instruction": "Hình bên mô tả ba ôtô chở hàng leo lên dốc. Hình nào cho biết ôtô dễ gây tai nạn nhất", "input": "", "output": "Hình 3"}
+{"instruction": "Một vật cân bằng chịu tác dụng của 2 lực thì 2 lực đó sẽ:", "input": "", "output": "Cùng giá, ngược chiều, cùng độ lớn"}
+{"instruction": "Đặc điểm nào sau đây khi nói về hợp lực của hai lực song song cùng chiều là không đúng?", "input": "", "output": "Có độ lớn bằng hiệu các độ lớn"}
+{"instruction": "Một vật có khối lượng m được giữ yên trên một mặt phẳng nghiêng bởi một sợi dây song song \nvới đường dốc chính. Biết 00 < α < 900 . Chọn kết luận đúng.", "input": "", "output": "Lực căng dây treo luôn nhỏ hơn trọng lượng của vật"}
+{"instruction": "Việc trao đổi dữ liệu giữa thiết bị ngoại vi và máy tính được thực hiện qua:", "input": "", "output": "Một cổng"}
+{"instruction": "Phần mềm của máy tính là:", "input": "", "output": "Chương trình được cài đặt trong bộ nhớ ROM"}
+{"instruction": "Trong các bộ phận sau, bộ phận nào không thuộc bộ xử lý trung tâm:", "input": "", "output": "Đơn vị phối ghép vào ra"}
+{"instruction": "Trong các bộ phận sau, bộ phận nào không thuộc bộ xử lý trung tâm:", "input": "", "output": "Bộ nhớ trong"}
+{"instruction": "Trong các bộ phận sau, bộ phận nào thuộc bộ xử lý trung tâm:", "input": "", "output": "Tập các thanh ghi đa năng"}
+{"instruction": "Tại sao bộ nhớ trong của máy tính được gọi là bộ nhớ truy cập ngẫu nhiên?", "input": "", "output": "Thời gian truy cập vào một ô nhớ bất kỳ là như nhau"}
+{"instruction": "Tốc độ đồng hồ hệ thống được đo bằng đơn vị gì?", "input": "", "output": "Hz"}
+{"instruction": "Người ta đánh giá sự phát triển của máy tính điện tử số qua các giai đoạn dựa vào tiêu chí nào trong các tiêu chí sau đây?", "input": "", "output": "Cả 3 tiêu chí trên"}
+{"instruction": "Chọn một phương án đúng trong các phương án sau:", "input": "", "output": "Máy Turing gồm một bộ điều khiển trạng thái hữu hạn, một băng ghi, và một đầu đọc ghi"}
+{"instruction": "Một trong các nội dung của nguyên lý Von Newmann là:", "input": "", "output": "Máy tính có thể hoạt động theo một chương trình đã được lưu trữ"}
+{"instruction": "Trong các phát biểu sau, phát biểu nào không thuộc nội dung của nguyên lý Von Newmann?", "input": "", "output": "Mỗi câu lệnh phải có một vùng nhớ chứa địa chỉ lệnh tiếp theo"}
+{"instruction": "Trong các phát biểu sau, phát biểu nào thuộc nội dung của nguyên lý Von Newmann?", "input": "", "output": "Máy tính sử dụng một bộ đếm chương trình để chỉ ra vị trí câu lệnh kế tiếp"}
+{"instruction": "Phát biểu sau đây thuộc nội dung của nguyên lý Von Newmann?", "input": "", "output": "Bộ nhớ của máy tính được địa chỉ hóa"}
+{"instruction": "Theo nguyên lý Von Newmann, để thay đổi thứ tự các lệnh được thực hiện, ta chỉ cần:", "input": "", "output": "Thay đổi nội dung thanh ghi con trỏ lệnh bằng địa chỉ lệnh cần thực hiện tiếp"}
+{"instruction": "Cho biết số phần tử của A\\cup B\\cup C nếu mỗi tập có 100 phần tử và nếu có 50 phần tử chung của mỗi cặp 2 tập và có 10 phần tử chung của cả 3 tập.", "input": "", "output": "160"}
+{"instruction": "Cho X=\\left \\{ 1,2,3,4,5,6,7,8,9 \\right \\} A=\\left \\{ 1,2,3,8 \\right \\}, B=\\left \\{2,4,8,9 \\right \\}, C=\\left \\{ 6,7,8,9 \\right \\}\nTìm xâu bit biểu diễn tập: \\left ( A\\cup B \\right )\\cap C", "input": "", "output": "000000011"}
+{"instruction": "Cho X=\\left \\{ 1,2,3,4,5,6,7,8,9 \\right \\}, A=\\left \\{ 1,2,3,8 \\right \\}. Tìm xâu bit biểu diễn tập \\bar{A}", "input": "", "output": "000111101"}
+{"instruction": "Cho X=\\left \\{ 1,2,3,4,5,6,7,8,9 \\right \\}. Xâu bit biểu diễn tập A là: 111001011, xâu bit biểu diễn tập B là 010111001. Tìm xâu bit biểu diễn tập A\\cup B", "input": "", "output": "111111011"}
+{"instruction": "Cho tập A = \\left \\{ 1,2,a \\right \\}. Hỏi tập nào là tập lũy thừa của tập A?", "input": "", "output": "\\left \\{ \\phi,\\left \\{ 1 \\right \\} ,\\left \\{ 2 \\right \\},\\left \\{ a \\right \\},\\left \\{ 1,2 \\right \\},\\left \\{ 1,a \\right \\},\\left \\{ 2,a \\right \\},\\left \\{ 1,2,a \\right \\}\\right \\}"}
+{"instruction": "Xét các hàm từ R tới R, hàm nào là khả nghịch:", "input": "", "output": "F\\left ( x \\right ) =x^{3}"}
+{"instruction": "Cho tập A = \\left \\{ 2,3,4,5 \\right \\}. Hỏi tập nào KHÔNG bằng tập A?", "input": "", "output": "\\left \\{b | b là số thực sao cho 1<b^{2}<36\\right \\}"}
+{"instruction": "Cho tập S = \\left \\{ a,b,c \\right \\} khi đó số phần tử của tập lũy thừa của tập S là:", "input": "", "output": "8"}
+{"instruction": "Cho tập A = \\left \\{ a,b, \\right \\}, B = \\left \\{0,1,2 \\right \\} câu nào dưới đây là SAI:", "input": "", "output": "A \\times B = B \\times A"}
+{"instruction": "Cho 2 tập hợp: A=\\left \\{1,2,3,4,5,a, hoa, xe máy, dog, táo, mận \\right \\}, B=\\left \\{hoa, 3,4 , táo \\right \\}. Tập nào trong các tập dưới đây là tập con của tập A\\times B:", "input": "", "output": "\\left \\{ \\left ( 1, táo \\right ),\\left ( táo, táo \\right ),\\left ( xe máy, 3 \\right ) \\right \\}"}
+{"instruction": "Cho 2 tập A=\\left \\{ 1,2,3 \\right \\}, B=\\left \\{a,b,c,2 \\right \\}. Trong số các tập dưới đây, tập nào là một quan hệ 2 ngôi từ A tới B?", "input": "", "output": "\\left \\{ \\left ( 1,2 \\right ),\\left (2,2 \\right ),\\left ( 3,a \\right ) \\right \\}"}
+{"instruction": "Cho 2 tập C, D với \\left | C \\right |=28, \\left | D \\right |=32, \\left | C \\cap D \\right |= 4. \\left | C \\cup  D \\right | là:", "input": "", "output": "56"}
+{"instruction": "Tính chất của xã hội Việt Nam dưới sự thống trị của thực dân Pháp:", "input": "", "output": "Thuộc địa, nửa phong kiến"}
+{"instruction": "Nhiệm vụ chủ yếu của cách mạng Việt Nam trong thời kỳ 1930-1954:", "input": "", "output": "Tất cả đáp án đều đúng"}
+{"instruction": "Nguyễn Ái Quốc đã đánh giá: “Ông là tiêu biểu cho chủ nghĩa quốc gia”. Ông là ai?", "input": "", "output": "Phan Bội Châu"}
+{"instruction": "Tân Việt cách mạng Đảng ra đời khi nào?", "input": "", "output": "7/1928"}
+{"instruction": "Những giai cấp bị trị ở Việt Nam dưới chế độ thuộc địa của Pháp là:", "input": "", "output": "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc, địa chủ vừa và nhỏ"}
+{"instruction": "Đông Dương Cộng sản Liên đoàn gia nhập Đảng Cộng sản Việt Nam khi nào?", "input": "", "output": "24/2/1930"}
+{"instruction": "Sự kiện nào được Nguyễn Ái Quốc đánh giá “là một bước ngoặt vô cùng quan trọng trong lịch sử Cách mạng Việt Nam ta”?", "input": "", "output": "Đảng Cộng sản Việt Nam ra đời"}
+{"instruction": "Đại biểu các tổ chức cộng sản nào đã tham dự hội nghị thành lập Đảng đầu tiên năm 1930?", "input": "", "output": "Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng"}
+{"instruction": "Hội VN cách mạng thanh niên thực hiện chủ trương “vô sản hóa” khi nào?", "input": "", "output": "Năm 1928"}
+{"instruction": "Trong tác phẩm Đường Kách Mệnh, Nguyễn Ái Quốc đã đề cập giai cấp nào là chủ, gốc, và cái cốt của cách mệnh?", "input": "", "output": "Liên kết công - nông"}
+{"instruction": "Chọn đáp án đúng nhất:", "input": "", "output": "Các đáp án trên đều đúng"}
+{"instruction": "Tác phẩm nào của Nguyễn Ái Quốc đã vạch rõ âm mưu và thủ đoạn của chủ nghĩa đế quốc che dấu tội ác dưới cái vỏ bọc “khai hóa văn minh”?", "input": "", "output": "Bản án chế độ thực dân Pháp"}
+{"instruction": "Nhiệm vụ hàng đầu của Đảng ta đặt ra trong thực tiễn lịch sử Việt Nam dưới sự thống trị của Pháp là?", "input": "", "output": "Các đáp án trên đều đúng"}
+{"instruction": "Việt Nam quốc dân đảng là đảng chính trị theo xu hướng nào?", "input": "", "output": "Dân chủ tư sản"}
+{"instruction": "Nội dung hoạt động nghiên cứu khoa học của Các Mác và Ph.Ăngghen ở giai đoạn 1844 - 1848:", "input": "", "output": "Hình thành những nguyên lý triết học duy vật biện chứng, duy vật  lịch sử và Chủ nghĩa xã hội khoa học"}
+{"instruction": "Tiền đề lý luận của sự ra đời chủ nghĩa Mác? Chọn câu trả lời đúng", "input": "", "output": "Triết học cổ điển Đức, Kinh tế chính trị cổ điển Anh, Chủ nghĩa xã hội không tưởng"}
+{"instruction": "Sự phân biệt giữa triết học và các khoa học cụ thể là ở chỗ:", "input": "", "output": "Triết học nghiên cứu các quy luật chung nhất, phổ biến nhất của tự nhiên, xã hội và tư duy"}
+{"instruction": "Bộ phận nào không thuộc Chủ nghĩa Mác – Lênin?", "input": "", "output": "Lịch sử Đảng Cộng Sản Việt Nam"}
+{"instruction": "Đâu là nguồn gốc lý luận trực tiếp của Chủ nghĩa Mác?", "input": "", "output": "Triết học cổ điển Đức"}
+{"instruction": "Bộ phận nghiên cứu những quy luật vận động, phát triển chung nhất của tự nhiên, xã hội và tư duy nhằm hình thành thế giới quan và phương pháp luận chung nhất cho nhận thức khoa học và thực tiễn cách mạng là:", "input": "", "output": "Triết học Mác – Lênin"}
+{"instruction": "Bộ phận nghiên cứu những quy luật kinh tế của xã hội, đặc biệt là nghiên cứu quy luật kinh tế của sự phát sinh, phát triển của chủ nghĩa tư bản và sự ra đời của phương thức sản xuất cộng sản chủ nghĩa là:", "input": "", "output": "Kinh tế chính trị Mác – Lênin"}
+{"instruction": "Bộ phận nghiên cứu quy luật khách quan của quá trình cách mạng xã hội chủ nghĩa, sự chuyển biến lịch sử từ chủ nghĩa tư bản lên chủ nghĩa xã hội là:", "input": "", "output": "Chủ nghĩa xã hội khoa học"}
+{"instruction": "Chủ nghĩa Mác – Lênin là gì? Chọn câu trả lời sai.", "input": "", "output": "Là học thuyết của Mác, Ăngghen và Lênin về xây dựng chủ nghĩa cộng sản"}
+{"instruction": "Tác phẩm nào đánh dấu sự ra đời của Chủ nghĩa Mác – Lênin?", "input": "", "output": "Tuyên ngôn Đảng cộng sản"}
+{"instruction": "Đâu là phát minh của khoa học tự nhiên làm cơ sở khoa học tự nhiên cho sự ra đời tư duy biện chứng duy vật đầu thế kỷ XIX?", "input": "", "output": "Tất cả đều đúng"}
+{"instruction": "Về mặt triết học, định luật bảo toàn và chuyển hoá năng lượng chứng minh cho quan điểm nào?", "input": "", "output": "Quan điểm biện chứng duy vật thừa nhận sự chuyển hoá lẫn nhau của giới tự nhiên vô cơ"}
+{"instruction": "Phát minh nào trong khoa học tự nhiên nữa đầu thế kỷ XIX vạch ra sự thống nhất giữa thế giới động vật và thực vật?", "input": "", "output": "Lý thuyết tế bào"}
+{"instruction": "Phát minh nào trong khoa học tự nhiên nữa đầu thế kỷ XIX vạch ra nguồn gốc tự nhiên của con người, chống lại quan điểm tôn giáo?", "input": "", "output": "Lý thuyết tiến hoá"}
+{"instruction": "Vua Akhenaton (1424-1388 tr.CN) tiến hành một cuộc cải cách tôn giáo, đề xướng tôn giáo thờ thần A-tôn vì…", "input": "", "output": "Muốn phá bỏ quyền lực của tập đoàn tăng lữ thờ thần A-môn"}
+{"instruction": "Thời kỳ nào trong lịch sử Ai Cập được mệnh danh là “Thời đại của Kim tự tháp”?", "input": "", "output": "Cổ Vương quốc"}
+{"instruction": "Người Ai Cập cổ đại đã tính được trị số của π (pi) bằng…", "input": "", "output": "3,14"}
+{"instruction": "Vị thần nào được người Ai Cập coi là chúa tể của địa ngục?", "input": "", "output": "Thần Osiris"}
+{"instruction": "Trong thuật ướp xác của Ai Cập cổ đại, bộ phận nào của cơ thể người được giữ lại khi người ta tiến hành mổ ướp xác?", "input": "", "output": "Tim"}
+{"instruction": "Ngoài Kim tự tháp Kheops, công trình kiến trúc nào ở Ai Cập cổ được xếp vào một trong bảy kỳ quan của thế giới cổ đại?", "input": "", "output": "Ngọn hải đăng Alexandria"}
+{"instruction": "Tôn giáo chính của người Ai Cập cổ đại là …", "input": "", "output": "Đa thần giáo"}
+{"instruction": "Về nguồn gốc dân cư, người Ai Cập cổ đại là...", "input": "", "output": "Thổ dân châu Phi"}
+{"instruction": "Vị Pharaoh cuối cùng của Ai Cập cổ đại là Nữ hoàng…", "input": "", "output": "Cleopatra"}
+{"instruction": "Vị Pharaoh nữ đầu tiên của Ai Cập cổ đại là Nữ hoàng…", "input": "", "output": "Merneith"}
+{"instruction": "Loại giấy mà người Ai Cập cổ đại đã sử dụng là…", "input": "", "output": "Giấy Papyrus"}
+{"instruction": "Thời kỳ người Ai Cập thực hiện thờ cúng độc thần là…", "input": "", "output": "Thời kỳ Trung vương quốc"}
+{"instruction": "Pharaoh trong tiếng Ai Cập cổ có nghĩa là…", "input": "", "output": "Ngôi nhà vĩ đại"}
+{"instruction": "Ở Ai Cập cổ đại, vật liệu chủ yếu sử dụng để xây dựng các công trình lăng mộ là…", "input": "", "output": "Đá"}
+{"instruction": "Một trong những chiến thắng vang dội của quân miền Nam trong chiến đấu chống chiến lược \"Chiến tranh đặc biệt\" của Mỹ (1961 - 1965) là", "input": "", "output": "Ấp Bắc (Mỹ Tho)"}
+{"instruction": "Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9 -1960) xác định cách mạng xã hội chủ nghĩa ở miền Bắc có vai trò", "input": "", "output": "Quyết định nhất đối với sự phát triển của cách mạng Việt Nam"}
+{"instruction": "Phát minh nào sau đây của cuộc cách mạng khoa học - kĩ thuật hiện đại gây ra những hậu quả tiêu cực nào đối với con người?", "input": "", "output": "Chế tạo ra các loại vũ khí huỷ diệt"}
+{"instruction": "Trong thời kì 1954 -1975, thắng lợi nào đã buộc Mỹ phải tuyên bố \"phi Mỹ hoá\" chiến tranh xâm lược Việt Nam?", "input": "", "output": "Tổng tiến công và nổi dậy Xuân Mậu Thân (1968)"}
+{"instruction": "Trong phong trào giải phóng dân tộc ở Mỹ La-tinh sau Chiến tranh thế giới thứ hai, quốc gia nào được mệnh danh là \"Hòn đảo anh hùng\"?", "input": "", "output": "Cu-ba"}
+{"instruction": "Tháng 6 - 1959, Trung ương Đảng, Chính phủ nước Việt Nam Dân chủ Cộng hoà quyết định mở chiến dịch Biên giới nhằm mục đích gì?", "input": "", "output": "Tiêu diệt một bộ phận lực lượng địch, khai thông biên giới Việt - Trung"}
+{"instruction": "Những thập niên gần đây, Ấn Độ đang cố gắng vươn lên hàng các cường quốc về lĩnh vực nào?", "input": "", "output": "Công nghệ phần mềm"}
+{"instruction": "Quân đội nào được Mỹ sử dụng như lực lượng xung kích để thực hiện âm mưu \"Dùng người Đông Dương đánh người Đông Dương\" trong chiến lược \"Đông Dương hoá chiến tranh\" (1969 - 1973)", "input": "", "output": "Quân đội Sài gòn"}
+{"instruction": "\"Bị ba tầng áp bức bóc lột của thực dân, phong kiến, tư sản người Việt: có quan hệ tự nhiên gắn bó với giai cấp nông dân…\" là đặc điểm riêng của giai cấp nào ở Việt Nam sau Chiến tranh thế giới thứ nhất (1919)?", "input": "", "output": "Công nhân"}
+{"instruction": "Thực hiện Kế hoạch Na-va (1953 - 1954), thực dân Pháp tập trung lực lượng cơ động mạnh ở địa bàn nào?", "input": "", "output": "Đồng bằng Bắc Bộ"}
+{"instruction": "Năm 1954, lực lượng quân đội trong phe Đồng minh kéo vào miền Bắc nước ta với danh nghĩa giải giáp phát xít Nhật là", "input": "", "output": "Quân Tưởng Giới Thạch"}
+{"instruction": "Khu giải phóng Việt Bắc ra đời vào tháng 6 - 1945 gồm những tỉnh nào?", "input": "", "output": "Cao Bằng, Bắc Kạn, Lạng Sơn, Tuyên Quang, Hà Giang, Thái Nguyên"}
+{"instruction": "Ai là người soạn thảo Luận cương chính trị của Đảng Cộng sản Đông Dương (10 - 1930)", "input": "", "output": "Trần Phú"}
+{"instruction": "Lực lượng chủ yếu tham gia phong trào cách mạng 1930 - 1931 ở Việt Nam là", "input": "", "output": "Công nhân và nông dân"}
+{"instruction": "Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội của hành vi, tội phạm ít nghiêm trọng là", "input": "", "output": "Tội phạm có tính chất và mức độ nguy hiểm cho xã hội không lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là phạt tiền, phạt cải tạo không giam giữ hoặc phạt tù đến 03 năm quy định đối với tội ấy là từ trên 03 năm tù đến 07 năm tù"}
+{"instruction": "Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội của hành vi, tội phạm nghiêm trọng là", "input": "", "output": "Tội phạm có tính chất và mức độ nguy hiểm cho xã hội lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là từ trên 03 năm tù đến 07 năm tù"}
+{"instruction": "Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội của hành vi, tội phạm rất nghiêm trọng là", "input": "", "output": "Tội phạm có tính chất và mức độ nguy hiểm cho xã hội rất lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là từ trên 07 năm tù đến 15 năm tù"}
+{"instruction": "Chỉ được coi là giết người trong trạng thái tinh thần bị kích động mạnh nếu nguyên nhân dẫn đến việc phạm tội là:", "input": "", "output": "Do hành vi trái pháp luật nghiêm trọng của nạn nhân"}
+{"instruction": "Chủ thể của tội buôn lậu là:", "input": "", "output": "Cá nhân và pháp nhân thương mại"}
+{"instruction": "Chủ thể của tội giết người là:", "input": "", "output": "Chủ thể thường"}
+{"instruction": "Chức năng của ngành luật hình sự là", "input": "", "output": "Cả 03 phương án trên"}
+{"instruction": "Có bao nhiêu loại người trong đồng phạm?", "input": "", "output": "4"}
+{"instruction": "Có thể áp dụng hiệu lực trở về trước đối với Luật hình sự Việt Nam trong trường hợp:", "input": "", "output": "Điều luật mở rộng phạm vi miễn trách nhiệm hình sự"}
+{"instruction": "Dấu hiệu địa điểm là dấu hiệu bắt buộc của cấu thành cơ bản tội phạm nào?", "input": "", "output": "Tội buôn lậu"}
+{"instruction": "Dấu hiệu nào không bắt buộc phải có trong mọi cấu thành tội phạm?", "input": "", "output": "Dấu hiệu mục đích phạm tội"}
+{"instruction": "Dấu hiệu nào sau đây không phải là dấu hiệu lý trí trong lỗi cố ý của những người đồng phạm?", "input": "", "output": "Mỗi người đồng phạm đều biết cùng hành động với mình còn có những người khác"}
+{"instruction": "Các tổ chức xã hội", "input": "", "output": "Không có quyền trình dự thảo dự án luật trước quốc hội nhưng một số tổ chức chính trị xã hội ở trung ương thì có thể có quyền này"}
+{"instruction": "Ai có quyền biểu quyết trong Phiên họp Chính phủ", "input": "", "output": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ với tư cách là thành viên của Chính Phủ"}
+{"instruction": "Anh A bị phạt tiền 80.000.000 đồng, anh này có làm đơn đề nghị nộp tiền phạt nhiều lần và được chấp thuận. Anh A phải nộp tiền như thế nào để đúng quy định của pháp luật", "input": "", "output": "Nộp phạt 3 lần trong 6 tháng, mức nộp phạt lần thứ nhất tối thiểu 32 triệu"}
+{"instruction": "Anh A là công an xã H, Huyện K trong lúc làm việc không khống chế được cảm xúc đã hành hung anh B. Anh B có thể tố cáo hành vi của anh A tại", "input": "", "output": "Trưởng công an xã H"}
+{"instruction": "Anh A là nhân viên của công ty X, anh A có thể khiếu nại trong trường hợp nào sau đây", "input": "", "output": "Quyết định xử phạt hành chính anh A do đi xe máy không đội mũ bảo hiểm"}
+{"instruction": "Anh A nhặt được chứng minh nhân dân của anh B, sử dụng chứng minh nhân dân này lập tài khoản ngân hàng và thực hiện những giao dịch phi pháp, hành vi này có mức phạt tiền vi phạm hành chính là", "input": "", "output": "Từ 1"}
+{"instruction": "Bãi nhiệm là gì", "input": "", "output": "Việc cán bộ không được tiếp tục giữ chức vụ, chức danh khi chưa hết nhiệm kỳ"}
+{"instruction": "Anh Minh có hành vi đi xe máy vượt đèn đỏ và không đội mũ bảo hiểm, hành vi vi phạm hành chính của anh Minh bị xử lý?", "input": "", "output": "Chiến sĩ công an đưa ra hai hình thức xử phạt với từng hành vi và áp dụng cả hai"}
+{"instruction": "Căn cứ vào thẩm quyền quản lý, cơ quan hành chính nhà nước được chia như thế nào?", "input": "", "output": "Cơ quan có thẩm quyền chung và Cơ quan có thẩm quyền riêng"}
+{"instruction": "Muốn xử phạt một hành vi ở mức độ “cảnh cáo” thông thường phải tiến hành thủ tục gì?", "input": "", "output": "Thủ tục xử phạt đơn giản"}
+{"instruction": "Anh Nam bị chiến sỹ cảnh sát giao thông ra quyết định xử phạt 200.000 đ. Tuy vậy, anh Nam cho rằng quyết định đó là không đúng. Hỏi anh Nam phải khiếu nại lần đầu đến đâu?", "input": "", "output": "Chính người ra quyết định"}
+{"instruction": "Trách nhiệm hành chính là", "input": "", "output": "Trách nhiệm của người vi phạm đối với nhà nước"}
+{"instruction": "Quan hệ nào sau đây là quan hệ pháp luật hành chính?", "input": "", "output": "Quan hệ giữa Bộ Tài chính với Bộ Tư pháp trong việc kiểm tra việc sử dụng ngân sách nhà nước của Bộ Tư pháp"}
+{"instruction": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền xử phạt tiền tối đa là bao nhiêu?", "input": "", "output": "2 tỷ đồng"}
+{"instruction": "Điền từ vào chỗ trống: ...là hành vi của cá nhân vì bảo vệ lợi ích của Nhà nước, của tổ chức, bảo vệ quyền, lợi ích chính đáng của mình hoặc của người khác mà chống trả lại một cách cần thiết người đang có hành vi xâm phạm quyền, lợi ích nói trên", "input": "", "output": "Phòng vệ chính đáng"}
+{"instruction": "Cơ quan thuộc chính phủ là cơ quan nào?", "input": "", "output": "Bảo hiểm xã hội Việt Nam"}
+{"instruction": "Trong cuộc chiến đấu chống chiến lược Chiến tranh đặc biệt (1961-1965), quân dân miền Nam Việt Nam đã", "input": "", "output": "Đánh thắng chiến thuật trực thăng vận của Mĩ và quân đội Sài Gòn"}
+{"instruction": "Trong cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp ở Đông Dương (1919-1929), xã hội Việt Nam có chuyển biến nào sau đây?", "input": "", "output": "Giai cấp công nhân phát triển mạnh"}
+{"instruction": "Sự kiện lịch sử thế giới nào sau đây có ảnh hưởng đến cách mạng Việt Nam trong giai đoạn 1939-1945?", "input": "", "output": "Phát xít Nhật đầu hàng Đồng minh"}
+{"instruction": "Sự kiện lịch sử thế giới nào sau đây có ảnh hưởng đến cách mạng Việt Nam thời kì 1919-1930?", "input": "", "output": "Nhà nước vô sản được thành lập ở Nga"}
+{"instruction": "Hoạt động nào sau đây không diễn ra trong phong trào dân chủ 1936-1939 ở Việt Nam?", "input": "", "output": "Kháng Nhật cứu nước"}
+{"instruction": "Nội dung nào sau đây là một trong những yếu tố dẫn đến sự phát triển kinh tế của các nước Tây Âu giai đoạn 1950-1973?", "input": "", "output": "Tận dụng hiệu quả các cơ hội từ bên ngoài"}
+{"instruction": "Nội dung nào sau đây phản ánh đúng vai trò của lực lượng tiểu tư sản trí thức Việt Nam trong phong trào dân tộc những năm 20 của thế kỉ XX?", "input": "", "output": "Góp phần gây dựng một số tổ chức yêu nước và cách mạng"}
+{"instruction": "Công cuộc xây dựng chế độ mới của nhân dân Việt Nam trong cuộc kháng chiến chống thực dân Pháp (1945-1954) đạt được thành quả nào sau đây?", "input": "", "output": "Bộ máy chính quyền các cấp hợp pháp, hợp hiến từng bước được xây dựng và củng cố"}
+{"instruction": "Cuộc vận động dân chủ 1936-1939 ở Việt Nam là phong trào cách mạng vì một trong những lí do nào sau đây?", "input": "", "output": "Là cuộc tập dượt đấu tranh cho sự nghiệp giải phóng dân tộc"}
+{"instruction": "Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương (tháng 5-1941) chủ trương thành lập mặt trận dân tộc thống nhất của mỗi nước Đông Dương vì lí do nào sau đây?", "input": "", "output": "Cần chuẩn bị cho cuộc của đấu tranh tự giải phóng trước hoàn cảnh lịch sử mới"}
+{"instruction": "Cuộc kháng chiến chống Mĩ, cứu nước (1954-1975) và cuộc vận động giải phóng dân tộc (1939-1945) của nhân dân Việt Nam có điểm giống nhau nào sau đây?", "input": "", "output": "Sử dụng bạo lực cách mạng để chống lại bạo lực phản cách mạng"}
+{"instruction": "Trong khoảng thời gian từ đầu tháng 9-1945 đến cuối tháng 12-1946, nước Việt Nam Dân chủ Cộng hòa gạ̣p khó khăn, thách thức nào sau đây?", "input": "", "output": "Các thế lực thù địch câu kết chống phá chính quyền cách mạng"}
+{"instruction": "Trong khoảng 30 năm đầu thế kỉ XX, ở Việt Nam có một trong những chuyển biến nào sau đây?", "input": "", "output": "Cơ sở hạ tầng được cải thiện phục vụ mục đích kinh tế và quân sự của chính quyền thực dân"}
+{"instruction": "Ở Việt Nam, cuộc kháng chiến chống Mĩ, cứu nước (1954-1975) có điểm mới nào sau đây so với cuộc kháng chiến chống thực dân Pháp (1945-1954)?", "input": "", "output": "Kết hợp khởi nghĩa từng phần của quần chúng nhân dân với chiến tranh cách mạng"}
+{"instruction": "Xét về cấu tạo ngữ pháp, câu:“Sau một hồi trống thúc vang dội cả lòng tôi, mấy người học trò cũ đến sắp hàng dưới hiên rồi đi vào lớp.” (Thanh Tịnh) thuộc kiểu câu", "input": "", "output": "Câu đơn"}
+{"instruction": "Từ ngữ được điền vào chỗ dấu ba chấm của câu “… là phần thông báo tuy không được diễn đạt trực tiếp bằng từ ngữ trong câu nhưng có thể suy ra từ những từ ngữ ấy.” là", "input": "", "output": "Hàm ý"}
+{"instruction": "Điểm giống nhau giữa khởi ngữ và trạng ngữ", "input": "", "output": "Đều là thành phần chính của câu"}
+{"instruction": "Từ nào sau đây là từ ghép?", "input": "", "output": "Lấp lánh"}
+{"instruction": "Về hình thức, các câu văn: “Phụ nữ càng cần phải học. Đây là lúc chị em phải cố gắng để kịp nam giới.\" (Hồ Chí Minh) liên kết với nhau bằng phép liên kết nào?", "input": "", "output": "Phép thế"}
+{"instruction": "Xác định quan hệ giữa các vế trong câu ghép: “Cây lược ngà ấy, chưa chải được mái tóc của con, nhưng nó như gỡ rối được phần nào tâm trạng của anh\" (Nguyễn Quang Sáng)?", "input": "", "output": "Quan hệ tương phản"}
+{"instruction": "Trong những sự việc sau, sự việc nào không được kể lại trong văn bản “Cuộc chia tay của những con búp bê”?", "input": "", "output": "Cuộc chia tay của người cha và người mẹ"}
+{"instruction": "Hình ảnh nổi bật xuyên suốt bài thơ “Tiếng gà trưa” của Xuân Quỳnh là gì?", "input": "", "output": "Tiếng gà trưa"}
+{"instruction": "Cặp từ trái nghĩa nào phù hợp để điền vào chỗ trống trong câu sau:\nNon cao tuổi vẫn chưa già\nNon sao….nước, nước mà…non", "input": "", "output": "Nhớ - quên"}
+{"instruction": "Điền cặp quan hệ từ vào chỗ trống cho phù hợp với đoạn văn sau:\n\" Thế rồi Dế Choắt tắt thở. Tôi thương lắm.Vừa thương vừa ăn năn tội mình. …tôi không trêu chị Cốc …đâu đến nỗi Choắt việc gì.\n(Tô Hoài)", "input": "", "output": "Giá"}
+{"instruction": "Trong các nhóm từ sau, nhóm từ nào là những từ láy ?", "input": "", "output": "Mặt mũi; xanh xao; tốt tươi"}
+{"instruction": "Từ nào sau đây đồng nghĩa với từ “Thi nhân” ?", "input": "", "output": "Nhà thơ"}
+{"instruction": "Trong bài viết tác giả cho rằng: “Nếp sống giản dị và thanh đạm của Bác Hồ là một quan niệm thẩm mĩ về cuộc sống”. Theo em, cụm từ quan niệm thẩm mĩ là gì?", "input": "", "output": "Quan niệm về cái đẹp"}
+{"instruction": "Thời gian, địa điểm thành lập Đảng Cộng sản Việt Nam là:", "input": "", "output": "03/02/1930 – Tại Hương Cảng – Hồng Kông - Trung Quốc"}
+{"instruction": "Người tổ chức cuộc phản công vào kinh thành Huế ngày 05 – 7 - 1885 là:", "input": "", "output": "Tôn Thất Thuyết"}
+{"instruction": "Hội nghị thành lập Đảng Cộng sản Việt Nam do ai chủ trì?", "input": "", "output": "Nguyễn Ái Quốc"}
+{"instruction": "Thực dân pháp nổ súng xâm lược nước ta vào ngày tháng năm nào?", "input": "", "output": "Tháng 9-1858"}
+{"instruction": "Ý nghĩa to lớn của cách mạng tháng Tám:", "input": "", "output": "Đập tan xiềng xích nô lệ suốt 80 năm, giành chính quyền về tay nhân dân ta, mở ra một trang lịch sử mới cho dân tộc"}
+{"instruction": "Giữa lúc nghĩa quân Trương Định chiến đấu chống Pháp thắng lợi thì triều đình nhà Nguyễn đã làm gì?", "input": "", "output": "Ra lệnh giải tán nghĩa quân Gia Định do Trương Định chỉ huy và điều ông đi tỉnh khác"}
+{"instruction": "Người chủ trì hội nghị hợp nhất các tổ chức cộng sản Việt Nam là ai?", "input": "", "output": "Nguyễn Ái Quốc"}
+{"instruction": "Lần đầu tiên nhân dân Nghệ -Tĩnh có được điều gì trong những điều sau:", "input": "", "output": "Có chính quyền của mình"}
+{"instruction": "Ngày tháng năm nào được chọn là ngày kỉ niệm Cách mạng tháng Tám ở nước ta?", "input": "", "output": "Ngày 19 - 8-1945"}
+{"instruction": "Thành phố nào nêu cao tấm gương “Quyết tử cho Tổ quốc quyết sinh”?", "input": "", "output": "Thành phố Hà Nội"}
+{"instruction": "Sau Cách mạng tháng Tám, biện pháp để đẩy lùi giặc dốt là:", "input": "", "output": "Mở các lớp bình dân học vụ, mở thêm trường học cho trẻ em"}
+{"instruction": "Đầu xuân 1930, hội nghị hợp nhất các tổ chức Cộng sản Ở nước ta diễn ra tại:", "input": "", "output": "Hồng Kông (Trung Quốc)"}
+{"instruction": "Nguyễn Tất Thành sinh năm nào? Ở đâu?", "input": "", "output": "1890, Huyện Nam Đàn ,tỉnh Nghệ An"}
+{"instruction": "Nội hàm và ngoại diên của cùng một khái niệm giống với mối quan hệ nào sau đây nhất:", "input": "", "output": "Quan hệ giữa chiều rộng và chiều dài của một hình chữ nhật có diện tích xác định"}
+{"instruction": "Nội hàm và ngoại diên của khái niệm ràng buộc với nhau, cụ thể là:", "input": "", "output": "Nội hàm càng phong phú thì ngoại diên càng hẹp"}
+{"instruction": "Ngoại diên của khái niệm là:", "input": "", "output": "Tập hợp tất cả các đối tượng có các dấu hiệu nêu trong nội hàm của khái niệm"}
+{"instruction": "Khái niệm “Sinh viên giỏi” và “Sinh viên kém” có quan hệ với nhau như thế nào?", "input": "", "output": "Đối lập"}
+{"instruction": "Khái niệm “Dũng cảm” và khái niệm “Không dũng cảm” có quan hệ với nhau như thế nào?", "input": "", "output": "Mâu thuẫn"}
+{"instruction": "Định nghĩa “Con lươn là con vật sống dưới nước, dưới bùn” là định nghĩa:", "input": "", "output": "Quá rộng"}
+{"instruction": "Định nghĩa “Cán bộ thanh liêm là cán bộ tốt” là định nghĩa:", "input": "", "output": "Quá hẹp"}
+{"instruction": "Định nghĩa “Bảo hiểm nhân thọ là một hợp đồng giữ bạn nghèo suốt đời để bạn có thể chết trong giàu có” là định nghĩa:", "input": "", "output": "Không rõ ràng"}
+{"instruction": "Có người phân chia khái niệm “Cá” thành: Cá nước mặn, Cá nước ngọt, Cá nước lợ, Cá da trơn. Phân chia như vậy:", "input": "", "output": "Phân chia không nhất quán"}
+{"instruction": "Căn cứ vào độ tuổi có thể chia khái niệm “sinh viên” thành “sinh viên trên 20 tuổi” và “sinh viên dưới 20 tuổi”. Cách phân loại trên đúng hay sai? Vì sao?", "input": "", "output": "Sai, vì phân chia không đầy đủ, bỏ sót đối tượng"}
+{"instruction": "Quan hệ giữa một câu với phán đoán được biểu đạt nhờ câu đó giống với mối quan hệ nào sau đây nhất:", "input": "", "output": "Quan hệ giữa cái ly và rượu đựng trong ly đó"}
+{"instruction": "Cho hai câu: “Hằng là người thông minh” và “Hằng thông minh”. Các phán đoán được biểu đạt nhờ hai câu đó ta ký hiệu là p và q. Khi đó p và q có quan hệ với nhau như thế nào?", "input": "", "output": "P chính là q"}
+{"instruction": "Cho hai phán đoán: “Một số sinh viên nghiên cứu khoa học tốt” và “Một số sinh viên là sinh viên tốt”. Quan hệ giữa hai phán đoán đã cho là:", "input": "", "output": "Không có QH"}
+{"instruction": "Trường hợp nào hợp đồng dân sự được vô hiệu", "input": "", "output": "A, B, C đều đúng"}
+{"instruction": "Thành viên ban kiểm soát trong công ty cổ phần có độ tuổi", "input": "", "output": "Trên 21 tuổi"}
+{"instruction": "Công ty hợp danh", "input": "", "output": "Có nhiều chủ sở hữu, không được phát hành chứng khoán"}
+{"instruction": "Trong công ty TNHH 2 thành viên trở lên, cuộc họp hội đồng thành viên lần 1 được tiến hành khi có số thành viên dự họp", "input": "", "output": "Đại diện ít nhất 65% vốn điều lệ"}
+{"instruction": "Điều nào sau đây không phải là quyền của trọng tài thương mại", "input": "", "output": "Từ chối giải quyết vụ tranh chấp trong trường hợp pháp luật có quy định"}
+{"instruction": "Sau khi trúng thầu, bên trúng thầu phải đặt cọc, kí quỹ bao nhiêu phần trăm so với giá trị hợp đồng để đảm bảo thực hiện hợp đồng", "input": "", "output": "10%"}
+{"instruction": "HTX kinh doanh thua lỗ, bị phá sản. Sau khi thanh lý toàn bộ tài sản của HTX theo luật phá sản, vẫn còn thiếu một số nợ. Ai sẽ trả dùm HTX phần nợ này?", "input": "", "output": "Chủ nợ phải tự chịu"}
+{"instruction": "Theo điều 141 Luật Doanh Nghiệp 2005, mỗi cá nhân được phép thành lập bao nhiêu DNTN?", "input": "", "output": "1"}
+{"instruction": "Lĩnh vực nào dưới đây là lĩnh vực bị cấm đầu tư", "input": "", "output": "Thám tử tư"}
+{"instruction": "Thứ tự ưu tiên việc phân chia trị giá tài sản còn lại của doanh nghiệp, HTX", "input": "", "output": "Trả phí phá sản - trả các khoản nợ của người lao động - trả các khoản nợ không có đảm bảo"}
+{"instruction": "Trung tâm trọng tài là", "input": "", "output": "Tổ chức phi chính phủ"}
+{"instruction": "Chia công ty là biện pháp tổ chức lại công ty, được áp dụng cho", "input": "", "output": "Công ty TNHH, công ty cổ phần"}
+{"instruction": "Truyền thống văn hóa lâu đời tốt đẹp:", "input": "", "output": "Văn hiến"}
+{"instruction": "Ngại ngùng không mạnh dạn bộc lộ hết tâm tư, tình cảm:", "input": "", "output": "E ấp"}
+{"instruction": "Nhanh nhảu mà thiếu chín chắn:", "input": "", "output": "Láu táu"}
+{"instruction": "Nằm ì ra để đòi cho được hoặc bắt đền:", "input": "", "output": "Ăn vạ"}
+{"instruction": "Được giữ chức vụ cao hơn:", "input": "", "output": "Đề bạt"}
+{"instruction": "Im lặng làm như chẳng có việc gì liên quan đến mình:", "input": "", "output": "Mặc nhiên"}
+{"instruction": "\"Là đơn vị nhỏ nhất không thể phân chiết\" đề cập đến khái niệm gì?", "input": "", "output": "Âm tố"}
+{"instruction": "Hãy chọn cách viết đúng chính tả:\nChọn một câu trả lời:", "input": "", "output": "Cái mồm cứ xơn xớt"}
+{"instruction": "Hãy chọn cách viết sai chính tả:\nChọn một câu trả lời:", "input": "", "output": "Phòng này chống 2 giường"}
+{"instruction": "Hãy chọn cách viết sai chính tả:\nChọn một câu trả lời:", "input": "", "output": "Tháng này chi chội hơn thu"}
+{"instruction": "Hãy chọn cách viết đúng chính tả:\nChọn một câu trả lời:", "input": "", "output": "Quả giâu gia"}
+{"instruction": "Hãy chọn cách viết đúng chính tả:\nChọn một câu trả lời:", "input": "", "output": "Thuở ban sơ"}
+{"instruction": "Hãy chọn cách viết đúng chính tả:\nChọn một câu trả lời:", "input": "", "output": "Chim ra ràng"}
+{"instruction": "Chiếc xích lô của người Việt Nam là sản phẩm của:", "input": "", "output": "Sự kết hợp giữa xe đạp và xe tay"}
+{"instruction": "Chủ nghĩa yêu nước” của người Việt Nam là sản phẩm của văn hóa:", "input": "", "output": "Nhà nước – dân tộc"}
+{"instruction": "Chữ quốc ngữ là sản phẩm của:", "input": "", "output": "Người Phương Tây"}
+{"instruction": "Chùa ở Việt Nam là nơi thờ:", "input": "", "output": "Phật"}
+{"instruction": "Chúng tôi gọi tất cả những gì phân biệt giữa con người với động vật là văn hóa” thuộc cách định nghĩa:", "input": "", "output": "Nguồn gốc"}
+{"instruction": "Cơ sở hình thành nên những phẩm chất nổi trội trong tính cách của người Việt là ?", "input": "", "output": "Cả 3 phương án đều đúng"}
+{"instruction": "Cơ sở hình thành nên tính dung chấp của văn hóa Việt Nam là ?", "input": "", "output": "Cả 3 phương án đều đúng"}
+{"instruction": "Công cụ không được sử dụng để nghiên cứu Đại cương văn hóa Việt Nam là?", "input": "", "output": "Tôn giáo"}
+{"instruction": "Công cụ nghiên cứu được sử dụng phổ biến để nghiên cứu văn hóa dân gian và văn hóa tộc người là?", "input": "", "output": "Địa – văn hóa"}
+{"instruction": "Đặc điểm nổi trội của bản sắc văn hóa Việt Nam là ?", "input": "", "output": "Tính dung chấp"}
+{"instruction": "Đặc điểm phân biệt nghệ thuật hình khối của văn hóa Việt Nam với văn hóa phương Tây là ?", "input": "", "output": "Tính biểu trưng"}
+{"instruction": "Đặc điểm văn hóa “Tôn sùng phụ nữ và sự phồn thực” được rút ra từ công cụ nghiên cứu:", "input": "", "output": "Địa văn hóa"}
+{"instruction": "Đạo Cao Đài là sự kết hợp giữa :", "input": "", "output": "Văn hóa phương Đông với văn hóa phương Tây"}
+{"instruction": "Đạo Hòa Hảo là sự kết hợp giữa :", "input": "", "output": "Tín ngưỡng thờ Tổ tiên và Phật giáo"}
+{"instruction": "Hãy chỉ ra các nhận định sai?", "input": "", "output": "1 & 3"}
+{"instruction": "Nhận định nào sau đây là đúng?", "input": "", "output": "Người không có Quốc tịch vẫn được đảm bảo cư trú ở Việt Nam theo luật"}
+{"instruction": "Nhận định nào sau đây là sai?", "input": "", "output": "Cả 1& 2"}
+{"instruction": "Nhận định nào sau đây là đúng nhất?", "input": "", "output": "B"}
+{"instruction": "Tìm nhận định sai trong các nhận định dưới đây?", "input": "", "output": "Cả ba đáp án trên"}
+{"instruction": "Nhận định nào sau đây là đúng nhất?", "input": "", "output": "Không có nhận định nào"}
+{"instruction": "Tìm nhận định đúng nhất trong các nhận định dưới đây?", "input": "", "output": "Khi một người bị tuyên bố là đã chết trở về thì vợ hoặc chồng của người bị tuyên bố là đã chết đã kết hôn với người khác thì việc kết hôn đó vẫn có hiệu lực pháp luật"}
+{"instruction": "Nhận định nào sau đây là sai?", "input": "", "output": "Pháp nhân chấm dứt tồn tại từ thời điểm bị tuyên bố phá sản"}
+{"instruction": "Những nhận định nào sau đây đúng?", "input": "", "output": "Giấy tờ có giá, quyền tài sản là tài sản"}
+{"instruction": "Nhận định nào sau đây là sai?", "input": "", "output": "A & B"}
+{"instruction": "Giao dịch dân sự có thể được lập bằng?", "input": "", "output": "A & B"}
+{"instruction": "Giao dịch dân sự có nội dung không rõ ràng, khó hiểu, được hiểu theo nhiều nghĩa khác nhau thì việc giải thích giao dịch dân sự đó có thể được thực hiện theo:", "input": "", "output": "Theo ý chí đích thực của các bên khi xác lập giao dịch"}
+{"instruction": "Một trong những hậu quả pháp lý của giao dịch dân sự vô hiệu là?", "input": "", "output": "Bên Ngay tình trong việc thu hoa lợi, lợi tức không phải hoàn trả lại hoa lợi, lợi tức đó"}
+{"instruction": "Định nghĩa nào sau đây là đúng?", "input": "", "output": "Thời hạn là một khoảng thời gian được xác định từ thời điểm này đến thời điểm khác"}
+{"instruction": "Theo Điều 26 Luật Giáo dục, học sinh vào lớp 6 phải?", "input": "", "output": "Hoàn thành chương trình tiểu học có tuổi là 11 tuổi"}
+{"instruction": "Theo Điều 26 Luật Giáo dục, giáo dục THCS phải thực hiện trong mấy năm học?", "input": "", "output": "4"}
+{"instruction": "Theo Điều 26 Luật Giáo dục, học sinh vào lớp 10 phải?", "input": "", "output": "Có bằng tốt nghiệp trung học cơ sở có tuổi là 15 tuổi"}
+{"instruction": "Theo Điều 26 Luật Giáo dục, giáo dục THPT được thực hiện trong mấy năm?", "input": "", "output": "3"}
+{"instruction": "Theo Điều 26 Luật Giáo dục, cơ quan nào quy định những trường hợp có thể học trước tuổi đối với học sinh phát triển sớm về trí tuệ học ở tuổi cao hơn tuổi quy định đối với học sinh ở những vùng có điều kiện kinh tế xã hội khó khăn, học sinh người dân tộc thiểu số, học sinh bị tàn tật, khuyết tật, học sinh kém phát triển về thể lực và trí tuệ học sinh mồ côi không nơi nương tựa, học sinh trong hộ diện đói nghèo theo quy định của Nhà nước học sinh ở nước ngoài về nước những trường hợp học sinh học vượt lớp học lưu ban, việc học tiếng Việt của trẻ em người dân tộc thiểu số trước khi vào học lớp 1?", "input": "", "output": "Bộ trưởng Bộ Giáo dục và Đào tạo"}
+{"instruction": "Theo Điều 26 Luật Giáo dục, giáo dục trung học phổ thông được thực hiện trong mấy năm?", "input": "", "output": "4"}
+{"instruction": "Luật Giáo dục năm 2005, quy định nhà giáo phải có tiêu chuẩn nào sau đây?", "input": "", "output": "Tất cả các phương án trên"}
+{"instruction": "Theo quy định của Luật Giáo dục năm 2005 trình độ chuẩn của giáo viên trung học cơ sở?", "input": "", "output": "Cao đẳng sư phạm hoặc cao đẳng"}
+{"instruction": "Theo Điều 77 QĐ của Luật Giáo dục năm 2005, Bằng tốt nghiệp cao đẳng sư phạm là trình độ chuẩn được đào tạo của giáo viên?", "input": "", "output": "Trung học cơ sở"}
+{"instruction": "Điền từ vào chỗ trống được sử dụng trong Điều 71 Luật Giáo dục năm 2005, Giáo sư, phó giáo sư là chức danh của nhà giáo đang giảng dạy ở cơ sở ………….?", "input": "", "output": "Giáo dục đại học"}
+{"instruction": "Theo Điều 71 Luật Giáo dục năm 2005. Cơ quan nào quy định tiêu chuẩn, thủ tục bổ nhiệm, miễn nhiệm chức danh giáo sư, phó giáo sư?", "input": "", "output": "Thủ tướng Chính phủ"}
+{"instruction": "Theo Điều 70 Luật Giáo dục 2009 giáo viên là?", "input": "", "output": "Cả ba đáp án trên"}
+{"instruction": "Đại hội đại biểu toàn quốc Đảng Cộng sản Việt Nam lần thứ VI đưa ra đường lối đổi mới về kinh tế, được tổ chức năm:", "input": "", "output": "1986"}
+{"instruction": "Bộ luật kinh doanh được Quốc hội nước CHXHCN Việt Nam thông qua năm:", "input": "", "output": "Cả A, B và C đều sai"}
+{"instruction": "Có hai phương pháp điều chỉnh trong Luật kinh doanh:", "input": "", "output": "Phương pháp mệnh lệnh và phương pháp bình đẳng tự nguyện"}
+{"instruction": "Ngành luật kinh tế trong thời kỳ kinh tế kế hoạch hóa tập trung ở Việt Nam sử dụng phương pháp điều chỉnh chủ yếu là:", "input": "", "output": "Phương pháp mệnh lệnh"}
+{"instruction": "Cơ quan thuế đặt may đồng phục cho nhân viên ngành thuế tại doanh nghiệp dệt may do mình quản lý thuế. Trong quan hệ pháp luật này, phương pháp điều chỉnh được sử dụng là:", "input": "", "output": "Phương pháp bình đẳng tự nguyện"}
+{"instruction": "Theo quy định của pháp luật hiện hành, Luật kinh doanh điều chỉnh:", "input": "", "output": "Các quan hệ trong lĩnh vực kinh tế"}
+{"instruction": "Đặc điểm của nền kinh tế thị trường:", "input": "", "output": "Cả A, B và C đều đúng"}
+{"instruction": "Nền kinh tế thị trường theo nghĩa văn minh có đặc điểm:", "input": "", "output": "Cả A, B và C đều đúng"}
+{"instruction": "Dấu hiệu xác định chủ thể của luật kinh doanh:", "input": "", "output": "Thực hiện hoạt động sản xuất kinh doanh với mục tiêu lợi nhuận"}
+{"instruction": "Nguyên tắc bình đẳng trong luật kinh doanh:", "input": "", "output": "Bình đẳng khi tham gia vào các quan hệ kinh tế không phụ thuộc chế độ sở hữu, cấp quản lý và quy mô kinh doanh"}
+{"instruction": "Một trong các vai trò của luật kinh doanh là:", "input": "", "output": "Quy định những vấn đề tài phán trong kinh doanh"}
+{"instruction": "Văn bản có giá trị pháp lý cao nhất trong hệ thống văn bản quy phạm pháp luật về kinh doanh:", "input": "", "output": "Hiến pháp Việt Nam năm 2013"}
+{"instruction": "Trong điều kiện nền kinh tế thị trường, nhiệm vụ của Luật kinh doanh là:", "input": "", "output": "Cả A, B và C đều đúng"}
+{"instruction": "Qua tác phẩm Chiếc thuyền ngoài xa, Nguyễn Minh Châu muốn gửi gắm bài học gì?", "input": "", "output": "Cần nhìn nhận cuộc sống và con người một cách đa diện, nhiều chiều, phát hiện ra bản chất thật sau vẻ đẹp bên ngoài của hiện tượng"}
+{"instruction": "Chọn từ viết đúng chính tả trong các từ sau:", "input": "", "output": "Mải mê"}
+{"instruction": "Chọn từ viết đúng chính tả để điền vào chỗ trống trong câu sau: “Tôi nghe........rằng chú Long đã âm\nthầm........rồi.”", "input": "", "output": "Phong thanh, trở về"}
+{"instruction": "Từ nào bị dùng sai trong câu sau: “Trên nền cỏ xanh xanh điểm xuyến những bông hoa chăng chắng.”", "input": "", "output": "Cả B và C"}
+{"instruction": "Các từ “luộc khoai, đạp xe, rán bánh, nướng bánh” thuộc nhóm từ nào?", "input": "", "output": "Từ ghép chính phụ"}
+{"instruction": "“Anh ấy được khen thưởng hai lần trong năm nay: một lần vào tháng ba, một lần vào miền Bắc” Đây là câu:", "input": "", "output": "Sai logic"}
+{"instruction": "“Chúng được mẹ cho bú sữa, bồng ẵm, dỗ dành, tắm giặt, ru ngủ, cho ăn uống, chăm sóc rất nhiều khi lâu”. Ngoài ra, những đứa trẻ thường là thích bắt chước người khác thông qua những hành động của người gần gũi nhất chủ yếu là người mẹ. Chính người phụ nữ là người chăm sóc và giáo dục con cái chủ yếu trong gia đình”\n(Trần Thanh Thảo)\nNhận xét về cách thức trình bày đoạn văn:", "input": "", "output": "Đoạn văn quy nạp"}
+{"instruction": "Sau bao năm bươn chải nơi đất khách quê người, cuối cùng lão lại trở về với hai bàn tay trắng.\nTrong câu văn trên, từ “trắng” được dùng với ý nghĩa gì?", "input": "", "output": "Hoàn toàn không có hoặc không còn gì cả"}
+{"instruction": "Trong các câu sau:\nI. Anh ấy bị hai vết thương: một vết thương ở đùi, một vết ở Quảng Trị.\nII.Mặc dù trong những năm qua công ty xuất nhập khẩu của tỉnh đã có rất nhiều giải pháp cứu vãn tình thế nhưng tình hình vẫn không được cải thiện.\nIII. Trong lúc lúng túng, tôi không biết xử trí ra sao.\nIV.  Ông đã dùng cả thuốc tiêm lẫn thuốc kháng sinh nên vẫn không khỏi bệnh. Những câu nào mắc lỗi:", "input": "", "output": "I và IV"}
+{"instruction": "Phần gạch chân trong câu văn: \"Nhưng còn cái này nữa mà ông sợ, có lẽ còn ghê rợn hơn cả những tiếng kia nhiều”, là thành phần nào của câu?", "input": "", "output": "Thành phần tình thái"}
+{"instruction": "Truyện An Dương Vương và Mị Châu – Trọng Thủy thể hiện nhiều mối quan hệ. Mối quan hệ nào sau đây không phải là mối quan hệ được thể hiện trong truyện?", "input": "", "output": "Mối quan hệ giữa mẹ ghẻ và con chồng"}
+{"instruction": "“Cố nhân tây từ Hoàng Hạc lâu,/Yên ba tam nguyệt há Dương Châu./Cô phàm viễn ảnh bích không tận,/Duy kiến trường giang thiên tế lưu.” (Hoàng Hạc lâu tống Mạnh Hạo Nhiên chi Quảng Lăng – Lý Bạch)\nĐoạn thơ được viết theo thể thơ:", "input": "", "output": "Thất Ngôn tứ tuyệt Đường luật"}
+{"instruction": "Đoạn văn: “Cô bé bên nhà hàng xóm đã quen với công việc này. Nó lễ phép hỏi Nhĩ: “Bác cần nằm xuống phải không ạ?” (Nguyễn Minh Châu, Bến quê) đã sử dụng phép liên kết nào?", "input": "", "output": "Phép thế"}
+{"instruction": "Điền vào chỗ trống trong câu thơ: “Nhà em có một giàn giầu, / Nhà anh có một … liên phòng” (Tương tư– Nguyễn Bính)", "input": "", "output": "Hàng cau"}
